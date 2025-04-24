@@ -387,9 +387,6 @@ class InternshipScraper:
             f"*Last updated: {datetime.datetime.now().strftime('%Y-%m-%d')}*\n\n"
         )
         readme_content += "This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.\n\n"
-        readme_content += "* Does NOT offer Sponsorship\n"
-        readme_content += "* us - Requires U.S. Citizenship\n"
-        readme_content += "* Internship application is closed\n\n"
 
         readme_content += "| Company | Role | Location | Application | Date Posted |\n"
         readme_content += "|---------|------|----------|-------------|------------|\n"
