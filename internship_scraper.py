@@ -143,15 +143,15 @@ class InternshipScraper:
                     date_posted = date_elem.get('datetime') if date_elem else datetime.datetime.now().strftime('%Y-%m-%d')
                     
                     # Filter specifically for Spring 2026 internships
-            title_lower = title.lower()
-            if "intern" in title_lower and "2026" in title_lower and any(term in title_lower for term in ["spring", "january", "february", "jan", "feb"]):
-                internships.append({
-                    'company': company,
-                    'title': title,
-                    'location': location,
-                    'date_posted': date_posted,
-                    'source': 'LinkedIn'
-                })
+                    title_lower = title.lower()
+                    if "intern" in title_lower and "2026" in title_lower and any(term in title_lower for term in ["spring", "january", "february", "jan", "feb"]):
+                        internships.append({
+                            'company': company,
+                            'title': title,
+                            'location': location,
+                            'date_posted': date_posted,
+                            'source': 'LinkedIn'
+                        })
             except Exception as e:
                 print(f"Error parsing LinkedIn job: {e}")
         
@@ -187,15 +187,15 @@ class InternshipScraper:
                         date_posted = today.strftime('%Y-%m-%d')
                     
                     # Filter specifically for Spring 2026 internships
-            title_lower = title.lower()
-            if "intern" in title_lower and "2026" in title_lower and any(term in title_lower for term in ["spring", "january", "february", "jan", "feb"]):
-                internships.append({
-                    'company': company,
-                    'title': title,
-                    'location': location,
-                    'date_posted': date_posted,
-                    'source': 'Indeed'
-                })
+                    title_lower = title.lower()
+                    if "intern" in title_lower and "2026" in title_lower and any(term in title_lower for term in ["spring", "january", "february", "jan", "feb"]):
+                        internships.append({
+                            'company': company,
+                            'title': title,
+                            'location': location,
+                            'date_posted': date_posted,
+                            'source': 'Indeed'
+                        })
             except Exception as e:
                 print(f"Error parsing Indeed job: {e}")
         
@@ -220,15 +220,15 @@ class InternshipScraper:
                     date_posted = datetime.datetime.now().strftime('%Y-%m-%d')  # Glassdoor doesn't always show posting date
                     
                     # Filter specifically for Spring 2026 internships
-            title_lower = title.lower()
-            if "intern" in title_lower and "2026" in title_lower and any(term in title_lower for term in ["spring", "january", "february", "jan", "feb"]):
-                internships.append({
-                    'company': company,
-                    'title': title,
-                    'location': location,
-                    'date_posted': date_posted,
-                    'source': 'Glassdoor'
-                })
+                    title_lower = title.lower()
+                    if "intern" in title_lower and "2026" in title_lower and any(term in title_lower for term in ["spring", "january", "february", "jan", "feb"]):
+                        internships.append({
+                            'company': company,
+                            'title': title,
+                            'location': location,
+                            'date_posted': date_posted,
+                            'source': 'Glassdoor'
+                        })
             except Exception as e:
                 print(f"Error parsing Glassdoor job: {e}")
         
