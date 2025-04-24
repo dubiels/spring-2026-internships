@@ -36,6 +36,41 @@ class InternshipScraper:
             'public relations', 'operations', 'logistics', 'supply chain'
         ]
         
+        # Default application URLs for companies
+        self.company_career_urls = {
+            'Google': 'https://careers.google.com/jobs/results/?distance=50&q=Software%20Engineering%20Intern',
+            'Microsoft': 'https://careers.microsoft.com/students/us/en/search-results?keywords=intern',
+            'Amazon': 'https://www.amazon.jobs/en/job_categories/software-development',
+            'Apple': 'https://www.apple.com/careers/us/students.html',
+            'Meta': 'https://www.metacareers.com/jobs?roles[0]=intern',
+            'Netflix': 'https://jobs.netflix.com/search',
+            'IBM': 'https://www.ibm.com/careers/us-en/search/?filters=student',
+            'Adobe': 'https://www.adobe.com/careers/university.html',
+            'Oracle': 'https://www.oracle.com/careers/students-graduates/',
+            'Salesforce': 'https://www.salesforce.com/company/careers/university-recruiting/',
+            'Uber': 'https://www.uber.com/us/en/careers/students/',
+            'Twitter': 'https://careers.twitter.com/en/early-career.html',
+            'LinkedIn': 'https://careers.linkedin.com/students-and-grads',
+            'PayPal': 'https://www.paypal.com/us/webapps/mpp/jobs/students',
+            'Intel': 'https://www.intel.com/content/www/us/en/jobs/student-jobs.html',
+            'Nvidia': 'https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/',
+            'AMD': 'https://www.amd.com/en/corporate/careers/university',
+            'Cisco': 'https://www.cisco.com/c/en/us/about/careers/working-at-cisco/students-and-new-graduate-programs.html',
+            'Spotify': 'https://www.lifeatspotify.com/students',
+            'Snapchat': 'https://careers.snap.com/student',
+            'Airbnb': 'https://careers.airbnb.com',
+            'Square': 'https://careers.block.xyz/students',
+            'Stripe': 'https://stripe.com/jobs/listing/university-grad-software-engineer/4642372',
+            'Intuit': 'https://www.intuit.com/careers/programs/students-and-grads/',
+            'Bloomberg': 'https://www.bloomberg.com/company/early-career/',
+            'Dropbox': 'https://www.dropbox.com/jobs/teams/eng_university_grad',
+            'Zillow': 'https://www.zillow.com/careers/university/',
+            'Dell': 'https://jobs.dell.com/students',
+            'HP': 'https://jobs.hp.com/en-us/students-graduates',
+            'VMware': 'https://careers.vmware.com/university',
+            'Twitch': 'https://www.twitch.tv/jobs/en/students/'
+        }
+        
         # Job search sites to scrape
         self.search_sites = [
             {
@@ -87,6 +122,10 @@ class InternshipScraper:
         # Load existing internships from GitHub if available - do this last so we can filter them
         self.internships = self.load_and_filter_existing_data()
     
+    def get_career_link(self, company_name):
+        """Get a career page link for a company or return a generic link"""
+        return self.company_career_urls.get(company_name, f"https://www.google.com/search?q={company_name.replace(' ', '+')}+careers+internships")
+    
     def load_and_filter_existing_data(self):
         """Load existing internship data from GitHub if available and filter out non-tech roles"""
         try:
@@ -102,9 +141,10 @@ class InternshipScraper:
                 if 'title' not in job:
                     continue
                 
-                # Add apply_link field if missing
-                if 'apply_link' not in job:
-                    job['apply_link'] = "#"
+                # Add apply_link field if missing or if it's # or empty
+                if 'apply_link' not in job or job['apply_link'] == '#' or not job['apply_link']:
+                    company_name = job.get('company', '')
+                    job['apply_link'] = self.get_career_link(company_name)
                     
                 # Only keep tech roles
                 if self.is_tech_role(job['title']):
@@ -171,7 +211,12 @@ class InternshipScraper:
                     company = company_elem.text.strip()
                     location = location_elem.text.strip() if location_elem else "Remote/Not specified"
                     date_posted = date_elem.get('datetime') if date_elem else datetime.datetime.now().strftime('%Y-%m-%d')
-                    apply_link = apply_link_elem.get('href') if apply_link_elem else "#"
+                    
+                    # Get application link or use company career page as fallback
+                    if apply_link_elem and apply_link_elem.get('href'):
+                        apply_link = apply_link_elem.get('href')
+                    else:
+                        apply_link = self.get_career_link(company)
                     
                     # Filter for Spring 2026 tech internships
                     title_lower = title.lower()
@@ -210,7 +255,12 @@ class InternshipScraper:
                     company = company_elem.text.strip()
                     location = location_elem.text.strip() if location_elem else "Remote/Not specified"
                     date_raw = date_elem.text.strip() if date_elem else "Just posted"
-                    apply_link = "https://indeed.com" + apply_link_elem.get('href') if apply_link_elem and apply_link_elem.get('href') else "#"
+                    
+                    # Get application link or use company career page as fallback
+                    if apply_link_elem and apply_link_elem.get('href'):
+                        apply_link = "https://indeed.com" + apply_link_elem.get('href')
+                    else:
+                        apply_link = self.get_career_link(company)
                     
                     # Convert relative date to absolute date
                     today = datetime.datetime.now()
@@ -258,7 +308,12 @@ class InternshipScraper:
                     company = company_elem.text.strip()
                     location = location_elem.text.strip() if location_elem else "Remote/Not specified"
                     date_posted = datetime.datetime.now().strftime('%Y-%m-%d')  # Glassdoor doesn't always show posting date
-                    apply_link = "https://www.glassdoor.com" + apply_link_elem.get('href') if apply_link_elem and apply_link_elem.get('href') else "#"
+                    
+                    # Get application link or use company career page as fallback
+                    if apply_link_elem and apply_link_elem.get('href'):
+                        apply_link = "https://www.glassdoor.com" + apply_link_elem.get('href')
+                    else:
+                        apply_link = self.get_career_link(company)
                     
                     # Filter for Spring 2026 tech internships
                     title_lower = title.lower()
@@ -314,7 +369,12 @@ class InternshipScraper:
         
         for job in sorted_internships:
             # Safely check for apply_link field
-            apply_link = job.get('apply_link', '#')
+            apply_link = job.get('apply_link', '')
+            
+            # Never use # as a link - always use a real URL or empty string
+            if not apply_link or apply_link == '#':
+                apply_link = self.get_career_link(job['company'])
+            
             apply_button = f"[Apply]({apply_link})"
             readme_content += f"| {job['company']} | {job['title']} | {job['location']} | {apply_button} | {job['date_posted']} |\n"
         
