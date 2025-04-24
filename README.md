@@ -4,10 +4,6 @@
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
-* Does NOT offer Sponsorship
-* us - Requires U.S. Citizenship
-* Internship application is closed
-
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
 | Simpson Gumpertz & Heger (SGH) | Technical Internship, Building Technology (Spring/Summer 2026) | Washington, DC | [Apply](https://www.google.com/search?q=Simpson+Gumpertz+&+Heger+(SGH)+careers+internships) | 2025-04-24 |
