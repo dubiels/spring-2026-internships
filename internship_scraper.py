@@ -21,38 +21,44 @@ class InternshipScraper:
         # Load existing internships from GitHub if available
         self.internships = self.load_existing_data()
         
-        # Tech keywords for filtering
+        # Tech keywords for strict filtering
         self.tech_keywords = [
             'software', 'developer', 'programming', 'coding', 'engineer', 
-            'engineering', 'data', 'machine learning', 'ml', 'ai', 
-            'artificial intelligence', 'computer', 'cyber', 'security',
-            'devops', 'cloud', 'frontend', 'backend', 'full stack', 'fullstack',
-            'web', 'mobile', 'app', 'application', 'systems', 'network',
-            'it', 'information technology', 'tech', 'technical', 'database', 
-            'swe', 'infrastructure', 'qa', 'quality assurance', 'testing',
-            'automation', 'product', 'development', 'platform'
+            'backend', 'frontend', 'full stack', 'fullstack', 'web dev',
+            'devops', 'cloud', 'cyber', 'security', 'machine learning',
+            'data science', 'artificial intelligence', 'ai', 'ml',
+            'mobile', 'application', 'systems', 'network',
+            'IT', 'tech', 'computer', 'SWE', 'development',
+            'QA engineer', 'test engineer', 'technical'
+        ]
+        
+        # Non-tech keywords to explicitly exclude
+        self.non_tech_keywords = [
+            'accounting', 'finance', 'tax', 'audit', 'business', 'marketing',
+            'sales', 'hr', 'human resources', 'legal', 'law', 'communications',
+            'public relations', 'operations', 'logistics', 'supply chain'
         ]
         
         # Job search sites to scrape
         self.search_sites = [
             {
                 'name': 'LinkedIn',
-                'url': 'https://www.linkedin.com/jobs/search/?keywords=spring%202026%20software%20internship',
+                'url': 'https://www.linkedin.com/jobs/search/?keywords=spring%202026%20software%20engineering%20internship',
                 'parser': self.parse_linkedin
             },
             {
                 'name': 'LinkedIn Software',
-                'url': 'https://www.linkedin.com/jobs/search/?keywords=spring%202026%20engineering%20internship',
+                'url': 'https://www.linkedin.com/jobs/search/?keywords=spring%202026%20software%20developer%20internship',
                 'parser': self.parse_linkedin
             },
             {
-                'name': 'LinkedIn Cyber',
-                'url': 'https://www.linkedin.com/jobs/search/?keywords=spring%202026%20cybersecurity%20internship',
+                'name': 'LinkedIn Tech',
+                'url': 'https://www.linkedin.com/jobs/search/?keywords=spring%202026%20tech%20internship',
                 'parser': self.parse_linkedin
             },
             {
-                'name': 'LinkedIn Data',
-                'url': 'https://www.linkedin.com/jobs/search/?keywords=spring%202026%20data%20internship',
+                'name': 'LinkedIn SWE',
+                'url': 'https://www.linkedin.com/jobs/search/?keywords=spring%202026%20swe%20internship',
                 'parser': self.parse_linkedin
             },
             {
@@ -68,11 +74,6 @@ class InternshipScraper:
             {
                 'name': 'Glassdoor',
                 'url': 'https://www.glassdoor.com/Job/software-engineer-spring-2026-internship-jobs-SRCH_KO0,37.htm',
-                'parser': self.parse_glassdoor
-            },
-            {
-                'name': 'Glassdoor Tech',
-                'url': 'https://www.glassdoor.com/Job/tech-spring-2026-internship-jobs-SRCH_KO0,27.htm',
                 'parser': self.parse_glassdoor
             }
         ]
@@ -123,6 +124,17 @@ class InternshipScraper:
         except Exception as e:
             print(f"Error saving data: {e}")
     
+    def is_tech_role(self, title):
+        """Determine if a job title is for a tech role using strict filtering"""
+        title_lower = title.lower()
+        
+        # Check if any non-tech keywords are present
+        if any(keyword in title_lower for keyword in self.non_tech_keywords):
+            return False
+        
+        # Check if any tech keywords are present
+        return any(keyword in title_lower for keyword in self.tech_keywords)
+    
     def parse_linkedin(self, html):
         """Parse LinkedIn job listings"""
         soup = BeautifulSoup(html, 'html.parser')
@@ -135,21 +147,26 @@ class InternshipScraper:
                 company_elem = card.find('h4', class_='base-search-card__subtitle')
                 location_elem = card.find('span', class_='job-search-card__location')
                 date_elem = card.find('time', class_='job-search-card__listdate')
+                apply_link_elem = card.find('a', class_='base-card__full-link')
                 
                 if title_elem and company_elem:
                     title = title_elem.text.strip()
                     company = company_elem.text.strip()
                     location = location_elem.text.strip() if location_elem else "Remote/Not specified"
                     date_posted = date_elem.get('datetime') if date_elem else datetime.datetime.now().strftime('%Y-%m-%d')
+                    apply_link = apply_link_elem.get('href') if apply_link_elem else "#"
                     
-                    # Filter specifically for Spring 2026 internships
+                    # Filter for Spring 2026 tech internships
                     title_lower = title.lower()
-                    if "intern" in title_lower and "2026" in title_lower and any(term in title_lower for term in ["spring", "january", "february", "jan", "feb"]):
+                    is_spring_2026 = "2026" in title_lower and any(term in title_lower for term in ["spring", "january", "february", "jan", "feb"])
+                    
+                    if "intern" in title_lower and is_spring_2026 and self.is_tech_role(title):
                         internships.append({
                             'company': company,
                             'title': title,
                             'location': location,
                             'date_posted': date_posted,
+                            'apply_link': apply_link,
                             'source': 'LinkedIn'
                         })
             except Exception as e:
@@ -169,12 +186,14 @@ class InternshipScraper:
                 company_elem = card.find('span', class_='companyName')
                 location_elem = card.find('div', class_='companyLocation')
                 date_elem = card.find('span', class_='date')
+                apply_link_elem = card.find('a', class_='jcs-JobTitle')
                 
                 if title_elem and company_elem:
                     title = title_elem.text.strip()
                     company = company_elem.text.strip()
                     location = location_elem.text.strip() if location_elem else "Remote/Not specified"
                     date_raw = date_elem.text.strip() if date_elem else "Just posted"
+                    apply_link = "https://indeed.com" + apply_link_elem.get('href') if apply_link_elem and apply_link_elem.get('href') else "#"
                     
                     # Convert relative date to absolute date
                     today = datetime.datetime.now()
@@ -186,14 +205,17 @@ class InternshipScraper:
                     else:
                         date_posted = today.strftime('%Y-%m-%d')
                     
-                    # Filter specifically for Spring 2026 internships
+                    # Filter for Spring 2026 tech internships
                     title_lower = title.lower()
-                    if "intern" in title_lower and "2026" in title_lower and any(term in title_lower for term in ["spring", "january", "february", "jan", "feb"]):
+                    is_spring_2026 = "2026" in title_lower and any(term in title_lower for term in ["spring", "january", "february", "jan", "feb"])
+                    
+                    if "intern" in title_lower and is_spring_2026 and self.is_tech_role(title):
                         internships.append({
                             'company': company,
                             'title': title,
                             'location': location,
                             'date_posted': date_posted,
+                            'apply_link': apply_link,
                             'source': 'Indeed'
                         })
             except Exception as e:
@@ -212,21 +234,26 @@ class InternshipScraper:
                 title_elem = card.find('a', class_='jobLink')
                 company_elem = card.find('div', class_='empName')
                 location_elem = card.find('span', class_='loc')
+                apply_link_elem = card.find('a', class_='jobLink')
                 
                 if title_elem and company_elem:
                     title = title_elem.text.strip()
                     company = company_elem.text.strip()
                     location = location_elem.text.strip() if location_elem else "Remote/Not specified"
                     date_posted = datetime.datetime.now().strftime('%Y-%m-%d')  # Glassdoor doesn't always show posting date
+                    apply_link = "https://www.glassdoor.com" + apply_link_elem.get('href') if apply_link_elem and apply_link_elem.get('href') else "#"
                     
-                    # Filter specifically for Spring 2026 internships
+                    # Filter for Spring 2026 tech internships
                     title_lower = title.lower()
-                    if "intern" in title_lower and "2026" in title_lower and any(term in title_lower for term in ["spring", "january", "february", "jan", "feb"]):
+                    is_spring_2026 = "2026" in title_lower and any(term in title_lower for term in ["spring", "january", "february", "jan", "feb"])
+                    
+                    if "intern" in title_lower and is_spring_2026 and self.is_tech_role(title):
                         internships.append({
                             'company': company,
                             'title': title,
                             'location': location,
                             'date_posted': date_posted,
+                            'apply_link': apply_link,
                             'source': 'Glassdoor'
                         })
             except Exception as e:
@@ -258,20 +285,20 @@ class InternshipScraper:
         )
         
         # Generate README content
-        readme_content = "# Spring 2026 Tech Internship Opportunities 🚀 🏔️\n\n"
+        readme_content = "# Spring 2026 Tech Internship Opportunities\n\n"
         readme_content += f"*Last updated: {datetime.datetime.now().strftime('%Y-%m-%d')}*\n\n"
         readme_content += "This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.\n\n"
-        readme_content += "## Legend\n\n"
-        readme_content += "* 🔵 - Does NOT offer Sponsorship\n"
+        readme_content += "* Does NOT offer Sponsorship\n"
         readme_content += "* us - Requires U.S. Citizenship\n"
-        readme_content += "* 🔒 - Internship application is closed\n\n"
-        readme_content += "| Company | Role | Location | Application/Link | Date Posted |\n"
-        readme_content += "|---------|------|----------|----------------|------------|\n"
+        readme_content += "* Internship application is closed\n\n"
+        
+        readme_content += "| Company | Role | Location | Application | Date Posted |\n"
+        readme_content += "|---------|------|----------|-------------|------------|\n"
         
         for job in sorted_internships:
-            # Add Apply button mock
-            apply_button = "Apply"
-            readme_content += f"| [{job['company']}]({job['company'].replace(' ', '')}) | {job['title']} | {job['location']} | {apply_button} | {job['date_posted']} |\n"
+            # Add Apply button with real link
+            apply_button = f"[Apply]({job['apply_link']})"
+            readme_content += f"| {job['company']} | {job['title']} | {job['location']} | {apply_button} | {job['date_posted']} |\n"
         
         # Update README on GitHub
         try:
@@ -325,6 +352,6 @@ class InternshipScraper:
         print(f"Added {added_count} new internships!")
 
 if __name__ == "__main__":
-    print("Starting Spring 2026 internship scraper...")
+    print("Starting Spring 2026 tech internship scraper...")
     scraper = InternshipScraper()
     scraper.run()
