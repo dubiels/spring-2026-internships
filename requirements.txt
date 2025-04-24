@@ -1,0 +1,4 @@
+requests>=2.25.1
+beautifulsoup4>=4.9.3
+PyGithub>=1.54.1
+fake-useragent>=0.1.11
