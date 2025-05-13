@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-05-12*
+*Last updated: 2025-05-13*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer | Spring 2026 Internship – Software at Stoke Space | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/spring-2026-internship-%E2%80%93-software-at-stoke-space-at-csi-cancer-usc-michelson-center-convergent-science-institute-in-cancer-4228546998?position=15&pageNum=0&refId=2pPmIjOO02YSLg3ktPibJA%3D%3D&trackingId=GJF8JyZWOJXZj9cytuQPrQ%3D%3D) | 2025-05-13 |
 | Simpson Gumpertz & Heger (SGH) | Technical Internship, Building Technology (Spring/Summer 2026) | Washington, DC | [Apply](https://www.google.com/search?q=Simpson+Gumpertz+&+Heger+(SGH)+careers+internships) | 2025-04-24 |
 | Packaging Corporation of America | 2026 Spring Engineering Intern/Co-Op | De Ridder, LA | [Apply](https://www.google.com/search?q=Packaging+Corporation+of+America+careers+internships) | 2025-04-17 |
 | Stoke Space | Spring 2026 Internship - Engineering | Kent, WA | [Apply](https://www.google.com/search?q=Stoke+Space+careers+internships) | 2025-04-11 |
