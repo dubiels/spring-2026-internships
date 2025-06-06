@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-06-05*
+*Last updated: 2025-06-06*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Universal Orlando Resort | Internship – Security Technology & Projects (Spring 2026) | Orlando, FL | [Apply](https://www.linkedin.com/jobs/view/internship-%E2%80%93-security-technology-projects-spring-2026-at-universal-orlando-resort-4243237294?position=1&pageNum=0&refId=fep4mmzBZV47wxAY1XHMMA%3D%3D&trackingId=RdYC1om1B%2BAqCG%2FkhFYbLg%3D%3D) | 2025-06-06 |
 | Blue Origin | Spring 2026 Electrical Systems Engineering Intern - Graduate | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/spring-2026-electrical-systems-engineering-intern-graduate-at-blue-origin-4238365637?position=1&pageNum=0&refId=%2BqHxJZLhXK2iqcHu%2FoJJGA%3D%3D&trackingId=8I4bDa8P9zEvc0hYkDaPKg%3D%3D) | 2025-06-02 |
 | Ansys | Spring & Summer 2026 Intern - Software Development - Mechanical (Bachelors) | Canonsburg, PA | [Apply](https://www.linkedin.com/jobs/view/spring-summer-2026-intern-software-development-mechanical-bachelors-at-ansys-4234066665?position=57&pageNum=0&refId=2QavFkRUDpKBPxvisHV34Q%3D%3D&trackingId=LU%2FdesA0LPNjnrtEuEf89A%3D%3D) | 2025-05-21 |
 | CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer | Spring 2026 Internship – Software at Stoke Space | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/spring-2026-internship-%E2%80%93-software-at-stoke-space-at-csi-cancer-usc-michelson-center-convergent-science-institute-in-cancer-4228546998?position=15&pageNum=0&refId=2pPmIjOO02YSLg3ktPibJA%3D%3D&trackingId=GJF8JyZWOJXZj9cytuQPrQ%3D%3D) | 2025-05-13 |
