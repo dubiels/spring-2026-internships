@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-06-23*
+*Last updated: 2025-06-24*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Ansys | Spring 2026 Intern - Software Development - Mechanical (Bachelor's) | Canonsburg, PA | [Apply](https://www.linkedin.com/jobs/view/spring-2026-intern-software-development-mechanical-bachelor-s-at-ansys-4252073669?position=42&pageNum=0&refId=cLa8Bg1HqCS2api8nte0KQ%3D%3D&trackingId=lWsY7zCABxG0tKt2cTma7A%3D%3D) | 2025-06-17 |
 | Universal Orlando Resort | Internship – Engineering, Global Attractions Programs (Spring 2026) | Orlando, FL | [Apply](https://www.linkedin.com/jobs/view/internship-%E2%80%93-engineering-global-attractions-programs-spring-2026-at-universal-orlando-resort-4243232892?position=15&pageNum=0&refId=ouG%2BMFMjLc10Zbwxg0W2Og%3D%3D&trackingId=5PH8Q%2Fx%2FutmXNvTbu65EdA%3D%3D) | 2025-06-07 |
 | Universal Orlando Resort | Internship – Security Technology & Projects (Spring 2026) | Orlando, FL | [Apply](https://www.linkedin.com/jobs/view/internship-%E2%80%93-security-technology-projects-spring-2026-at-universal-orlando-resort-4243237294?position=1&pageNum=0&refId=fep4mmzBZV47wxAY1XHMMA%3D%3D&trackingId=RdYC1om1B%2BAqCG%2FkhFYbLg%3D%3D) | 2025-06-06 |
 | Universal Creative | Internship, Universal Creative – Research & Development, Advanced Technology Interactives (Spring 2026) | Orlando, FL | [Apply](https://www.linkedin.com/jobs/view/internship-universal-creative-%E2%80%93-research-development-advanced-technology-interactives-spring-2026-at-universal-creative-4245828145?position=4&pageNum=0&refId=ouG%2BMFMjLc10Zbwxg0W2Og%3D%3D&trackingId=870L8Ucw1Gyt%2BMXkQ6kkpQ%3D%3D) | 2025-06-06 |
