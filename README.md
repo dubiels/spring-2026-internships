@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-07-18*
+*Last updated: 2025-07-19*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Blue Origin | Spring 2026 Electrical Systems Engineering Internship - Undergraduate | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/spring-2026-electrical-systems-engineering-internship-undergraduate-at-blue-origin-4238365639?position=50&pageNum=0&refId=w4Pf%2BcHQtdeISsxLSAn%2FtA%3D%3D&trackingId=hXh2YfpxeQHqOqmzpXn7xw%3D%3D) | 2025-07-19 |
 | GE Vernova | GE Vernova Power Conversion Engineering Intern/Co-Op - Spring 2026 | Imperial, PA | [Apply](https://www.linkedin.com/jobs/view/ge-vernova-power-conversion-engineering-intern-co-op-spring-2026-at-ge-vernova-4263218543?position=59&pageNum=0&refId=7lGGCddnGYcgmOhtznoaSg%3D%3D&trackingId=pKwM04aseK70AmjAl%2FMfuA%3D%3D) | 2025-07-07 |
 | NVIDIA | Performance Engineer Intern, Gaming - Winter/Spring 2026 | St Louis, MO | [Apply](https://www.linkedin.com/jobs/view/performance-engineer-intern-gaming-winter-spring-2026-at-nvidia-4260545861?position=37&pageNum=0&refId=O9tw1Vb87bmOOhrf8zUPew%3D%3D&trackingId=QUTthB3TJUkg%2Fqbhy5%2Bopw%3D%3D) | 2025-07-02 |
 | Ansys | Spring 2026 Intern - Software Development - Mechanical (Bachelor's) | Canonsburg, PA | [Apply](https://www.linkedin.com/jobs/view/spring-2026-intern-software-development-mechanical-bachelor-s-at-ansys-4252073669?position=42&pageNum=0&refId=cLa8Bg1HqCS2api8nte0KQ%3D%3D&trackingId=lWsY7zCABxG0tKt2cTma7A%3D%3D) | 2025-06-17 |
