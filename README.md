@@ -1,16 +1,18 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-07-31*
+*Last updated: 2025-08-01*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| RS&H | Civil Engineering Intern (Highway) - Spring 2026 | Orlando, FL | [Apply](https://www.linkedin.com/jobs/view/civil-engineering-intern-highway-spring-2026-at-rs-h-4278666519?position=57&pageNum=0&refId=PEFSSBNAmTfVqSIJQLOEgg%3D%3D&trackingId=lKuhtuijXf11Q8IeyJo52w%3D%3D) | 2025-08-01 |
 | Xcimer Energy Corporation | Spring Semester 2026 Internship - Computational and Software Engineering | Denver, CO | [Apply](https://www.linkedin.com/jobs/view/spring-semester-2026-internship-computational-and-software-engineering-at-xcimer-energy-corporation-4271617642?position=2&pageNum=0&refId=DyXXNUXNUD9cVGf2hYV0NQ%3D%3D&trackingId=mVnphLL2kyKlOsCWgngmZA%3D%3D) | 2025-07-23 |
 | Xcimer Energy Corporation | Spring Semester 2026 Internship - Mechanical Engineering | Denver, CO | [Apply](https://www.linkedin.com/jobs/view/spring-semester-2026-internship-mechanical-engineering-at-xcimer-energy-corporation-4271624129?position=45&pageNum=0&refId=DyXXNUXNUD9cVGf2hYV0NQ%3D%3D&trackingId=YKW%2BxWRvMe1B02mE34uESg%3D%3D) | 2025-07-23 |
 | Xcimer Energy Corporation | Spring Semester 2026 Internship - Electrical and Pulsed Power Engineering | Denver, CO | [Apply](https://www.linkedin.com/jobs/view/spring-semester-2026-internship-electrical-and-pulsed-power-engineering-at-xcimer-energy-corporation-4271624099?position=20&pageNum=0&refId=rYpGKahP3pDUQX8oetqOhg%3D%3D&trackingId=d6CoRkfGxI79gWVupmUU7A%3D%3D) | 2025-07-23 |
 | Xcimer Energy Corporation | Spring Semester 2026 Internship - Optical Engineering | Denver, CO | [Apply](https://www.linkedin.com/jobs/view/spring-semester-2026-internship-optical-engineering-at-xcimer-energy-corporation-4271617639?position=25&pageNum=0&refId=rYpGKahP3pDUQX8oetqOhg%3D%3D&trackingId=1EOZX8nIBwLCPmbs3ltf3g%3D%3D) | 2025-07-23 |
 | Blue Origin | Spring 2026 Electrical Systems Engineering Internship - Undergraduate | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/spring-2026-electrical-systems-engineering-internship-undergraduate-at-blue-origin-4238365639?position=50&pageNum=0&refId=w4Pf%2BcHQtdeISsxLSAn%2FtA%3D%3D&trackingId=hXh2YfpxeQHqOqmzpXn7xw%3D%3D) | 2025-07-19 |
+| American Honda Motor Company, Inc. | Industrial Engineering Co-op/Intern- Spring 2026 | Lincoln, AL | [Apply](https://www.linkedin.com/jobs/view/industrial-engineering-co-op-intern-spring-2026-at-american-honda-motor-company-inc-4269548001?position=60&pageNum=0&refId=PEFSSBNAmTfVqSIJQLOEgg%3D%3D&trackingId=jlDppakr21Bddx5bsRLtWw%3D%3D) | 2025-07-18 |
 | GE Vernova | GE Vernova Power Conversion Engineering Intern/Co-Op - Spring 2026 | Imperial, PA | [Apply](https://www.linkedin.com/jobs/view/ge-vernova-power-conversion-engineering-intern-co-op-spring-2026-at-ge-vernova-4263218543?position=59&pageNum=0&refId=7lGGCddnGYcgmOhtznoaSg%3D%3D&trackingId=pKwM04aseK70AmjAl%2FMfuA%3D%3D) | 2025-07-07 |
 | NVIDIA | Performance Engineer Intern, Gaming - Winter/Spring 2026 | St Louis, MO | [Apply](https://www.linkedin.com/jobs/view/performance-engineer-intern-gaming-winter-spring-2026-at-nvidia-4260545861?position=37&pageNum=0&refId=O9tw1Vb87bmOOhrf8zUPew%3D%3D&trackingId=QUTthB3TJUkg%2Fqbhy5%2Bopw%3D%3D) | 2025-07-02 |
 | Ansys | Spring 2026 Intern - Software Development - Mechanical (Bachelor's) | Canonsburg, PA | [Apply](https://www.linkedin.com/jobs/view/spring-2026-intern-software-development-mechanical-bachelor-s-at-ansys-4252073669?position=42&pageNum=0&refId=cLa8Bg1HqCS2api8nte0KQ%3D%3D&trackingId=lWsY7zCABxG0tKt2cTma7A%3D%3D) | 2025-06-17 |
