@@ -1,6 +1,6 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-08-03*
+*Last updated: 2025-08-04*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
@@ -13,6 +13,7 @@ This README is automatically updated daily with new Spring 2026 tech internship 
 | Tesla | Internship, Electrical Design Engineer, Vehicle Engineering (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-electrical-design-engineer-vehicle-engineering-winter-spring-2026-at-tesla-4278963199?position=59&pageNum=0&refId=ZHrCN9DBrYJaiUC8mb2tlQ%3D%3D&trackingId=DnqcwVPca5ptTO6zjYbIRQ%3D%3D) | 2025-08-02 |
 | Tesla | Internship, Safety Engineer, Vehicle Engineering (Winter/Spring 2026) | Fremont, CA | [Apply](https://www.linkedin.com/jobs/view/internship-safety-engineer-vehicle-engineering-winter-spring-2026-at-tesla-4278965195?position=30&pageNum=0&refId=VeqjcCxAPEZu1WnvrUrMUA%3D%3D&trackingId=yS%2BxOTdFJvORfDBZQbqrtw%3D%3D) | 2025-08-02 |
 | RS&H | Civil Engineering Intern (Highway) - Spring 2026 | Orlando, FL | [Apply](https://www.linkedin.com/jobs/view/civil-engineering-intern-highway-spring-2026-at-rs-h-4278666519?position=57&pageNum=0&refId=PEFSSBNAmTfVqSIJQLOEgg%3D%3D&trackingId=lKuhtuijXf11Q8IeyJo52w%3D%3D) | 2025-08-01 |
+| Tesla | Internship, Electrical Test Engineer, Vehicle Engineering (Winter/Spring 2026) | Fremont, CA | [Apply](https://www.linkedin.com/jobs/view/internship-electrical-test-engineer-vehicle-engineering-winter-spring-2026-at-tesla-4278957707?position=60&pageNum=0&refId=HmgOddUJ0wACRlNY22QLQw%3D%3D&trackingId=OR%2FsH%2BGojV2SnsSwINY%2FSg%3D%3D) | 2025-08-01 |
 | Xcimer Energy Corporation | Spring Semester 2026 Internship - Computational and Software Engineering | Denver, CO | [Apply](https://www.linkedin.com/jobs/view/spring-semester-2026-internship-computational-and-software-engineering-at-xcimer-energy-corporation-4271617642?position=2&pageNum=0&refId=DyXXNUXNUD9cVGf2hYV0NQ%3D%3D&trackingId=mVnphLL2kyKlOsCWgngmZA%3D%3D) | 2025-07-23 |
 | Xcimer Energy Corporation | Spring Semester 2026 Internship - Mechanical Engineering | Denver, CO | [Apply](https://www.linkedin.com/jobs/view/spring-semester-2026-internship-mechanical-engineering-at-xcimer-energy-corporation-4271624129?position=45&pageNum=0&refId=DyXXNUXNUD9cVGf2hYV0NQ%3D%3D&trackingId=YKW%2BxWRvMe1B02mE34uESg%3D%3D) | 2025-07-23 |
 | Xcimer Energy Corporation | Spring Semester 2026 Internship - Electrical and Pulsed Power Engineering | Denver, CO | [Apply](https://www.linkedin.com/jobs/view/spring-semester-2026-internship-electrical-and-pulsed-power-engineering-at-xcimer-energy-corporation-4271624099?position=20&pageNum=0&refId=rYpGKahP3pDUQX8oetqOhg%3D%3D&trackingId=d6CoRkfGxI79gWVupmUU7A%3D%3D) | 2025-07-23 |
