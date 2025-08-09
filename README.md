@@ -1,11 +1,15 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-08-08*
+*Last updated: 2025-08-09*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Tesla | Internship, Charging Distributed Systems Software Engineer, Energy Engineering (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-charging-distributed-systems-software-engineer-energy-engineering-winter-spring-2026-at-tesla-4281873772?position=15&pageNum=0&refId=eM4yaslYEKlhsb5jzerUUA%3D%3D&trackingId=%2FTivZKY5aqVSL4wt%2BCD7rw%3D%3D) | 2025-08-09 |
+| Jobs via Dice | Internship, Firmware Engineer, New Programs Engineering (Winter/Spring 2026) | Hawthorne, CA | [Apply](https://www.linkedin.com/jobs/view/internship-firmware-engineer-new-programs-engineering-winter-spring-2026-at-jobs-via-dice-4281803580?position=31&pageNum=0&refId=eM4yaslYEKlhsb5jzerUUA%3D%3D&trackingId=t0hZQ6UDrycc05U3rPbJAQ%3D%3D) | 2025-08-09 |
+| Jobs via Dice | Internship, Thermal Engineering, Aerodynamics (Winter/Spring 2026) | Fremont, CA | [Apply](https://www.linkedin.com/jobs/view/internship-thermal-engineering-aerodynamics-winter-spring-2026-at-jobs-via-dice-4281806173?position=39&pageNum=0&refId=smIoH%2BXqVxjzlqGe6WVgZA%3D%3D&trackingId=dhI0uuVngmLxIPy0zw8NQg%3D%3D) | 2025-08-09 |
+| Jobs via Dice | Internship, Aerodynamics Engineering (Winter/Spring 2026) | Hawthorne, CA | [Apply](https://www.linkedin.com/jobs/view/internship-aerodynamics-engineering-winter-spring-2026-at-jobs-via-dice-4281807141?position=40&pageNum=0&refId=smIoH%2BXqVxjzlqGe6WVgZA%3D%3D&trackingId=sy3txh0WlBfTaN%2FxH5TzGg%3D%3D) | 2025-08-09 |
 | Tesla | Internship, Software Compiler Engineer, AI Inference (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-compiler-engineer-ai-inference-winter-spring-2026-at-tesla-4281673761?position=3&pageNum=0&refId=C5SrxCXP3DlkelGClrQNRQ%3D%3D&trackingId=AlE3p0wmSaJRCGqOv%2BWDnQ%3D%3D) | 2025-08-08 |
 | Tesla | Internship, Software Integration Engineer, AI Platforms (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-integration-engineer-ai-platforms-winter-spring-2026-at-tesla-4281924083?position=6&pageNum=0&refId=C5SrxCXP3DlkelGClrQNRQ%3D%3D&trackingId=4kV5YnIphEsAZePcSweXpw%3D%3D) | 2025-08-08 |
 | Tesla | Internship, C++ Software Engineer, Systems, AI (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-c%2B%2B-software-engineer-systems-ai-winter-spring-2026-at-tesla-4281679027?position=7&pageNum=0&refId=C5SrxCXP3DlkelGClrQNRQ%3D%3D&trackingId=QhzqaSOWO%2FXxlcZXC2sB3g%3D%3D) | 2025-08-08 |
