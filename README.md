@@ -1,6 +1,6 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-08-09*
+*Last updated: 2025-08-10*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
@@ -18,6 +18,7 @@ This README is automatically updated daily with new Spring 2026 tech internship 
 | Tesla | Internship, Chassis Controls Technical Project Manager, Vehicle Firmware (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-chassis-controls-technical-project-manager-vehicle-firmware-winter-spring-2026-at-tesla-4281916977?position=51&pageNum=0&refId=C5SrxCXP3DlkelGClrQNRQ%3D%3D&trackingId=8z3Zn1WWDaeBysOgi2Fjow%3D%3D) | 2025-08-08 |
 | Jobs via Dice | Internship, Architecture & Structural Engineer, Infrastructure (Winter/Spring 2026) | Austin, TX | [Apply](https://www.linkedin.com/jobs/view/internship-architecture-structural-engineer-infrastructure-winter-spring-2026-at-jobs-via-dice-4281302914?position=4&pageNum=0&refId=Gn7uTmhKK5GZ8pAbscQSig%3D%3D&trackingId=753hN5C9T0xReg029%2Bl%2F0A%3D%3D) | 2025-08-08 |
 | Jobs via Dice | Internship, Process Engineer, Manufacturing (Winter/Spring 2026) | Fremont, CA | [Apply](https://www.linkedin.com/jobs/view/internship-process-engineer-manufacturing-winter-spring-2026-at-jobs-via-dice-4281309008?position=30&pageNum=0&refId=Gn7uTmhKK5GZ8pAbscQSig%3D%3D&trackingId=IngwbNsMqCk8SnB8gwHcNQ%3D%3D) | 2025-08-08 |
+| Sanofi | Winter, Spring 2026 Co-op-Intern– Data Science and Digital Transformation | Framingham, MA | [Apply](https://www.linkedin.com/jobs/view/winter-spring-2026-co-op-intern%E2%80%93-data-science-and-digital-transformation-at-sanofi-4263506998?position=18&pageNum=0&refId=smINIAV2TJYOKnYzzT8wmw%3D%3D&trackingId=3CCILCgvOgjI%2B5%2Fsg7OvKg%3D%3D) | 2025-08-08 |
 | Tesla | Internship, Analytics Engineering, Thermal & Chassis (Winter/Spring 2026) | Fremont, CA | [Apply](https://www.linkedin.com/jobs/view/internship-analytics-engineering-thermal-chassis-winter-spring-2026-at-tesla-4281404600?position=31&pageNum=0&refId=MDc7VeaolqsX1vzI%2BQrykg%3D%3D&trackingId=U01Hw3KChOvV0WE9jkueiw%3D%3D) | 2025-08-07 |
 | Jobs via Dice | Internship, Machine Learning Engineer, Noise Vibration Harshness Engineering (Winter/Spring 2026) | Fremont, CA | [Apply](https://www.linkedin.com/jobs/view/internship-machine-learning-engineer-noise-vibration-harshness-engineering-winter-spring-2026-at-jobs-via-dice-4281107234?position=33&pageNum=0&refId=MDc7VeaolqsX1vzI%2BQrykg%3D%3D&trackingId=GYjf3CgTng963%2FD37EQdCg%3D%3D) | 2025-08-07 |
 | Jobs via Dice | Internship, Data Engineer, Cell Engineering (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-data-engineer-cell-engineering-winter-spring-2026-at-jobs-via-dice-4281102712?position=36&pageNum=0&refId=MDc7VeaolqsX1vzI%2BQrykg%3D%3D&trackingId=TaK7%2FVyyH1%2BGAv5QhKhWUQ%3D%3D) | 2025-08-07 |
