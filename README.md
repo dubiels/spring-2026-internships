@@ -1,11 +1,17 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-08-11*
+*Last updated: 2025-08-12*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Tesla | Internship, Mobile Software Engineer, Diagnostics (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-mobile-software-engineer-diagnostics-winter-spring-2026-at-tesla-4283702824?position=9&pageNum=0&refId=KDuOSMtu2MNs2q%2BIOvNUqw%3D%3D&trackingId=ueVcuKmx9yEYYO2bp6CJhA%3D%3D) | 2025-08-12 |
+| Tesla | Internship, Data Engineer, Fleet Analytics (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-data-engineer-fleet-analytics-winter-spring-2026-at-tesla-4283703710?position=28&pageNum=0&refId=KDuOSMtu2MNs2q%2BIOvNUqw%3D%3D&trackingId=zHw3rWwWVU8dWtP%2Fle94kg%3D%3D) | 2025-08-12 |
+| Jobs via Dice | Internship, Charging Distributed Systems Software Engineer, Energy Engineering (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-charging-distributed-systems-software-engineer-energy-engineering-winter-spring-2026-at-jobs-via-dice-4283020707?position=34&pageNum=0&refId=KDuOSMtu2MNs2q%2BIOvNUqw%3D%3D&trackingId=iRdmai7m7bAeq4IAPjb5aA%3D%3D) | 2025-08-12 |
+| Tesla | Internship, Creative Technologist, Vehicle User Interface (Winter/Spring 2026) | Hawthorne, CA | [Apply](https://www.linkedin.com/jobs/view/internship-creative-technologist-vehicle-user-interface-winter-spring-2026-at-tesla-4283701834?position=41&pageNum=0&refId=KDuOSMtu2MNs2q%2BIOvNUqw%3D%3D&trackingId=sXy0ttnawDUNxvDLma9K8g%3D%3D) | 2025-08-12 |
+| Jobs via Dice | Internship, Power Electronics Mechanical Engineer, Energy Engineering (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-power-electronics-mechanical-engineer-energy-engineering-winter-spring-2026-at-jobs-via-dice-4283019851?position=28&pageNum=0&refId=MauqEiqCetXeaAg2iBz79g%3D%3D&trackingId=VN3AuIAQUs2viO1uDzTsnw%3D%3D) | 2025-08-12 |
+| Capital One | Former Discover Intern, Technology Development Program Associate - February 2026 | Plano, TX | [Apply](https://www.linkedin.com/jobs/view/former-discover-intern-technology-development-program-associate-february-2026-at-capital-one-4283349108?position=19&pageNum=0&refId=ALCg2GtBr3vALJFMIVhPsw%3D%3D&trackingId=ZJNDRltL1Jx4m1xfbteDDA%3D%3D) | 2025-08-12 |
 | Jobs via Dice | Internship, Software Compiler Engineer, AI Inference (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-compiler-engineer-ai-inference-winter-spring-2026-at-jobs-via-dice-4282447664?position=9&pageNum=0&refId=wiCbPBO7EU8D5XCWHphBbw%3D%3D&trackingId=PLwOt2yN4RL6GJY2xMGMjA%3D%3D) | 2025-08-11 |
 | Jobs via Dice | Internship, C++ Software Engineer, Systems, AI (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-c%2B%2B-software-engineer-systems-ai-winter-spring-2026-at-jobs-via-dice-4282452147?position=17&pageNum=0&refId=wiCbPBO7EU8D5XCWHphBbw%3D%3D&trackingId=Sjf5WwmYFxb%2BgyvWzsI2xQ%3D%3D) | 2025-08-11 |
 | Jobs via Dice | Internship, Software Integration Engineer, AI Platforms (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-integration-engineer-ai-platforms-winter-spring-2026-at-jobs-via-dice-4282450499?position=19&pageNum=0&refId=wiCbPBO7EU8D5XCWHphBbw%3D%3D&trackingId=%2FDpOVSnrf8yT3ou6LLUfMA%3D%3D) | 2025-08-11 |
