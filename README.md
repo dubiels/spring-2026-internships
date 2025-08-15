@@ -1,11 +1,17 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-08-14*
+*Last updated: 2025-08-15*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Tesla | Internship, Software Engineer, Update Systems (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineer-update-systems-winter-spring-2026-at-tesla-4286660021?position=12&pageNum=0&refId=1yL3xtIEoPl%2FuxJm0XVeFg%3D%3D&trackingId=Of%2FkoKCptfHordekdUbSyQ%3D%3D) | 2025-08-15 |
+| Tesla | Internship, Embedded Software Engineer, Firmware Platforms (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-embedded-software-engineer-firmware-platforms-winter-spring-2026-at-tesla-4286655684?position=13&pageNum=0&refId=1yL3xtIEoPl%2FuxJm0XVeFg%3D%3D&trackingId=Z6j8St7Moh8y4RmcS5SkGw%3D%3D) | 2025-08-15 |
+| Tesla | Internship, System Software Engineer, System Software (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-system-software-engineer-system-software-winter-spring-2026-at-tesla-4286653821?position=17&pageNum=0&refId=1yL3xtIEoPl%2FuxJm0XVeFg%3D%3D&trackingId=Pgm3vQTuIvgFtsDn9NzQQQ%3D%3D) | 2025-08-15 |
+| Formlabs | Embedded Software Intern (Winter/Spring 2026) | Somerville, MA | [Apply](https://www.linkedin.com/jobs/view/embedded-software-intern-winter-spring-2026-at-formlabs-4286416681?position=22&pageNum=0&refId=1yL3xtIEoPl%2FuxJm0XVeFg%3D%3D&trackingId=2WBVOJZm7kdS6QzD07hG4w%3D%3D) | 2025-08-15 |
+| Tesla | Internship, Software Engineer, Linux Update Systems (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineer-linux-update-systems-winter-spring-2026-at-tesla-4286654716?position=24&pageNum=0&refId=1yL3xtIEoPl%2FuxJm0XVeFg%3D%3D&trackingId=TZ7a4vZpTzNVPkVJP1D44Q%3D%3D) | 2025-08-15 |
+| Tesla | Internship, Controls & Software Automation Engineer, Cell Manufacturing (Spring 2026) | Austin, TX | [Apply](https://www.linkedin.com/jobs/view/internship-controls-software-automation-engineer-cell-manufacturing-spring-2026-at-tesla-4286221277?position=48&pageNum=0&refId=1yL3xtIEoPl%2FuxJm0XVeFg%3D%3D&trackingId=ZUuQBFcVKvJlMTWnVKHHQg%3D%3D) | 2025-08-15 |
 | Space Kinetic Corp. | Internship- Software Engineering (Spring 2026) | El Segundo, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineering-spring-2026-at-space-kinetic-corp-4284520410?position=1&pageNum=0&refId=rJ%2BtCTia4NV04YmXjJc1jg%3D%3D&trackingId=Skd%2B%2B7RlWjRad9G9cx%2FLwQ%3D%3D) | 2025-08-14 |
 | Tesla | Internship, UI Developer, Vehicle Firmware (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-ui-developer-vehicle-firmware-winter-spring-2026-at-tesla-4285232994?position=30&pageNum=0&refId=rJ%2BtCTia4NV04YmXjJc1jg%3D%3D&trackingId=37%2BT5PxW9iEQ8yk2AvU3Pg%3D%3D) | 2025-08-14 |
 | Tesla | Internship, Software QA Engineer, Vehicle Software (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-qa-engineer-vehicle-software-winter-spring-2026-at-tesla-4285235623?position=31&pageNum=0&refId=rJ%2BtCTia4NV04YmXjJc1jg%3D%3D&trackingId=FIPoPyGOv8eZA2VhrjqV7Q%3D%3D) | 2025-08-14 |
