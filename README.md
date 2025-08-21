@@ -1,11 +1,15 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-08-20*
+*Last updated: 2025-08-21*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Tesla | Internship, Software Engineer, Energy Engineering (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineer-energy-engineering-winter-spring-2026-at-tesla-4289116191?position=16&pageNum=0&refId=qJaMHlhmrh95gbEu1ZDIGg%3D%3D&trackingId=OIXndMSGKHm4wmwisbQmIA%3D%3D) | 2025-08-21 |
+| Tesla | Internship, Software Machine Learning Engineer, Reliability Energy Engineering (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-machine-learning-engineer-reliability-energy-engineering-winter-spring-2026-at-tesla-4289111660?position=23&pageNum=0&refId=qJaMHlhmrh95gbEu1ZDIGg%3D%3D&trackingId=8QCouy3TkTzPkD%2BR2D4MjQ%3D%3D) | 2025-08-21 |
+| Tesla | Internship, Commercial UI Software Engineer, Energy Engineering (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-commercial-ui-software-engineer-energy-engineering-winter-spring-2026-at-tesla-4289113470?position=35&pageNum=0&refId=qJaMHlhmrh95gbEu1ZDIGg%3D%3D&trackingId=H0EGb2UQCVAgXrEtf7Gevw%3D%3D) | 2025-08-21 |
+| Zipline | Join Our Spring 2026 Internships Mailing List! | South San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/join-our-spring-2026-internships-mailing-list%21-at-zipline-4289153130?position=29&pageNum=0&refId=OXefKqO026HKpowveEY58Q%3D%3D&trackingId=WYpvVRXrC4iNTDE2qsVqWg%3D%3D) | 2025-08-21 |
 | Jobs via Dice | Internship, Embedded Software Engineer, Firmware Platforms (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-embedded-software-engineer-firmware-platforms-winter-spring-2026-at-jobs-via-dice-4287079794?position=15&pageNum=0&refId=a0e1WekEpVcpqX7Xz%2BLJvw%3D%3D&trackingId=MZP4VAUMvyYsGj299CsHpQ%3D%3D) | 2025-08-18 |
 | Jobs via Dice | Internship, Software Engineer, Update Systems (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineer-update-systems-winter-spring-2026-at-jobs-via-dice-4287084136?position=34&pageNum=0&refId=a0e1WekEpVcpqX7Xz%2BLJvw%3D%3D&trackingId=TM3l64uL%2BdCeu0FA%2F1xDCg%3D%3D) | 2025-08-18 |
 | Jobs via Dice | Internship, Software Engineer, Linux Update Systems (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineer-linux-update-systems-winter-spring-2026-at-jobs-via-dice-4287080285?position=41&pageNum=0&refId=a0e1WekEpVcpqX7Xz%2BLJvw%3D%3D&trackingId=PpDoVXYmVU95SZ1qkmesXw%3D%3D) | 2025-08-18 |
