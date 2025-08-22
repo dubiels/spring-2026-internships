@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-08-21*
+*Last updated: 2025-08-22*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Tesla | Internship, Fullstack Engineer, Build Infrastructure (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-fullstack-engineer-build-infrastructure-winter-spring-2026-at-tesla-4289360139?position=17&pageNum=0&refId=y7Q%2BbpuXpU3IthxwL4Ki2Q%3D%3D&trackingId=pwXhkXOdGkvbpVj%2FBJQl6g%3D%3D) | 2025-08-22 |
 | Tesla | Internship, Software Engineer, Energy Engineering (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineer-energy-engineering-winter-spring-2026-at-tesla-4289116191?position=16&pageNum=0&refId=qJaMHlhmrh95gbEu1ZDIGg%3D%3D&trackingId=OIXndMSGKHm4wmwisbQmIA%3D%3D) | 2025-08-21 |
 | Tesla | Internship, Software Machine Learning Engineer, Reliability Energy Engineering (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-machine-learning-engineer-reliability-energy-engineering-winter-spring-2026-at-tesla-4289111660?position=23&pageNum=0&refId=qJaMHlhmrh95gbEu1ZDIGg%3D%3D&trackingId=8QCouy3TkTzPkD%2BR2D4MjQ%3D%3D) | 2025-08-21 |
 | Tesla | Internship, Commercial UI Software Engineer, Energy Engineering (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-commercial-ui-software-engineer-energy-engineering-winter-spring-2026-at-tesla-4289113470?position=35&pageNum=0&refId=qJaMHlhmrh95gbEu1ZDIGg%3D%3D&trackingId=H0EGb2UQCVAgXrEtf7Gevw%3D%3D) | 2025-08-21 |
