@@ -1,11 +1,14 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-08-23*
+*Last updated: 2025-08-24*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Jobs via Dice | Internship, Software Engineer, Energy Engineering (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineer-energy-engineering-winter-spring-2026-at-jobs-via-dice-4290056196?position=50&pageNum=0&refId=bvjigammr3SG2mcJIua6%2Fg%3D%3D&trackingId=vdaaFPEEor8Dfkq52yXT9g%3D%3D) | 2025-08-24 |
+| Jobs via Dice | Internship, Software Machine Learning Engineer, Reliability Energy Engineering (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-machine-learning-engineer-reliability-energy-engineering-winter-spring-2026-at-jobs-via-dice-4290058120?position=53&pageNum=0&refId=bvjigammr3SG2mcJIua6%2Fg%3D%3D&trackingId=UjFN7KQMRyjR4Q%2FVue%2Bx9Q%3D%3D) | 2025-08-24 |
+| Jobs via Dice | Internship, Commercial UI Software Engineer, Energy Engineering (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-commercial-ui-software-engineer-energy-engineering-winter-spring-2026-at-jobs-via-dice-4290052773?position=56&pageNum=0&refId=as1yvA9PqbDVAxmUC89IJw%3D%3D&trackingId=LYtVeFiEMhqaYj9DuYZcqg%3D%3D) | 2025-08-24 |
 | Tesla | Internship, Embedded Software Engineer, Audio Systems (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-embedded-software-engineer-audio-systems%C2%A0-winter-spring-2026-at-tesla-4289977526?position=27&pageNum=0&refId=q%2FvxJ8OVJovJKXGXeevUiA%3D%3D&trackingId=q0UVQE53YJjkdi7FBIbPJw%3D%3D) | 2025-08-23 |
 | Tesla | Internship, Fullstack Engineer, Build Infrastructure (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-fullstack-engineer-build-infrastructure-winter-spring-2026-at-tesla-4289360139?position=17&pageNum=0&refId=y7Q%2BbpuXpU3IthxwL4Ki2Q%3D%3D&trackingId=pwXhkXOdGkvbpVj%2FBJQl6g%3D%3D) | 2025-08-22 |
 | Tesla | Internship, Software Engineer, Energy Engineering (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineer-energy-engineering-winter-spring-2026-at-tesla-4289116191?position=16&pageNum=0&refId=qJaMHlhmrh95gbEu1ZDIGg%3D%3D&trackingId=OIXndMSGKHm4wmwisbQmIA%3D%3D) | 2025-08-21 |
