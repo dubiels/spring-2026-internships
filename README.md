@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-08-24*
+*Last updated: 2025-08-25*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Jobs via Dice | Internship, Fullstack Engineer, Build Infrastructure (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-fullstack-engineer-build-infrastructure-winter-spring-2026-at-jobs-via-dice-4290171609?position=48&pageNum=0&refId=b6LhZzz5pAiUQuJX8TVKGw%3D%3D&trackingId=Rj5L%2Fm91dM9pmTRnKv%2FgMQ%3D%3D) | 2025-08-25 |
 | Jobs via Dice | Internship, Software Engineer, Energy Engineering (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineer-energy-engineering-winter-spring-2026-at-jobs-via-dice-4290056196?position=50&pageNum=0&refId=bvjigammr3SG2mcJIua6%2Fg%3D%3D&trackingId=vdaaFPEEor8Dfkq52yXT9g%3D%3D) | 2025-08-24 |
 | Jobs via Dice | Internship, Software Machine Learning Engineer, Reliability Energy Engineering (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-machine-learning-engineer-reliability-energy-engineering-winter-spring-2026-at-jobs-via-dice-4290058120?position=53&pageNum=0&refId=bvjigammr3SG2mcJIua6%2Fg%3D%3D&trackingId=UjFN7KQMRyjR4Q%2FVue%2Bx9Q%3D%3D) | 2025-08-24 |
 | Jobs via Dice | Internship, Commercial UI Software Engineer, Energy Engineering (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-commercial-ui-software-engineer-energy-engineering-winter-spring-2026-at-jobs-via-dice-4290052773?position=56&pageNum=0&refId=as1yvA9PqbDVAxmUC89IJw%3D%3D&trackingId=LYtVeFiEMhqaYj9DuYZcqg%3D%3D) | 2025-08-24 |
