@@ -1,6 +1,6 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-09-01*
+*Last updated: 2025-09-02*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
@@ -9,6 +9,7 @@ This README is automatically updated daily with new Spring 2026 tech internship 
 | Jobs via Dice | Internship, Integration Platforms Software Developer, Vehicle Firmware(Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-integration-platforms-software-developer-vehicle-firmware-winter-spring-2026-at-jobs-via-dice-4293379394?position=39&pageNum=0&refId=WlYN7TMwhQ%2Bz%2F%2BP7rUJiZg%3D%3D&trackingId=by1Fmw6b7nNN3VQQDr0N5A%3D%3D) | 2025-09-01 |
 | Jobs via Dice | Internship, Data Engineer, Energy (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-data-engineer-energy-winter-spring-2026-at-jobs-via-dice-4293374481?position=60&pageNum=0&refId=ftQ4liQFOrhebxwLKqkZnw%3D%3D&trackingId=BO85iECJTpJD4RogJbx84A%3D%3D) | 2025-09-01 |
 | Jobs via Dice | Internship, Thermal Controls Engineer, Vehicle Controls (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-thermal-controls-engineer-vehicle-controls-winter-spring-2026-at-jobs-via-dice-4293376460?position=27&pageNum=0&refId=m4h0O1kDCtuw%2F1w7K6mhuA%3D%3D&trackingId=DbLgtaLuwgdOBM8t%2BKvBvg%3D%3D) | 2025-09-01 |
+| Jobs via Dice | Internship, Thermal Event Modeling Engineer, Energy Engineering (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-thermal-event-modeling-engineer-energy-engineering-winter-spring-2026-at-jobs-via-dice-4293382109?position=27&pageNum=0&refId=K89wkxU%2Bvl3seYm9d3bsFA%3D%3D&trackingId=5BtcMBH%2BhULu7EleurlISQ%3D%3D) | 2025-08-31 |
 | Tesla | Internship, Software Engineer, Factory Software (Winter/Spring 2026) | Fremont, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineer-factory-software-winter-spring-2026-at-tesla-4293226478?position=10&pageNum=0&refId=8A0PyQjF1rBezVRlf%2BRJTA%3D%3D&trackingId=amlX5mGjFJ%2Bk42Ht%2FAeETw%3D%3D) | 2025-08-30 |
 | Jobs via Dice | Internship, Embedded System Software Engineer, Energy Engineering (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-embedded-system-software-engineer-energy-engineering-winter-spring-2026-at-jobs-via-dice-4292646202?position=42&pageNum=0&refId=8A0PyQjF1rBezVRlf%2BRJTA%3D%3D&trackingId=lGPnQ3oUckc%2F5s8U9e3i9A%3D%3D) | 2025-08-30 |
 | Jobs via Dice | Internship, Mobile Application Software Engineer, Energy Engineering (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-mobile-application-software-engineer-energy-engineering-winter-spring-2026-at-jobs-via-dice-4292651131?position=56&pageNum=0&refId=8A0PyQjF1rBezVRlf%2BRJTA%3D%3D&trackingId=iP%2FXzT6OppETOqpny1uvow%3D%3D) | 2025-08-30 |
