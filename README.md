@@ -1,13 +1,15 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-09-03*
+*Last updated: 2025-09-04*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| NimbleRx | Software Engineer Intern - Winter / Spring Session (January - April 2026) | Redwood City, CA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-winter-spring-session-january-april-2026-at-nimblerx-4295046535?position=5&pageNum=0&refId=XNu8ciVYJIndHqzxC9eXvg%3D%3D&trackingId=2fj6FnSHW0DsyfVitd9eAg%3D%3D) | 2025-09-04 |
 | Springdale Ice Cream and Beverage | Spring 2026 Software Engineering Kroger Technology & Digital Intern | Cincinnati, OH | [Apply](https://www.linkedin.com/jobs/view/spring-2026-software-engineering-kroger-technology-digital-intern-at-springdale-ice-cream-and-beverage-4294657768?position=27&pageNum=0&refId=dM5O8a2fHCSdjnI%2BCvWVzQ%3D%3D&trackingId=ibju2fmSh8L3ZCJXmX7B6A%3D%3D) | 2025-09-03 |
 | Kroger | Spring 2026 Software Engineering Kroger Technology & Digital Intern | Cincinnati, OH | [Apply](https://www.linkedin.com/jobs/view/spring-2026-software-engineering-kroger-technology-digital-intern-at-kroger-4292794753?position=53&pageNum=0&refId=dM5O8a2fHCSdjnI%2BCvWVzQ%3D%3D&trackingId=IEouKkEbDal4s97JLJpbBw%3D%3D) | 2025-09-03 |
+| Jobs via Dice | Internship, Audio Visual Technician, Applications Engineering (Winter/Spring 2026) | Fremont, CA | [Apply](https://www.linkedin.com/jobs/view/internship-audio-visual-technician-applications-engineering-winter-spring-2026-at-jobs-via-dice-4294053780?position=26&pageNum=0&refId=Dh3z5e%2FYrLbUTA8ZHyHmNg%3D%3D&trackingId=qiUqEIMw7QoLCzaZpKwI3g%3D%3D) | 2025-09-02 |
 | Jobs via Dice | Internship, Integration Platforms Software Developer, Vehicle Firmware(Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-integration-platforms-software-developer-vehicle-firmware-winter-spring-2026-at-jobs-via-dice-4293379394?position=39&pageNum=0&refId=WlYN7TMwhQ%2Bz%2F%2BP7rUJiZg%3D%3D&trackingId=by1Fmw6b7nNN3VQQDr0N5A%3D%3D) | 2025-09-01 |
 | Jobs via Dice | Internship, Data Engineer, Energy (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-data-engineer-energy-winter-spring-2026-at-jobs-via-dice-4293374481?position=60&pageNum=0&refId=ftQ4liQFOrhebxwLKqkZnw%3D%3D&trackingId=BO85iECJTpJD4RogJbx84A%3D%3D) | 2025-09-01 |
 | Jobs via Dice | Internship, Thermal Controls Engineer, Vehicle Controls (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-thermal-controls-engineer-vehicle-controls-winter-spring-2026-at-jobs-via-dice-4293376460?position=27&pageNum=0&refId=m4h0O1kDCtuw%2F1w7K6mhuA%3D%3D&trackingId=DbLgtaLuwgdOBM8t%2BKvBvg%3D%3D) | 2025-09-01 |
