@@ -1,11 +1,13 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-09-04*
+*Last updated: 2025-09-05*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Rocket Lab | Flight Software Intern Spring 2026 | Littleton, CO | [Apply](https://www.linkedin.com/jobs/view/flight-software-intern-spring-2026-at-rocket-lab-4293981064?position=26&pageNum=0&refId=HGbIq89ZhfWNc8lEtFsc0g%3D%3D&trackingId=o8gQpnMFpTwvbX7il04rnQ%3D%3D) | 2025-09-05 |
+| Jobs via Dice | Internship, Software Engineer, Factory Software (Winter/Spring 2026) | Fremont, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineer-factory-software-winter-spring-2026-at-jobs-via-dice-4293988245?position=36&pageNum=0&refId=HGbIq89ZhfWNc8lEtFsc0g%3D%3D&trackingId=Qb%2FTGlCd%2F5i6R2T5TPxyBw%3D%3D) | 2025-09-05 |
 | NimbleRx | Software Engineer Intern - Winter / Spring Session (January - April 2026) | Redwood City, CA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-winter-spring-session-january-april-2026-at-nimblerx-4295046535?position=5&pageNum=0&refId=XNu8ciVYJIndHqzxC9eXvg%3D%3D&trackingId=2fj6FnSHW0DsyfVitd9eAg%3D%3D) | 2025-09-04 |
 | Springdale Ice Cream and Beverage | Spring 2026 Software Engineering Kroger Technology & Digital Intern | Cincinnati, OH | [Apply](https://www.linkedin.com/jobs/view/spring-2026-software-engineering-kroger-technology-digital-intern-at-springdale-ice-cream-and-beverage-4294657768?position=27&pageNum=0&refId=dM5O8a2fHCSdjnI%2BCvWVzQ%3D%3D&trackingId=ibju2fmSh8L3ZCJXmX7B6A%3D%3D) | 2025-09-03 |
 | Kroger | Spring 2026 Software Engineering Kroger Technology & Digital Intern | Cincinnati, OH | [Apply](https://www.linkedin.com/jobs/view/spring-2026-software-engineering-kroger-technology-digital-intern-at-kroger-4292794753?position=53&pageNum=0&refId=dM5O8a2fHCSdjnI%2BCvWVzQ%3D%3D&trackingId=IEouKkEbDal4s97JLJpbBw%3D%3D) | 2025-09-03 |
