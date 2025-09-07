@@ -1,6 +1,6 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-09-06*
+*Last updated: 2025-09-07*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
@@ -23,6 +23,7 @@ This README is automatically updated daily with new Spring 2026 tech internship 
 | Rocket Lab | Electrical Engineering Intern Spring 2026 | Long Beach, CA | [Apply](https://www.linkedin.com/jobs/view/electrical-engineering-intern-spring-2026-at-rocket-lab-4296310093?position=29&pageNum=0&refId=HJ9COI41VwCYDGVKfSeflQ%3D%3D&trackingId=5A%2FZURg6ACp6%2FcAXM6FUgA%3D%3D) | 2025-09-06 |
 | Rocket Lab | R&D Engineering Intern Spring 2026 | Silver Spring, MD | [Apply](https://www.linkedin.com/jobs/view/r-d-engineering-intern-spring-2026-at-rocket-lab-4296312060?position=45&pageNum=0&refId=HJ9COI41VwCYDGVKfSeflQ%3D%3D&trackingId=Qk4uMCR6DUR%2F7ai6Q4HOmw%3D%3D) | 2025-09-06 |
 | Rocket Lab | Thermal Engineering Intern Spring 2026 | Long Beach, CA | [Apply](https://www.linkedin.com/jobs/view/thermal-engineering-intern-spring-2026-at-rocket-lab-4296302984?position=47&pageNum=0&refId=HJ9COI41VwCYDGVKfSeflQ%3D%3D&trackingId=%2FSwCr%2BChaRoJm3eFMVtzjA%3D%3D) | 2025-09-06 |
+| Jobs via Dice | Internship, Haskell Software Developer, Vehicle Firmware (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-haskell-software-developer-vehicle-firmware-winter-spring-2026-at-jobs-via-dice-4296362180?position=53&pageNum=0&refId=vNrAlFps7r5jMoancopKgA%3D%3D&trackingId=C6GM9usgToqCc0P2ZJA3ow%3D%3D) | 2025-09-06 |
 | Rocket Lab | Flight Software Intern Spring 2026 | Littleton, CO | [Apply](https://www.linkedin.com/jobs/view/flight-software-intern-spring-2026-at-rocket-lab-4293981064?position=26&pageNum=0&refId=HGbIq89ZhfWNc8lEtFsc0g%3D%3D&trackingId=o8gQpnMFpTwvbX7il04rnQ%3D%3D) | 2025-09-05 |
 | Jobs via Dice | Internship, Software Engineer, Factory Software (Winter/Spring 2026) | Fremont, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineer-factory-software-winter-spring-2026-at-jobs-via-dice-4293988245?position=36&pageNum=0&refId=HGbIq89ZhfWNc8lEtFsc0g%3D%3D&trackingId=Qb%2FTGlCd%2F5i6R2T5TPxyBw%3D%3D) | 2025-09-05 |
 | Jobs via Dice | Internship, Motor Controls Engineer, Vehicle Controls (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-motor-controls-engineer-vehicle-controls-winter-spring-2026-at-jobs-via-dice-4293991130?position=34&pageNum=0&refId=HJ9COI41VwCYDGVKfSeflQ%3D%3D&trackingId=zPAaCs6NHz1okujecajrxQ%3D%3D) | 2025-09-05 |
