@@ -1,11 +1,14 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-09-07*
+*Last updated: 2025-09-08*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Jobs via Dice | Internship, Software Engineer, AI Inference Co-design (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineer-ai-inference-co-design-winter-spring-2026-at-jobs-via-dice-4295297887?position=59&pageNum=0&refId=FeF019WJ%2Bkq8UfjipdEqcQ%3D%3D&trackingId=ywlVQ3u7wRPmLyPHc01B%2Bw%3D%3D) | 2025-09-08 |
+| Walt Disney Imagineering | Disney Live Entertainment Tech Intern, Spring 2026 | Lake Buena Vista, FL | [Apply](https://www.linkedin.com/jobs/view/disney-live-entertainment-tech-intern-spring-2026-at-walt-disney-imagineering-4297241478?position=17&pageNum=0&refId=Masg1cD%2BI7H%2Bu0VyF8bWTg%3D%3D&trackingId=G0M2wClgIsgv1OXLLlAYtw%3D%3D) | 2025-09-08 |
+| Jobs via Dice | Internship, Embedded Software Engineer, Keys & Authentication (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-embedded-software-engineer-keys-authentication-winter-spring-2026-at-jobs-via-dice-4296590135?position=57&pageNum=0&refId=FeF019WJ%2Bkq8UfjipdEqcQ%3D%3D&trackingId=TgYiZIAvudkjFElrSKWk%2FA%3D%3D) | 2025-09-07 |
 | Tesla | Internship, Haskell Software Developer, Vehicle Firmware (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-haskell-software-developer-vehicle-firmware-winter-spring-2026-at-tesla-4296468692?position=22&pageNum=0&refId=Y1GmMxAYKL0vNoX6J4KtPg%3D%3D&trackingId=Sdn%2BYbUSXpBulc34ZAabfA%3D%3D) | 2025-09-06 |
 | Tesla | Internship, Software Engineer, AI Inference Co-design (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineer-ai-inference-co-design-winter-spring-2026-at-tesla-4296480117?position=23&pageNum=0&refId=Y1GmMxAYKL0vNoX6J4KtPg%3D%3D&trackingId=cZ%2FfLgn%2FgB7BcRfFeYEUUg%3D%3D) | 2025-09-06 |
 | Tesla | Internship, Software Engineer, Foundation Inference Infrastructure (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineer-foundation-inference-infrastructure-winter-spring-2026-at-tesla-4296468686?position=24&pageNum=0&refId=Y1GmMxAYKL0vNoX6J4KtPg%3D%3D&trackingId=hqYEy3FWyMTvVIftLb1iNg%3D%3D) | 2025-09-06 |
