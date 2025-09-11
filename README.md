@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-09-10*
+*Last updated: 2025-09-11*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Cognosos, Inc. | Software & Technology Internship (Spring/Summer 2026) | Atlanta, GA | [Apply](https://www.linkedin.com/jobs/view/software-technology-internship-spring-summer-2026-at-cognosos-inc-4298950110?position=13&pageNum=0&refId=E7u2X9Kk9dXebg08k7hY4A%3D%3D&trackingId=5tKgOUfDfXUqkW5GKa%2FudQ%3D%3D) | 2025-09-11 |
 | Jobs via Dice | Internship, Physics Engine Development Engineer, Optimus (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-physics-engine-development-engineer-optimus-winter-spring-2026-at-jobs-via-dice-4297866052?position=6&pageNum=0&refId=zQWYODcXfdyFtBThW5g0vQ%3D%3D&trackingId=L6IYhoBGJtwX4%2BYnctFMMQ%3D%3D) | 2025-09-10 |
 | American Express | Campus Associate Spring Internship Program - 2026 Software Engineer, Technology - New York, NY | New York, NY | [Apply](https://www.linkedin.com/jobs/view/campus-associate-spring-internship-program-2026-software-engineer-technology-new-york-ny-at-american-express-4298439285?position=14&pageNum=0&refId=zQWYODcXfdyFtBThW5g0vQ%3D%3D&trackingId=D%2FNQiGKaysGcbizTNllICg%3D%3D) | 2025-09-10 |
 | Jobs via Dice | Internship, Embedded Systems Software Engineer, AI Platforms (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-embedded-systems-software-engineer-ai-platforms-winter-spring-2026-at-jobs-via-dice-4297852329?position=25&pageNum=0&refId=zQWYODcXfdyFtBThW5g0vQ%3D%3D&trackingId=zmExmVKEI8pRLV0gWw4tOw%3D%3D) | 2025-09-10 |
