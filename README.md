@@ -1,11 +1,13 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-09-15*
+*Last updated: 2025-09-16*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Tesla | Internship, Embedded Software Engineer, Optimus (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-embedded-software-engineer-optimus-winter-spring-2026-at-tesla-4300965241?position=30&pageNum=0&refId=CNZ7lrv8p4R2As5aPNLh5g%3D%3D&trackingId=ESYWLJrdQIEgiYJtKlzLWA%3D%3D) | 2025-09-16 |
+| Infineon Technologies | Internship - Process Design Kit Engineer - Spring 2026 | Lexington, KY | [Apply](https://www.linkedin.com/jobs/view/internship-process-design-kit-engineer-spring-2026-at-infineon-technologies-4300963292?position=45&pageNum=0&refId=jYxGLiRP%2BLLV7GeuX%2F3Zew%3D%3D&trackingId=ZzGhpxeNYdtdmNUDRWcZHA%3D%3D) | 2025-09-16 |
 | Tesla | Internship, Software Systems Engineer, AI Hardware (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-systems-engineer-ai-hardware-winter-spring-2026-at-tesla-4299681918?position=57&pageNum=0&refId=USDg4ADrrGTEZjkvzNpcXA%3D%3D&trackingId=hYSrbe%2FarUsmCpbHSf2Cog%3D%3D) | 2025-09-13 |
 | Center for European Policy Analysis | Spring 2026: Tech Policy Intern | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/spring-2026-tech-policy-intern-at-center-for-european-policy-analysis-4298031331?position=5&pageNum=0&refId=BfPvhllrLOQ7zjJkCu54IA%3D%3D&trackingId=LW0A0c70YtOlPhaRrJa3Jg%3D%3D) | 2025-09-13 |
 | Jobs via Dice | Internship, Frontend Engineer, Applications Engineering (Winter/Spring 2026) | Fremont, CA | [Apply](https://www.linkedin.com/jobs/view/internship-frontend-engineer-applications-engineering-winter-spring-2026-at-jobs-via-dice-4299661849?position=35&pageNum=0&refId=BfPvhllrLOQ7zjJkCu54IA%3D%3D&trackingId=wXHgeN%2BWEwfSd3IVXbK0FQ%3D%3D) | 2025-09-13 |
