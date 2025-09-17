@@ -1,11 +1,15 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-09-16*
+*Last updated: 2025-09-17*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| ASML | Co-Op- Mechanical Design Engineer - Spring 2026 (Internship) | Wilton Center, CT | [Apply](https://www.linkedin.com/jobs/view/co-op-mechanical-design-engineer-spring-2026-internship-at-asml-4301707755?position=57&pageNum=0&refId=FF2esBu0eIxwKZn7%2FtULyw%3D%3D&trackingId=FNijiXRS%2BE3EBS22gWv%2FcA%3D%3D) | 2025-09-17 |
+| ASML | Co-Op Quality Engineering - Spring 2026 (Internship) | Wilton Center, CT | [Apply](https://www.linkedin.com/jobs/view/co-op-quality-engineering-spring-2026-internship-at-asml-4301717386?position=58&pageNum=0&refId=FF2esBu0eIxwKZn7%2FtULyw%3D%3D&trackingId=gN9CcBGz7j7yGGbpk5DPGA%3D%3D) | 2025-09-17 |
+| Rocket Lab | Systems Engineering Intern Spring 2026 | Long Beach, CA | [Apply](https://www.linkedin.com/jobs/view/systems-engineering-intern-spring-2026-at-rocket-lab-4301395617?position=42&pageNum=0&refId=Lch3cW3NpeNECxXLhTkqKQ%3D%3D&trackingId=VkjKNXlQsgi4nSRT4YfjmA%3D%3D) | 2025-09-17 |
+| Rocket Lab | Fluid Systems Intern Spring 2026 | Long Beach, CA | [Apply](https://www.linkedin.com/jobs/view/fluid-systems-intern-spring-2026-at-rocket-lab-4301393594?position=44&pageNum=0&refId=Lch3cW3NpeNECxXLhTkqKQ%3D%3D&trackingId=Se1%2FO3sHKeluJJG9TOfkuw%3D%3D) | 2025-09-17 |
 | Tesla | Internship, Embedded Software Engineer, Optimus (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-embedded-software-engineer-optimus-winter-spring-2026-at-tesla-4300965241?position=30&pageNum=0&refId=CNZ7lrv8p4R2As5aPNLh5g%3D%3D&trackingId=ESYWLJrdQIEgiYJtKlzLWA%3D%3D) | 2025-09-16 |
 | Infineon Technologies | Internship - Process Design Kit Engineer - Spring 2026 | Lexington, KY | [Apply](https://www.linkedin.com/jobs/view/internship-process-design-kit-engineer-spring-2026-at-infineon-technologies-4300963292?position=45&pageNum=0&refId=jYxGLiRP%2BLLV7GeuX%2F3Zew%3D%3D&trackingId=ZzGhpxeNYdtdmNUDRWcZHA%3D%3D) | 2025-09-16 |
 | Tesla | Internship, Software Systems Engineer, AI Hardware (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-systems-engineer-ai-hardware-winter-spring-2026-at-tesla-4299681918?position=57&pageNum=0&refId=USDg4ADrrGTEZjkvzNpcXA%3D%3D&trackingId=hYSrbe%2FarUsmCpbHSf2Cog%3D%3D) | 2025-09-13 |
