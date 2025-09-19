@@ -1,11 +1,14 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-09-18*
+*Last updated: 2025-09-19*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Jobs via Dice | Internship, Embedded Software Engineer, Optimus (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-embedded-software-engineer-optimus-winter-spring-2026-at-jobs-via-dice-4302191696?position=50&pageNum=0&refId=YQ7uIEJy0zqH2DnVK1x6YQ%3D%3D&trackingId=2RKnTPnOsUWWlaBEneOQMw%3D%3D) | 2025-09-19 |
+| ASML | Co-op System Integration Engineer - Spring 2026 (Internship) | Wilton Center, CT | [Apply](https://www.linkedin.com/jobs/view/co-op-system-integration-engineer-spring-2026-internship-at-asml-4302585151?position=40&pageNum=0&refId=FtRD9V3sFtKRlK9t7oxrUg%3D%3D&trackingId=DZoz7H1oAEGN%2Bc4a4SKgkQ%3D%3D) | 2025-09-19 |
+| Jobs via Dice | Internship, Software Systems Engineer, AI Hardware (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-systems-engineer-ai-hardware-winter-spring-2026-at-jobs-via-dice-4301983945?position=27&pageNum=0&refId=FtRD9V3sFtKRlK9t7oxrUg%3D%3D&trackingId=3A4hQHLGGE3NfwKBs%2BY8ig%3D%3D) | 2025-09-18 |
 | ASML | Co-Op- Mechanical Design Engineer - Spring 2026 (Internship) | Wilton Center, CT | [Apply](https://www.linkedin.com/jobs/view/co-op-mechanical-design-engineer-spring-2026-internship-at-asml-4301707755?position=57&pageNum=0&refId=FF2esBu0eIxwKZn7%2FtULyw%3D%3D&trackingId=FNijiXRS%2BE3EBS22gWv%2FcA%3D%3D) | 2025-09-17 |
 | ASML | Co-Op Quality Engineering - Spring 2026 (Internship) | Wilton Center, CT | [Apply](https://www.linkedin.com/jobs/view/co-op-quality-engineering-spring-2026-internship-at-asml-4301717386?position=58&pageNum=0&refId=FF2esBu0eIxwKZn7%2FtULyw%3D%3D&trackingId=gN9CcBGz7j7yGGbpk5DPGA%3D%3D) | 2025-09-17 |
 | Rocket Lab | Systems Engineering Intern Spring 2026 | Long Beach, CA | [Apply](https://www.linkedin.com/jobs/view/systems-engineering-intern-spring-2026-at-rocket-lab-4301395617?position=42&pageNum=0&refId=Lch3cW3NpeNECxXLhTkqKQ%3D%3D&trackingId=VkjKNXlQsgi4nSRT4YfjmA%3D%3D) | 2025-09-17 |
