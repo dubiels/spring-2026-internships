@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-09-21*
+*Last updated: 2025-09-22*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Cloudflare | Software Engineer Intern (Winter/Spring 2026) | Austin, TX | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-winter-spring-2026-at-cloudflare-4302313365?position=48&pageNum=0&refId=Ce7Gm83CaTQ8qdATLdPhbw%3D%3D&trackingId=rcKMnSOsbcXpo37%2Fx7EjdQ%3D%3D) | 2025-09-22 |
 | Jobs via Dice | Internship, Software Distributed Systems Engineer, Cell Engineering (Spring 2026) | San Diego, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-distributed-systems-engineer-cell-engineering-spring-2026-at-jobs-via-dice-4302737114?position=35&pageNum=0&refId=GZaqSoyuyGCaw2mGx2a6yg%3D%3D&trackingId=tfWgnKO3F7W6Bqpd%2FpBtUA%3D%3D) | 2025-09-20 |
 | Jobs via Dice | Internship, Software Engineer, Connectivity C++, Optimus (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineer-connectivity-c%2B%2B-optimus-winter-spring-2026-at-jobs-via-dice-4302729576?position=49&pageNum=0&refId=2EM%2B3eRaxicKqyYEz5zaPw%3D%3D&trackingId=YYfQ9r0mubmlBaqsmY3thg%3D%3D) | 2025-09-20 |
 | Rocket Lab | Manufacturing Engineering Intern Spring 2026 | Long Beach, CA | [Apply](https://www.linkedin.com/jobs/view/manufacturing-engineering-intern-spring-2026-at-rocket-lab-4303122651?position=56&pageNum=0&refId=2EM%2B3eRaxicKqyYEz5zaPw%3D%3D&trackingId=g3SZ6Nff4qtS%2FJiL8SRa0g%3D%3D) | 2025-09-20 |
