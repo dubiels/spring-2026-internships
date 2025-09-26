@@ -1,13 +1,16 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-09-25*
+*Last updated: 2025-09-26*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Rocket Lab | Ground Systems Engineering Intern Spring 2026 | Mississippi, United States | [Apply](https://www.linkedin.com/jobs/view/ground-systems-engineering-intern-spring-2026-at-rocket-lab-4305407464?position=60&pageNum=0&refId=aKJxOhpIYbqpPyG6n0tN%2BA%3D%3D&trackingId=9%2B%2Bdp2LD0NwZIY7N0gW8YQ%3D%3D) | 2025-09-26 |
+| Rocket Lab | Quality Engineering Intern Spring 2026 | Long Beach, CA | [Apply](https://www.linkedin.com/jobs/view/quality-engineering-intern-spring-2026-at-rocket-lab-4305402516?position=16&pageNum=0&refId=UHLuaXa%2B1jBogTqhEtFe6g%3D%3D&trackingId=74sWoy9M3akBPfJEe8wyyw%3D%3D) | 2025-09-26 |
 | Rocket Lab | Software Intern Spring 2026 | Littleton, CO | [Apply](https://www.linkedin.com/jobs/view/software-intern-spring-2026-at-rocket-lab-4304584253?position=34&pageNum=0&refId=K5b8LfLI%2B5c7PyX4Pth0dQ%3D%3D&trackingId=IK1QWFC2aMQGVYJjcsHsHw%3D%3D) | 2025-09-25 |
 | Tesla | Internship, Software Engineer, Simulation Platform (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineer-simulation-platform-winter-spring-2026-at-tesla-4305927539?position=43&pageNum=0&refId=K5b8LfLI%2B5c7PyX4Pth0dQ%3D%3D&trackingId=v%2BKOCw14hbP3xHJcZ4lbgg%3D%3D) | 2025-09-25 |
+| American Action Forum | Technology and Innovation Policy Internship – Spring 2026 - PAID | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/technology-and-innovation-policy-internship-%E2%80%93-spring-2026-paid-at-american-action-forum-4305678466?position=32&pageNum=0&refId=J77aQ%2FgNPvNolUnxiA7oCA%3D%3D&trackingId=Wt1pJVi9UNNaTxqp4Cl5zA%3D%3D) | 2025-09-24 |
 | Cloudflare | Software Engineer Intern (Winter/Spring 2026) | Austin, TX | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-winter-spring-2026-at-cloudflare-4302313365?position=48&pageNum=0&refId=Ce7Gm83CaTQ8qdATLdPhbw%3D%3D&trackingId=rcKMnSOsbcXpo37%2Fx7EjdQ%3D%3D) | 2025-09-22 |
 | Jobs via Dice | Internship, Software Distributed Systems Engineer, Cell Engineering (Spring 2026) | San Diego, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-distributed-systems-engineer-cell-engineering-spring-2026-at-jobs-via-dice-4302737114?position=35&pageNum=0&refId=GZaqSoyuyGCaw2mGx2a6yg%3D%3D&trackingId=tfWgnKO3F7W6Bqpd%2FpBtUA%3D%3D) | 2025-09-20 |
 | Jobs via Dice | Internship, Software Engineer, Connectivity C++, Optimus (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineer-connectivity-c%2B%2B-optimus-winter-spring-2026-at-jobs-via-dice-4302729576?position=49&pageNum=0&refId=2EM%2B3eRaxicKqyYEz5zaPw%3D%3D&trackingId=YYfQ9r0mubmlBaqsmY3thg%3D%3D) | 2025-09-20 |
