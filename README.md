@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-09-29*
+*Last updated: 2025-09-30*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Benco Dental | Software Engineer Intern (Spring 2026) | United States | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-spring-2026-at-benco-dental-4308082150?position=38&pageNum=0&refId=5sEjqQFhASstd%2B2lNnwsOg%3D%3D&trackingId=gAUfZSJurW0bym2%2Fk42ffA%3D%3D) | 2025-09-30 |
 | PrizePicks | Software Engineering Internship - Spring 2026 | Atlanta, GA | [Apply](https://www.linkedin.com/jobs/view/software-engineering-internship-spring-2026-at-prizepicks-4305730020?position=13&pageNum=0&refId=QlhNvmaXPimmOZ9w1mC9Vg%3D%3D&trackingId=gA6uaUTyGghcY0LnbEwynA%3D%3D) | 2025-09-27 |
 | Zipline | Build Engineer Intern (Spring 2026) | South San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/build-engineer-intern-spring-2026-at-zipline-4306019344?position=33&pageNum=0&refId=RJSY5iEuqZ3fGjZEkLTRVw%3D%3D&trackingId=UHKIjPzR23lLj94vjv4IBA%3D%3D) | 2025-09-27 |
 | Zipline | Integration Engineer Intern (Spring 2026) | South San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/integration-engineer-intern-spring-2026-at-zipline-4306015858?position=34&pageNum=0&refId=RJSY5iEuqZ3fGjZEkLTRVw%3D%3D&trackingId=1r6iQB4ybcBACnavOcsMHw%3D%3D) | 2025-09-27 |
