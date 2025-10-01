@@ -1,17 +1,21 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-09-30*
+*Last updated: 2025-10-01*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Firefly Aerospace | Internship - Software Engineering - Spring 2026 | Cedar Park, TX | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineering-spring-2026-at-firefly-aerospace-4306161162?position=16&pageNum=0&refId=X%2BziMeKpu%2BLB%2BYEUjZssRg%3D%3D&trackingId=gdikM%2BixmiUjRsYqNhqhFQ%3D%3D) | 2025-10-01 |
+| Medpace | Web Developer Internship/Co-Op Spring 2026 | Cincinnati, OH | [Apply](https://www.linkedin.com/jobs/view/web-developer-internship-co-op-spring-2026-at-medpace-4307056263?position=54&pageNum=0&refId=X%2BziMeKpu%2BLB%2BYEUjZssRg%3D%3D&trackingId=0N05DVftkoTDOSvt6vT4ew%3D%3D) | 2025-10-01 |
+| Georgia Tech Research Institute | Software Developer Student Intern - Spring 2026 - ASL | Huntsville, AL | [Apply](https://www.linkedin.com/jobs/view/software-developer-student-intern-spring-2026-asl-at-georgia-tech-research-institute-4308601453?position=52&pageNum=0&refId=yFWUP06PYIbskjEHDoEiCQ%3D%3D&trackingId=4SB7%2FlaxEzlDwA3DMLrOVQ%3D%3D) | 2025-10-01 |
 | Benco Dental | Software Engineer Intern (Spring 2026) | United States | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-spring-2026-at-benco-dental-4308082150?position=38&pageNum=0&refId=5sEjqQFhASstd%2B2lNnwsOg%3D%3D&trackingId=gAUfZSJurW0bym2%2Fk42ffA%3D%3D) | 2025-09-30 |
 | PrizePicks | Software Engineering Internship - Spring 2026 | Atlanta, GA | [Apply](https://www.linkedin.com/jobs/view/software-engineering-internship-spring-2026-at-prizepicks-4305730020?position=13&pageNum=0&refId=QlhNvmaXPimmOZ9w1mC9Vg%3D%3D&trackingId=gA6uaUTyGghcY0LnbEwynA%3D%3D) | 2025-09-27 |
 | Zipline | Build Engineer Intern (Spring 2026) | South San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/build-engineer-intern-spring-2026-at-zipline-4306019344?position=33&pageNum=0&refId=RJSY5iEuqZ3fGjZEkLTRVw%3D%3D&trackingId=UHKIjPzR23lLj94vjv4IBA%3D%3D) | 2025-09-27 |
 | Zipline | Integration Engineer Intern (Spring 2026) | South San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/integration-engineer-intern-spring-2026-at-zipline-4306015858?position=34&pageNum=0&refId=RJSY5iEuqZ3fGjZEkLTRVw%3D%3D&trackingId=1r6iQB4ybcBACnavOcsMHw%3D%3D) | 2025-09-27 |
 | Zipline | Embedded Engineering Intern (Spring 2026) | South San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/embedded-engineering-intern-spring-2026-at-zipline-4306032105?position=35&pageNum=0&refId=RJSY5iEuqZ3fGjZEkLTRVw%3D%3D&trackingId=GqR54TfpR5%2F1NNPzFUVPjQ%3D%3D) | 2025-09-27 |
 | Rocket Lab | Test Engineering Intern Spring 2026 | Wallops Island, VA | [Apply](https://www.linkedin.com/jobs/view/test-engineering-intern-spring-2026-at-rocket-lab-4305765137?position=35&pageNum=0&refId=lyDCeIA2znk5qVvBM%2FSBiA%3D%3D&trackingId=PV7OEPnJH5CBz0tv53X1DQ%3D%3D) | 2025-09-27 |
+| Zipline | Autonomy Software Engineering Intern (Spring 2026) | South San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/autonomy-software-engineering-intern-spring-2026-at-zipline-4306015858?position=14&pageNum=0&refId=X%2BziMeKpu%2BLB%2BYEUjZssRg%3D%3D&trackingId=X2DNcMoW9ciPowBAsWB1kw%3D%3D) | 2025-09-27 |
 | Rocket Lab | Ground Systems Engineering Intern Spring 2026 | Mississippi, United States | [Apply](https://www.linkedin.com/jobs/view/ground-systems-engineering-intern-spring-2026-at-rocket-lab-4305407464?position=60&pageNum=0&refId=aKJxOhpIYbqpPyG6n0tN%2BA%3D%3D&trackingId=9%2B%2Bdp2LD0NwZIY7N0gW8YQ%3D%3D) | 2025-09-26 |
 | Rocket Lab | Quality Engineering Intern Spring 2026 | Long Beach, CA | [Apply](https://www.linkedin.com/jobs/view/quality-engineering-intern-spring-2026-at-rocket-lab-4305402516?position=16&pageNum=0&refId=UHLuaXa%2B1jBogTqhEtFe6g%3D%3D&trackingId=74sWoy9M3akBPfJEe8wyyw%3D%3D) | 2025-09-26 |
 | Rocket Lab | Software Intern Spring 2026 | Littleton, CO | [Apply](https://www.linkedin.com/jobs/view/software-intern-spring-2026-at-rocket-lab-4304584253?position=34&pageNum=0&refId=K5b8LfLI%2B5c7PyX4Pth0dQ%3D%3D&trackingId=IK1QWFC2aMQGVYJjcsHsHw%3D%3D) | 2025-09-25 |
