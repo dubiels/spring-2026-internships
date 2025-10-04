@@ -1,11 +1,13 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-10-03*
+*Last updated: 2025-10-04*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Astrolab | Spring 2026 Software Engineering Intern | Hawthorne, CA | [Apply](https://www.linkedin.com/jobs/view/spring-2026-software-engineering-intern-at-astrolab-4307586202?position=6&pageNum=0&refId=1cF3yCfcZPvAq4rC9MHWzw%3D%3D&trackingId=P9MPzIa80OYD5B%2FsyCpZQQ%3D%3D) | 2025-10-04 |
+| Zipline | Software Release Program Manager Intern (Spring 2026) | South San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/software-release-program-manager-intern-spring-2026-at-zipline-4310507576?position=1&pageNum=0&refId=%2FRcM1kAHXK7gIme4F%2FKvNA%3D%3D&trackingId=SsvgTDoFP0HGawVB0pL0QQ%3D%3D) | 2025-10-04 |
 | Gemini | Software Engineering Intern (Winter-Spring 2026) | New York, NY | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-winter-spring-2026-at-gemini-4309850814?position=17&pageNum=0&refId=agLQgyQj9fkZATLdecHoGA%3D%3D&trackingId=cqs14IHYqPP3rHASINGBmg%3D%3D) | 2025-10-03 |
 | Firefly Aerospace | Internship - Software Engineering - Spring 2026 | Cedar Park, TX | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineering-spring-2026-at-firefly-aerospace-4306161162?position=16&pageNum=0&refId=X%2BziMeKpu%2BLB%2BYEUjZssRg%3D%3D&trackingId=gdikM%2BixmiUjRsYqNhqhFQ%3D%3D) | 2025-10-01 |
 | Medpace | Web Developer Internship/Co-Op Spring 2026 | Cincinnati, OH | [Apply](https://www.linkedin.com/jobs/view/web-developer-internship-co-op-spring-2026-at-medpace-4307056263?position=54&pageNum=0&refId=X%2BziMeKpu%2BLB%2BYEUjZssRg%3D%3D&trackingId=0N05DVftkoTDOSvt6vT4ew%3D%3D) | 2025-10-01 |
