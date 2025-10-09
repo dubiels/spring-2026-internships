@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-10-08*
+*Last updated: 2025-10-09*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Tesla | Internship, Software Engineering, Recruiting (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineering-recruiting-winter-spring-2026-at-tesla-4312522642?position=23&pageNum=0&refId=U9ChXZtNvg%2BqngbN7IKOYQ%3D%3D&trackingId=t9KISfNsgYYhgURCHcLkBw%3D%3D) | 2025-10-09 |
 | Astrolab | Spring 2026 Software Engineering Intern | Hawthorne, CA | [Apply](https://www.linkedin.com/jobs/view/spring-2026-software-engineering-intern-at-astrolab-4307586202?position=6&pageNum=0&refId=1cF3yCfcZPvAq4rC9MHWzw%3D%3D&trackingId=P9MPzIa80OYD5B%2FsyCpZQQ%3D%3D) | 2025-10-04 |
 | Zipline | Software Release Program Manager Intern (Spring 2026) | South San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/software-release-program-manager-intern-spring-2026-at-zipline-4310507576?position=1&pageNum=0&refId=%2FRcM1kAHXK7gIme4F%2FKvNA%3D%3D&trackingId=SsvgTDoFP0HGawVB0pL0QQ%3D%3D) | 2025-10-04 |
 | Gemini | Software Engineering Intern (Winter-Spring 2026) | New York, NY | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-winter-spring-2026-at-gemini-4309850814?position=17&pageNum=0&refId=agLQgyQj9fkZATLdecHoGA%3D%3D&trackingId=cqs14IHYqPP3rHASINGBmg%3D%3D) | 2025-10-03 |
@@ -19,6 +20,7 @@ This README is automatically updated daily with new Spring 2026 tech internship 
 | Zipline | Embedded Engineering Intern (Spring 2026) | South San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/embedded-engineering-intern-spring-2026-at-zipline-4306032105?position=35&pageNum=0&refId=RJSY5iEuqZ3fGjZEkLTRVw%3D%3D&trackingId=GqR54TfpR5%2F1NNPzFUVPjQ%3D%3D) | 2025-09-27 |
 | Rocket Lab | Test Engineering Intern Spring 2026 | Wallops Island, VA | [Apply](https://www.linkedin.com/jobs/view/test-engineering-intern-spring-2026-at-rocket-lab-4305765137?position=35&pageNum=0&refId=lyDCeIA2znk5qVvBM%2FSBiA%3D%3D&trackingId=PV7OEPnJH5CBz0tv53X1DQ%3D%3D) | 2025-09-27 |
 | Zipline | Autonomy Software Engineering Intern (Spring 2026) | South San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/autonomy-software-engineering-intern-spring-2026-at-zipline-4306015858?position=14&pageNum=0&refId=X%2BziMeKpu%2BLB%2BYEUjZssRg%3D%3D&trackingId=X2DNcMoW9ciPowBAsWB1kw%3D%3D) | 2025-09-27 |
+| Zipline | Electrical Engineering Intern (Spring 2026) | South San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/electrical-engineering-intern-spring-2026-at-zipline-4306021313?position=60&pageNum=0&refId=W%2BsmAiwETLGXOfHLW9ABhw%3D%3D&trackingId=jWD2VpXFfrxD8nT66OLeSQ%3D%3D) | 2025-09-27 |
 | Rocket Lab | Ground Systems Engineering Intern Spring 2026 | Mississippi, United States | [Apply](https://www.linkedin.com/jobs/view/ground-systems-engineering-intern-spring-2026-at-rocket-lab-4305407464?position=60&pageNum=0&refId=aKJxOhpIYbqpPyG6n0tN%2BA%3D%3D&trackingId=9%2B%2Bdp2LD0NwZIY7N0gW8YQ%3D%3D) | 2025-09-26 |
 | Rocket Lab | Quality Engineering Intern Spring 2026 | Long Beach, CA | [Apply](https://www.linkedin.com/jobs/view/quality-engineering-intern-spring-2026-at-rocket-lab-4305402516?position=16&pageNum=0&refId=UHLuaXa%2B1jBogTqhEtFe6g%3D%3D&trackingId=74sWoy9M3akBPfJEe8wyyw%3D%3D) | 2025-09-26 |
 | Rocket Lab | Software Intern Spring 2026 | Littleton, CO | [Apply](https://www.linkedin.com/jobs/view/software-intern-spring-2026-at-rocket-lab-4304584253?position=34&pageNum=0&refId=K5b8LfLI%2B5c7PyX4Pth0dQ%3D%3D&trackingId=IK1QWFC2aMQGVYJjcsHsHw%3D%3D) | 2025-09-25 |
