@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-10-09*
+*Last updated: 2025-10-10*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Hone Health | Data Engineering Intern (Spring/Summer 2026) | New York, NY | [Apply](https://www.linkedin.com/jobs/view/data-engineering-intern-spring-summer-2026-at-hone-health-4312794515?position=56&pageNum=0&refId=84vm7ZsT3dQpy4W5W2t%2FIg%3D%3D&trackingId=NPOxGPnYhWNNNF9G%2FOK42w%3D%3D) | 2025-10-10 |
 | Tesla | Internship, Software Engineering, Recruiting (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineering-recruiting-winter-spring-2026-at-tesla-4312522642?position=23&pageNum=0&refId=U9ChXZtNvg%2BqngbN7IKOYQ%3D%3D&trackingId=t9KISfNsgYYhgURCHcLkBw%3D%3D) | 2025-10-09 |
 | Astrolab | Spring 2026 Software Engineering Intern | Hawthorne, CA | [Apply](https://www.linkedin.com/jobs/view/spring-2026-software-engineering-intern-at-astrolab-4307586202?position=6&pageNum=0&refId=1cF3yCfcZPvAq4rC9MHWzw%3D%3D&trackingId=P9MPzIa80OYD5B%2FsyCpZQQ%3D%3D) | 2025-10-04 |
 | Zipline | Software Release Program Manager Intern (Spring 2026) | South San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/software-release-program-manager-intern-spring-2026-at-zipline-4310507576?position=1&pageNum=0&refId=%2FRcM1kAHXK7gIme4F%2FKvNA%3D%3D&trackingId=SsvgTDoFP0HGawVB0pL0QQ%3D%3D) | 2025-10-04 |
