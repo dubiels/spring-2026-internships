@@ -1,6 +1,6 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-10-11*
+*Last updated: 2025-10-12*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
@@ -9,6 +9,7 @@ This README is automatically updated daily with new Spring 2026 tech internship 
 | The Brookings Institution | Spring 2026, Research and Events Internship, AI and Emerging Technology, Executive Office (Job ID 2025-3746) | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/spring-2026-research-and-events-internship-ai-and-emerging-technology-executive-office-job-id-2025-3746-at-the-brookings-institution-4312890653?position=41&pageNum=0&refId=jbmopYiAC5QO5egC%2FcuVmg%3D%3D&trackingId=UaBeYLB8ld8ADB5TwCDz5w%3D%3D) | 2025-10-11 |
 | Hone Health | Data Engineering Intern (Spring/Summer 2026) | New York, NY | [Apply](https://www.linkedin.com/jobs/view/data-engineering-intern-spring-summer-2026-at-hone-health-4312794515?position=56&pageNum=0&refId=84vm7ZsT3dQpy4W5W2t%2FIg%3D%3D&trackingId=NPOxGPnYhWNNNF9G%2FOK42w%3D%3D) | 2025-10-10 |
 | Tesla | Internship, Software Engineering, Recruiting (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineering-recruiting-winter-spring-2026-at-tesla-4312522642?position=23&pageNum=0&refId=U9ChXZtNvg%2BqngbN7IKOYQ%3D%3D&trackingId=t9KISfNsgYYhgURCHcLkBw%3D%3D) | 2025-10-09 |
+| Cognitiv | Machine Learning Engineer Intern (Winter / Spring 2026) | San Mateo, CA | [Apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-intern-winter-spring-2026-at-cognitiv-4310940848?position=55&pageNum=0&refId=LAHtH0kh6JAUxfUhoeuRQg%3D%3D&trackingId=PNzpwGh8y0cBgZfDSwN7gw%3D%3D) | 2025-10-07 |
 | Astrolab | Spring 2026 Software Engineering Intern | Hawthorne, CA | [Apply](https://www.linkedin.com/jobs/view/spring-2026-software-engineering-intern-at-astrolab-4307586202?position=6&pageNum=0&refId=1cF3yCfcZPvAq4rC9MHWzw%3D%3D&trackingId=P9MPzIa80OYD5B%2FsyCpZQQ%3D%3D) | 2025-10-04 |
 | Zipline | Software Release Program Manager Intern (Spring 2026) | South San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/software-release-program-manager-intern-spring-2026-at-zipline-4310507576?position=1&pageNum=0&refId=%2FRcM1kAHXK7gIme4F%2FKvNA%3D%3D&trackingId=SsvgTDoFP0HGawVB0pL0QQ%3D%3D) | 2025-10-04 |
 | Gemini | Software Engineering Intern (Winter-Spring 2026) | New York, NY | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-winter-spring-2026-at-gemini-4309850814?position=17&pageNum=0&refId=agLQgyQj9fkZATLdecHoGA%3D%3D&trackingId=cqs14IHYqPP3rHASINGBmg%3D%3D) | 2025-10-03 |
