@@ -1,11 +1,13 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-10-13*
+*Last updated: 2025-10-14*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| WB Games Boston | WB Games Software Engineering Intern Co-op: Needham, MA - January-May 2026 | Needham, MA | [Apply](https://www.linkedin.com/jobs/view/wb-games-software-engineering-intern-co-op-needham-ma-january-may-2026-at-wb-games-boston-4314194768?position=8&pageNum=0&refId=GeAzr%2B2NU3ihBlczPKEvyA%3D%3D&trackingId=D7CUUACKl6CM1OJVvwQTtA%3D%3D) | 2025-10-14 |
+| WB Games New York | WB Games Software Engineering Intern Co-op: Troy, NY - Jan-May 2026 | Troy, NY | [Apply](https://www.linkedin.com/jobs/view/wb-games-software-engineering-intern-co-op-troy-ny-jan-may-2026-at-wb-games-new-york-4314195790?position=18&pageNum=0&refId=GeAzr%2B2NU3ihBlczPKEvyA%3D%3D&trackingId=qVlOXQzaQW7kyHeP5m%2BTNw%3D%3D) | 2025-10-14 |
 | The Brookings Institution | Spring 2026, Research and Events Internship, AI and Emerging Technology, Executive Office (Job ID 2025-3746) | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/spring-2026-research-and-events-internship-ai-and-emerging-technology-executive-office-job-id-2025-3746-at-the-brookings-institution-4312890653?position=41&pageNum=0&refId=jbmopYiAC5QO5egC%2FcuVmg%3D%3D&trackingId=UaBeYLB8ld8ADB5TwCDz5w%3D%3D) | 2025-10-11 |
 | Hone Health | Data Engineering Intern (Spring/Summer 2026) | New York, NY | [Apply](https://www.linkedin.com/jobs/view/data-engineering-intern-spring-summer-2026-at-hone-health-4312794515?position=56&pageNum=0&refId=84vm7ZsT3dQpy4W5W2t%2FIg%3D%3D&trackingId=NPOxGPnYhWNNNF9G%2FOK42w%3D%3D) | 2025-10-10 |
 | Tesla | Internship, Software Engineering, Recruiting (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineering-recruiting-winter-spring-2026-at-tesla-4312522642?position=23&pageNum=0&refId=U9ChXZtNvg%2BqngbN7IKOYQ%3D%3D&trackingId=t9KISfNsgYYhgURCHcLkBw%3D%3D) | 2025-10-09 |
