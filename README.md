@@ -1,13 +1,19 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-10-16*
+*Last updated: 2025-10-17*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Lensa | WB Games Software Engineering Intern Co-op: Needham, MA - January-May 2026 | Needham, MA | [Apply](https://www.linkedin.com/jobs/view/wb-games-software-engineering-intern-co-op-needham-ma-january-may-2026-at-lensa-4316066415?position=23&pageNum=0&refId=wFgLjgInFcQUwcaTtZy5uA%3D%3D&trackingId=JETJEj5d0tBEMsjt%2Fo7K9g%3D%3D) | 2025-10-17 |
+| Ballotpedia | GIS Analyst Spring 2026 Internship (Paid/Remote) | United States | [Apply](https://www.linkedin.com/jobs/view/gis-analyst-spring-2026-internship-paid-remote-at-ballotpedia-4315804943?position=21&pageNum=0&refId=NBlPWiHF1WYljxx0Dmr4aw%3D%3D&trackingId=tWhWelIdwwNq6U8kbx01ZA%3D%3D) | 2025-10-17 |
+| Ballotpedia | Editorial Spring 2026 Internship Program (Paid/Remote) | United States | [Apply](https://www.linkedin.com/jobs/view/editorial-spring-2026-internship-program-paid-remote-at-ballotpedia-4315832090?position=57&pageNum=0&refId=NBlPWiHF1WYljxx0Dmr4aw%3D%3D&trackingId=EZGN64Z%2BG2uvI4BaItVKyA%3D%3D) | 2025-10-17 |
 | Mercury | Mobile Engineering Intern - Spring 2026 | New York, NY | [Apply](https://www.linkedin.com/jobs/view/mobile-engineering-intern-spring-2026-at-mercury-4312424347?position=27&pageNum=0&refId=jJ6B6EiA4tHqOXluJW56Sw%3D%3D&trackingId=Sv47%2BzhWSLsuVAAprtODag%3D%3D) | 2025-10-16 |
+| Lensa | WB Games Software Engineering Intern Co-op: Troy, NY - Jan-May 2026 | Troy, NY | [Apply](https://www.linkedin.com/jobs/view/wb-games-software-engineering-intern-co-op-troy-ny-jan-may-2026-at-lensa-4313004239?position=39&pageNum=0&refId=wFgLjgInFcQUwcaTtZy5uA%3D%3D&trackingId=Sk3CN7ounxFVTYkaX5M3Wg%3D%3D) | 2025-10-16 |
+| Signify | Advanced Development Software Intern , Cooper Lighting Solutions (Spring 2026) | Atlanta, GA | [Apply](https://www.linkedin.com/jobs/view/advanced-development-software-intern-cooper-lighting-solutions-spring-2026-at-signify-4315358754?position=52&pageNum=0&refId=D7xxDzZxMjTdUDxAEet9ww%3D%3D&trackingId=bgkTt0ZfkWP2NLOsMPG2jA%3D%3D) | 2025-10-16 |
 | Inclusively | Spring & Summer 2026 Intern - Software Development - Mechanical (Bachelors) | Austin, Texas Metropolitan Area | [Apply](https://www.linkedin.com/jobs/view/spring-summer-2026-intern-software-development-mechanical-bachelors-at-inclusively-4314652856?position=40&pageNum=0&refId=5bywpjg9IjShfyCNbdAcug%3D%3D&trackingId=rZHMB9PgWuFXDO7E9HayOg%3D%3D) | 2025-10-15 |
+| KHAITE | Technology Intern, Spring 2026 | New York, NY | [Apply](https://www.linkedin.com/jobs/view/technology-intern-spring-2026-at-khaite-4315047067?position=2&pageNum=0&refId=NBlPWiHF1WYljxx0Dmr4aw%3D%3D&trackingId=UgXG53vmibiGOBiW0TJt3g%3D%3D) | 2025-10-15 |
 | WB Games Boston | WB Games Software Engineering Intern Co-op: Needham, MA - January-May 2026 | Needham, MA | [Apply](https://www.linkedin.com/jobs/view/wb-games-software-engineering-intern-co-op-needham-ma-january-may-2026-at-wb-games-boston-4314194768?position=8&pageNum=0&refId=GeAzr%2B2NU3ihBlczPKEvyA%3D%3D&trackingId=D7CUUACKl6CM1OJVvwQTtA%3D%3D) | 2025-10-14 |
 | WB Games New York | WB Games Software Engineering Intern Co-op: Troy, NY - Jan-May 2026 | Troy, NY | [Apply](https://www.linkedin.com/jobs/view/wb-games-software-engineering-intern-co-op-troy-ny-jan-may-2026-at-wb-games-new-york-4314195790?position=18&pageNum=0&refId=GeAzr%2B2NU3ihBlczPKEvyA%3D%3D&trackingId=qVlOXQzaQW7kyHeP5m%2BTNw%3D%3D) | 2025-10-14 |
 | The Brookings Institution | Spring 2026, Research and Events Internship, AI and Emerging Technology, Executive Office (Job ID 2025-3746) | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/spring-2026-research-and-events-internship-ai-and-emerging-technology-executive-office-job-id-2025-3746-at-the-brookings-institution-4312890653?position=41&pageNum=0&refId=jbmopYiAC5QO5egC%2FcuVmg%3D%3D&trackingId=UaBeYLB8ld8ADB5TwCDz5w%3D%3D) | 2025-10-11 |
