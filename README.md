@@ -1,11 +1,14 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-10-17*
+*Last updated: 2025-10-18*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Walt Disney World | Glendale System Software Engineering Internship, Spring 2026 | Glendale, CA | [Apply](https://www.linkedin.com/jobs/view/glendale-system-software-engineering-internship-spring-2026-at-walt-disney-world-4316086928?position=2&pageNum=0&refId=Mbi%2BF%2FvNq10GFCxRIlruuQ%3D%3D&trackingId=S42FLqkgV%2Br0pNh5x75g3g%3D%3D) | 2025-10-18 |
+| Warner Bros. Discovery | Programming Internships: LA - Spring 2026 | Culver City, CA | [Apply](https://www.linkedin.com/jobs/view/programming-internships-la-spring-2026-at-warner-bros-discovery-4316537417?position=3&pageNum=0&refId=OM0saqiyNsjLvKnc6QRHng%3D%3D&trackingId=XDThLyX4ET477b3wAxakpg%3D%3D) | 2025-10-18 |
+| Warner Bros. Discovery | Monitization Technology Internships: LA - Spring 2026 | Burbank, CA | [Apply](https://www.linkedin.com/jobs/view/monitization-technology-internships-la-spring-2026-at-warner-bros-discovery-4316543301?position=40&pageNum=0&refId=OM0saqiyNsjLvKnc6QRHng%3D%3D&trackingId=wuT7rqswzsOSdRdPlADsug%3D%3D) | 2025-10-18 |
 | Lensa | WB Games Software Engineering Intern Co-op: Needham, MA - January-May 2026 | Needham, MA | [Apply](https://www.linkedin.com/jobs/view/wb-games-software-engineering-intern-co-op-needham-ma-january-may-2026-at-lensa-4316066415?position=23&pageNum=0&refId=wFgLjgInFcQUwcaTtZy5uA%3D%3D&trackingId=JETJEj5d0tBEMsjt%2Fo7K9g%3D%3D) | 2025-10-17 |
 | Ballotpedia | GIS Analyst Spring 2026 Internship (Paid/Remote) | United States | [Apply](https://www.linkedin.com/jobs/view/gis-analyst-spring-2026-internship-paid-remote-at-ballotpedia-4315804943?position=21&pageNum=0&refId=NBlPWiHF1WYljxx0Dmr4aw%3D%3D&trackingId=tWhWelIdwwNq6U8kbx01ZA%3D%3D) | 2025-10-17 |
 | Ballotpedia | Editorial Spring 2026 Internship Program (Paid/Remote) | United States | [Apply](https://www.linkedin.com/jobs/view/editorial-spring-2026-internship-program-paid-remote-at-ballotpedia-4315832090?position=57&pageNum=0&refId=NBlPWiHF1WYljxx0Dmr4aw%3D%3D&trackingId=EZGN64Z%2BG2uvI4BaItVKyA%3D%3D) | 2025-10-17 |
