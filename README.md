@@ -1,6 +1,6 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-10-18*
+*Last updated: 2025-10-19*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
@@ -12,6 +12,7 @@ This README is automatically updated daily with new Spring 2026 tech internship 
 | Lensa | WB Games Software Engineering Intern Co-op: Needham, MA - January-May 2026 | Needham, MA | [Apply](https://www.linkedin.com/jobs/view/wb-games-software-engineering-intern-co-op-needham-ma-january-may-2026-at-lensa-4316066415?position=23&pageNum=0&refId=wFgLjgInFcQUwcaTtZy5uA%3D%3D&trackingId=JETJEj5d0tBEMsjt%2Fo7K9g%3D%3D) | 2025-10-17 |
 | Ballotpedia | GIS Analyst Spring 2026 Internship (Paid/Remote) | United States | [Apply](https://www.linkedin.com/jobs/view/gis-analyst-spring-2026-internship-paid-remote-at-ballotpedia-4315804943?position=21&pageNum=0&refId=NBlPWiHF1WYljxx0Dmr4aw%3D%3D&trackingId=tWhWelIdwwNq6U8kbx01ZA%3D%3D) | 2025-10-17 |
 | Ballotpedia | Editorial Spring 2026 Internship Program (Paid/Remote) | United States | [Apply](https://www.linkedin.com/jobs/view/editorial-spring-2026-internship-program-paid-remote-at-ballotpedia-4315832090?position=57&pageNum=0&refId=NBlPWiHF1WYljxx0Dmr4aw%3D%3D&trackingId=EZGN64Z%2BG2uvI4BaItVKyA%3D%3D) | 2025-10-17 |
+| SIGNIFY SIGNMAKERS & SCREENPRINTING LIMITED | Advanced Development Software Intern , Cooper Lighting Solutions (Spring 2026) | Atlanta, GA | [Apply](https://www.linkedin.com/jobs/view/advanced-development-software-intern-cooper-lighting-solutions-spring-2026-at-signify-signmakers-screenprinting-limited-4316375342?position=58&pageNum=0&refId=ba6M%2FKW1IfHsbSEdGqoBFw%3D%3D&trackingId=HuXeLK8lc%2FM8zJwuwYymAA%3D%3D) | 2025-10-17 |
 | Mercury | Mobile Engineering Intern - Spring 2026 | New York, NY | [Apply](https://www.linkedin.com/jobs/view/mobile-engineering-intern-spring-2026-at-mercury-4312424347?position=27&pageNum=0&refId=jJ6B6EiA4tHqOXluJW56Sw%3D%3D&trackingId=Sv47%2BzhWSLsuVAAprtODag%3D%3D) | 2025-10-16 |
 | Lensa | WB Games Software Engineering Intern Co-op: Troy, NY - Jan-May 2026 | Troy, NY | [Apply](https://www.linkedin.com/jobs/view/wb-games-software-engineering-intern-co-op-troy-ny-jan-may-2026-at-lensa-4313004239?position=39&pageNum=0&refId=wFgLjgInFcQUwcaTtZy5uA%3D%3D&trackingId=Sk3CN7ounxFVTYkaX5M3Wg%3D%3D) | 2025-10-16 |
 | Signify | Advanced Development Software Intern , Cooper Lighting Solutions (Spring 2026) | Atlanta, GA | [Apply](https://www.linkedin.com/jobs/view/advanced-development-software-intern-cooper-lighting-solutions-spring-2026-at-signify-4315358754?position=52&pageNum=0&refId=D7xxDzZxMjTdUDxAEet9ww%3D%3D&trackingId=bgkTt0ZfkWP2NLOsMPG2jA%3D%3D) | 2025-10-16 |
