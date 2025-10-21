@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-10-20*
+*Last updated: 2025-10-21*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| HCSS | Software Development Interns - Spring 2026 | Sugar Land, TX | [Apply](https://www.linkedin.com/jobs/view/software-development-interns-spring-2026-at-hcss-4317390383?position=16&pageNum=0&refId=qrOHuBB2BepJyqq%2FmjxzIQ%3D%3D&trackingId=nX8gKqPaWNa6AKf5uj%2BlhA%3D%3D) | 2025-10-20 |
 | Walt Disney World | Glendale System Software Engineering Internship, Spring 2026 | Glendale, CA | [Apply](https://www.linkedin.com/jobs/view/glendale-system-software-engineering-internship-spring-2026-at-walt-disney-world-4316086928?position=2&pageNum=0&refId=Mbi%2BF%2FvNq10GFCxRIlruuQ%3D%3D&trackingId=S42FLqkgV%2Br0pNh5x75g3g%3D%3D) | 2025-10-18 |
 | Warner Bros. Discovery | Programming Internships: LA - Spring 2026 | Culver City, CA | [Apply](https://www.linkedin.com/jobs/view/programming-internships-la-spring-2026-at-warner-bros-discovery-4316537417?position=3&pageNum=0&refId=OM0saqiyNsjLvKnc6QRHng%3D%3D&trackingId=XDThLyX4ET477b3wAxakpg%3D%3D) | 2025-10-18 |
 | Warner Bros. Discovery | Monitization Technology Internships: LA - Spring 2026 | Burbank, CA | [Apply](https://www.linkedin.com/jobs/view/monitization-technology-internships-la-spring-2026-at-warner-bros-discovery-4316543301?position=40&pageNum=0&refId=OM0saqiyNsjLvKnc6QRHng%3D%3D&trackingId=wuT7rqswzsOSdRdPlADsug%3D%3D) | 2025-10-18 |
