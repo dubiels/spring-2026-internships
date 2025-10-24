@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-10-23*
+*Last updated: 2025-10-24*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Georgia Tech Research Institute | Software Engineer Student Intern-Spring 2026 - CIPHER | Atlanta, GA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-student-intern-spring-2026-cipher-at-georgia-tech-research-institute-4323959429?position=42&pageNum=0&refId=bxITCimx6YbpDglYH0IOGA%3D%3D&trackingId=XtQmWuWBdQpzVNa63kSp4g%3D%3D) | 2025-10-24 |
 | Tesla | Internship, Embedded Software Engineer, AI Platforms (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-embedded-software-engineer-ai-platforms-winter-spring-2026-at-tesla-4318108769?position=58&pageNum=0&refId=Dme5LTmvv9HXahekkZUFnA%3D%3D&trackingId=Cl522OwKq7tAaA3JeqaHaA%3D%3D) | 2025-10-22 |
 | HCSS | Software Development Interns - Spring 2026 | Sugar Land, TX | [Apply](https://www.linkedin.com/jobs/view/software-development-interns-spring-2026-at-hcss-4317390383?position=16&pageNum=0&refId=qrOHuBB2BepJyqq%2FmjxzIQ%3D%3D&trackingId=nX8gKqPaWNa6AKf5uj%2BlhA%3D%3D) | 2025-10-20 |
 | Walt Disney World | Glendale System Software Engineering Internship, Spring 2026 | Glendale, CA | [Apply](https://www.linkedin.com/jobs/view/glendale-system-software-engineering-internship-spring-2026-at-walt-disney-world-4316086928?position=2&pageNum=0&refId=Mbi%2BF%2FvNq10GFCxRIlruuQ%3D%3D&trackingId=S42FLqkgV%2Br0pNh5x75g3g%3D%3D) | 2025-10-18 |
