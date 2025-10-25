@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-10-24*
+*Last updated: 2025-10-25*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Lensa | Production and Development Internships: LA - Spring 2026 | Burbank, CA | [Apply](https://www.linkedin.com/jobs/view/production-and-development-internships-la-spring-2026-at-lensa-4331610861?position=57&pageNum=0&refId=YusormukjAJebwtFWB8B2w%3D%3D&trackingId=t68X1hjqZO6p%2FzKdPo3biQ%3D%3D) | 2025-10-25 |
 | Georgia Tech Research Institute | Software Engineer Student Intern-Spring 2026 - CIPHER | Atlanta, GA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-student-intern-spring-2026-cipher-at-georgia-tech-research-institute-4323959429?position=42&pageNum=0&refId=bxITCimx6YbpDglYH0IOGA%3D%3D&trackingId=XtQmWuWBdQpzVNa63kSp4g%3D%3D) | 2025-10-24 |
 | Tesla | Internship, Embedded Software Engineer, AI Platforms (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-embedded-software-engineer-ai-platforms-winter-spring-2026-at-tesla-4318108769?position=58&pageNum=0&refId=Dme5LTmvv9HXahekkZUFnA%3D%3D&trackingId=Cl522OwKq7tAaA3JeqaHaA%3D%3D) | 2025-10-22 |
 | HCSS | Software Development Interns - Spring 2026 | Sugar Land, TX | [Apply](https://www.linkedin.com/jobs/view/software-development-interns-spring-2026-at-hcss-4317390383?position=16&pageNum=0&refId=qrOHuBB2BepJyqq%2FmjxzIQ%3D%3D&trackingId=nX8gKqPaWNa6AKf5uj%2BlhA%3D%3D) | 2025-10-20 |
