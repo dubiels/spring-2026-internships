@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-10-26*
+*Last updated: 2025-10-27*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Lensa | Software Engineer Intern (Spring 2026) | Pittston, PA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-spring-2026-at-lensa-4332000665?position=39&pageNum=0&refId=FDUvmrkPhBX75E4xvI%2FoDA%3D%3D&trackingId=OgiqmXPFHE1WfpQDvu4vXQ%3D%3D) | 2025-10-27 |
 | Lensa | Production and Development Internships: LA - Spring 2026 | Burbank, CA | [Apply](https://www.linkedin.com/jobs/view/production-and-development-internships-la-spring-2026-at-lensa-4331610861?position=57&pageNum=0&refId=YusormukjAJebwtFWB8B2w%3D%3D&trackingId=t68X1hjqZO6p%2FzKdPo3biQ%3D%3D) | 2025-10-25 |
 | Georgia Tech Research Institute | Software Engineer Student Intern-Spring 2026 - CIPHER | Atlanta, GA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-student-intern-spring-2026-cipher-at-georgia-tech-research-institute-4323959429?position=42&pageNum=0&refId=bxITCimx6YbpDglYH0IOGA%3D%3D&trackingId=XtQmWuWBdQpzVNa63kSp4g%3D%3D) | 2025-10-24 |
 | Tesla | Internship, Embedded Software Engineer, AI Platforms (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-embedded-software-engineer-ai-platforms-winter-spring-2026-at-tesla-4318108769?position=58&pageNum=0&refId=Dme5LTmvv9HXahekkZUFnA%3D%3D&trackingId=Cl522OwKq7tAaA3JeqaHaA%3D%3D) | 2025-10-22 |
