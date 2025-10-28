@@ -1,11 +1,14 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-10-27*
+*Last updated: 2025-10-28*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Signify | Software Engineering Intern, Cooper Lighting Solutions (Spring 2026) | Atlanta, GA | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-cooper-lighting-solutions-spring-2026-at-signify-4332316747?position=41&pageNum=0&refId=1azj6SyDbiFg637vilt8ZQ%3D%3D&trackingId=xo%2BskqwkCecAgBrLPCLyZA%3D%3D) | 2025-10-28 |
+| LA-Tech.org | LA Tech Rising Internship (Cybersecurity & Software) - Spring 2026 | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/la-tech-rising-internship-cybersecurity-software-spring-2026-at-la-tech-org-4332329436?position=38&pageNum=0&refId=8L0vknjznGQYEHxNs%2B63LQ%3D%3D&trackingId=fbjbMa24Kmr%2BSrXraxN9Xg%3D%3D) | 2025-10-28 |
+| Medlaunch Concepts | Spring 2026 - QA Engineering Internship | Clearwater, FL | [Apply](https://www.linkedin.com/jobs/view/spring-2026-qa-engineering-internship-at-medlaunch-concepts-4332411189?position=55&pageNum=0&refId=8L0vknjznGQYEHxNs%2B63LQ%3D%3D&trackingId=ljLX9AMNgyb9ZFpQYId1FA%3D%3D) | 2025-10-28 |
 | Lensa | Software Engineer Intern (Spring 2026) | Pittston, PA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-spring-2026-at-lensa-4332000665?position=39&pageNum=0&refId=FDUvmrkPhBX75E4xvI%2FoDA%3D%3D&trackingId=OgiqmXPFHE1WfpQDvu4vXQ%3D%3D) | 2025-10-27 |
 | Lensa | Production and Development Internships: LA - Spring 2026 | Burbank, CA | [Apply](https://www.linkedin.com/jobs/view/production-and-development-internships-la-spring-2026-at-lensa-4331610861?position=57&pageNum=0&refId=YusormukjAJebwtFWB8B2w%3D%3D&trackingId=t68X1hjqZO6p%2FzKdPo3biQ%3D%3D) | 2025-10-25 |
 | Georgia Tech Research Institute | Software Engineer Student Intern-Spring 2026 - CIPHER | Atlanta, GA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-student-intern-spring-2026-cipher-at-georgia-tech-research-institute-4323959429?position=42&pageNum=0&refId=bxITCimx6YbpDglYH0IOGA%3D%3D&trackingId=XtQmWuWBdQpzVNa63kSp4g%3D%3D) | 2025-10-24 |
