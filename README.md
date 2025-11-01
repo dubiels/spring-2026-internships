@@ -1,16 +1,20 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-10-31*
+*Last updated: 2025-11-01*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Interlink Cloud Advisors | Security Intern (Winter/Spring 2026) | Mason, OH | [Apply](https://www.linkedin.com/jobs/view/security-intern-winter-spring-2026-at-interlink-cloud-advisors-4320192295?position=10&pageNum=0&refId=7g2BrQAuaImRPQN0a%2Fs%2BOw%3D%3D&trackingId=6%2F8E%2B9bi3aPB6cYbBU36XQ%3D%3D) | 2025-11-01 |
+| Siemens | Strategic Student Program: Technology and Innovation Intern (Spring 2026) | Waltham, MA | [Apply](https://www.linkedin.com/jobs/view/strategic-student-program-technology-and-innovation-intern-spring-2026-at-siemens-4333503077?position=41&pageNum=0&refId=7g2BrQAuaImRPQN0a%2Fs%2BOw%3D%3D&trackingId=uCxklfpiDOHG0%2FJrf3STjA%3D%3D) | 2025-11-01 |
+| Eide Bailly LLP | Cybersecurity Intern (Remote - Spring 2026) | Lehi, UT | [Apply](https://www.linkedin.com/jobs/view/cybersecurity-intern-remote-spring-2026-at-eide-bailly-llp-4331766545?position=59&pageNum=0&refId=7g2BrQAuaImRPQN0a%2Fs%2BOw%3D%3D&trackingId=6iOzFe%2F0kImafIH7%2FkZ%2F0g%3D%3D) | 2025-11-01 |
 | Medlaunch Concepts | Spring 2026 Internship- AI/ML Developer | Clearwater, FL | [Apply](https://www.linkedin.com/jobs/view/spring-2026-internship-ai-ml-developer-at-medlaunch-concepts-4333071570?position=28&pageNum=0&refId=oQ6WAvCjcOhqjxA%2BxjqasA%3D%3D&trackingId=NVZ0g6lXjYmeNpHA3GDZ%2BA%3D%3D) | 2025-10-30 |
 | Walt Disney World | System App Dev & Sustainment Intern, Spring 2026 | Orlando, FL | [Apply](https://www.linkedin.com/jobs/view/system-app-dev-sustainment-intern-spring-2026-at-walt-disney-world-4332857676?position=40&pageNum=0&refId=oQ6WAvCjcOhqjxA%2BxjqasA%3D%3D&trackingId=DQlo2vEjUFPWJHlMbqehYA%3D%3D) | 2025-10-30 |
 | SIGNIFY SIGNMAKERS & SCREENPRINTING LIMITED | Software Engineering Intern, Cooper Lighting Solutions (Spring 2026) | Atlanta, GA | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-cooper-lighting-solutions-spring-2026-at-signify-signmakers-screenprinting-limited-4333081009?position=43&pageNum=0&refId=oQ6WAvCjcOhqjxA%2BxjqasA%3D%3D&trackingId=eJ0vZeC0DRvwGyaJ43YN0w%3D%3D) | 2025-10-30 |
 | HCSS | Data Engineering Intern - Spring 2026 | Sugar Land, TX | [Apply](https://www.linkedin.com/jobs/view/data-engineering-intern-spring-2026-at-hcss-4333011811?position=41&pageNum=0&refId=N4to5danCyMOlMnc7LAGUg%3D%3D&trackingId=clpfwfO%2BSTzdhwhI%2FfmdWg%3D%3D) | 2025-10-29 |
 | HCSS | Cloud Services Intern - Spring 2026 | Sugar Land, TX | [Apply](https://www.linkedin.com/jobs/view/cloud-services-intern-spring-2026-at-hcss-4333021834?position=56&pageNum=0&refId=N4to5danCyMOlMnc7LAGUg%3D%3D&trackingId=hE8U51yJo7FIHBXCHn0EwA%3D%3D) | 2025-10-29 |
+| Medlaunch Concepts | Spring 2026 - Full Stack Internship | Clearwater, FL | [Apply](https://www.linkedin.com/jobs/view/spring-2026-full-stack-internship-at-medlaunch-concepts-4333090881?position=54&pageNum=0&refId=dQP7XSMF7YCFVT4c%2Fpys5Q%3D%3D&trackingId=QwcEmhgvPhiYjrgttKYo0w%3D%3D) | 2025-10-29 |
 | Signify | Software Engineering Intern, Cooper Lighting Solutions (Spring 2026) | Atlanta, GA | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-cooper-lighting-solutions-spring-2026-at-signify-4332316747?position=41&pageNum=0&refId=1azj6SyDbiFg637vilt8ZQ%3D%3D&trackingId=xo%2BskqwkCecAgBrLPCLyZA%3D%3D) | 2025-10-28 |
 | LA-Tech.org | LA Tech Rising Internship (Cybersecurity & Software) - Spring 2026 | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/la-tech-rising-internship-cybersecurity-software-spring-2026-at-la-tech-org-4332329436?position=38&pageNum=0&refId=8L0vknjznGQYEHxNs%2B63LQ%3D%3D&trackingId=fbjbMa24Kmr%2BSrXraxN9Xg%3D%3D) | 2025-10-28 |
 | Medlaunch Concepts | Spring 2026 - QA Engineering Internship | Clearwater, FL | [Apply](https://www.linkedin.com/jobs/view/spring-2026-qa-engineering-internship-at-medlaunch-concepts-4332411189?position=55&pageNum=0&refId=8L0vknjznGQYEHxNs%2B63LQ%3D%3D&trackingId=ljLX9AMNgyb9ZFpQYId1FA%3D%3D) | 2025-10-28 |
