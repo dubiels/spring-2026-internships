@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-11-01*
+*Last updated: 2025-11-02*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Sony Pictures Entertainment | AI Strategy Intern, S3 and Facilities - Spring 2026 | Culver City, CA | [Apply](https://www.linkedin.com/jobs/view/ai-strategy-intern-s3-and-facilities-spring-2026-at-sony-pictures-entertainment-4333537894?position=31&pageNum=0&refId=2KE03w917FtJLUZd%2FPt6RQ%3D%3D&trackingId=4F1%2F5KTai%2Be0ds52F%2F%2FlIQ%3D%3D) | 2025-11-02 |
 | Interlink Cloud Advisors | Security Intern (Winter/Spring 2026) | Mason, OH | [Apply](https://www.linkedin.com/jobs/view/security-intern-winter-spring-2026-at-interlink-cloud-advisors-4320192295?position=10&pageNum=0&refId=7g2BrQAuaImRPQN0a%2Fs%2BOw%3D%3D&trackingId=6%2F8E%2B9bi3aPB6cYbBU36XQ%3D%3D) | 2025-11-01 |
 | Siemens | Strategic Student Program: Technology and Innovation Intern (Spring 2026) | Waltham, MA | [Apply](https://www.linkedin.com/jobs/view/strategic-student-program-technology-and-innovation-intern-spring-2026-at-siemens-4333503077?position=41&pageNum=0&refId=7g2BrQAuaImRPQN0a%2Fs%2BOw%3D%3D&trackingId=uCxklfpiDOHG0%2FJrf3STjA%3D%3D) | 2025-11-01 |
 | Eide Bailly LLP | Cybersecurity Intern (Remote - Spring 2026) | Lehi, UT | [Apply](https://www.linkedin.com/jobs/view/cybersecurity-intern-remote-spring-2026-at-eide-bailly-llp-4331766545?position=59&pageNum=0&refId=7g2BrQAuaImRPQN0a%2Fs%2BOw%3D%3D&trackingId=6iOzFe%2F0kImafIH7%2FkZ%2F0g%3D%3D) | 2025-11-01 |
