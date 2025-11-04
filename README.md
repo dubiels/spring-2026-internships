@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-11-03*
+*Last updated: 2025-11-04*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Tesla | Internship, Machine Learning Engineer, Factory Software (Winter/Spring 2026) | Fremont, CA | [Apply](https://www.linkedin.com/jobs/view/internship-machine-learning-engineer-factory-software-winter-spring-2026-at-tesla-4334082747?position=50&pageNum=0&refId=zYfmEc3Uxfkab9O5Iwa74w%3D%3D&trackingId=vxxls%2B%2Fxgh8jr8sEpoElUw%3D%3D) | 2025-11-04 |
 | ExecutivePlacements.com | Software Engineer Intern - Winter / Spring Session (January - April 2026) | Redwood City, CA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-winter-spring-session-january-april-2026-at-executiveplacements-com-4333667728?position=18&pageNum=0&refId=qawQGUaIhuAFqaM2Cl90jQ%3D%3D&trackingId=IeHVNPUvPSr4ZGOg2%2BTkYA%3D%3D) | 2025-11-03 |
 | Medlaunch Concepts | Spring 2026 Internship- Frontend Developer | Clearwater, FL | [Apply](https://www.linkedin.com/jobs/view/spring-2026-internship-frontend-developer-at-medlaunch-concepts-4333811310?position=45&pageNum=0&refId=qawQGUaIhuAFqaM2Cl90jQ%3D%3D&trackingId=9%2FNNBSopDIdZycAsc09DIw%3D%3D) | 2025-11-03 |
 | ArchCity Defenders | Spring 2026 Development Internship | St Louis, MO | [Apply](https://www.linkedin.com/jobs/view/spring-2026-development-internship-at-archcity-defenders-4333841332?position=50&pageNum=0&refId=MB%2BHvmnHdsJHUR%2F9v3L13g%3D%3D&trackingId=xuS9u8G9dbRwJucfoFxEGA%3D%3D) | 2025-11-03 |
