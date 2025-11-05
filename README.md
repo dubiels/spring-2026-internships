@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-11-04*
+*Last updated: 2025-11-05*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Teradyne | Software Engineer Spring 2026 Intern (Teradyne, Agoura Hills, CA) | Agoura Hills, CA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-spring-2026-intern-teradyne-agoura-hills-ca-at-teradyne-4337408960?position=21&pageNum=0&refId=uaW8NKSDKi4SvCAfD%2BWqag%3D%3D&trackingId=190I8Q88YJu8LiW7STVAcg%3D%3D) | 2025-11-05 |
 | Tesla | Internship, Machine Learning Engineer, Factory Software (Winter/Spring 2026) | Fremont, CA | [Apply](https://www.linkedin.com/jobs/view/internship-machine-learning-engineer-factory-software-winter-spring-2026-at-tesla-4334082747?position=50&pageNum=0&refId=zYfmEc3Uxfkab9O5Iwa74w%3D%3D&trackingId=vxxls%2B%2Fxgh8jr8sEpoElUw%3D%3D) | 2025-11-04 |
 | ExecutivePlacements.com | Software Engineer Intern - Winter / Spring Session (January - April 2026) | Redwood City, CA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-winter-spring-session-january-april-2026-at-executiveplacements-com-4333667728?position=18&pageNum=0&refId=qawQGUaIhuAFqaM2Cl90jQ%3D%3D&trackingId=IeHVNPUvPSr4ZGOg2%2BTkYA%3D%3D) | 2025-11-03 |
 | Medlaunch Concepts | Spring 2026 Internship- Frontend Developer | Clearwater, FL | [Apply](https://www.linkedin.com/jobs/view/spring-2026-internship-frontend-developer-at-medlaunch-concepts-4333811310?position=45&pageNum=0&refId=qawQGUaIhuAFqaM2Cl90jQ%3D%3D&trackingId=9%2FNNBSopDIdZycAsc09DIw%3D%3D) | 2025-11-03 |
@@ -27,6 +28,7 @@ This README is automatically updated daily with new Spring 2026 tech internship 
 | Lensa | Production and Development Internships: LA - Spring 2026 | Burbank, CA | [Apply](https://www.linkedin.com/jobs/view/production-and-development-internships-la-spring-2026-at-lensa-4331610861?position=57&pageNum=0&refId=YusormukjAJebwtFWB8B2w%3D%3D&trackingId=t68X1hjqZO6p%2FzKdPo3biQ%3D%3D) | 2025-10-25 |
 | Georgia Tech Research Institute | Software Engineer Student Intern-Spring 2026 - CIPHER | Atlanta, GA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-student-intern-spring-2026-cipher-at-georgia-tech-research-institute-4323959429?position=42&pageNum=0&refId=bxITCimx6YbpDglYH0IOGA%3D%3D&trackingId=XtQmWuWBdQpzVNa63kSp4g%3D%3D) | 2025-10-24 |
 | Tesla | Internship, Embedded Software Engineer, AI Platforms (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-embedded-software-engineer-ai-platforms-winter-spring-2026-at-tesla-4318108769?position=58&pageNum=0&refId=Dme5LTmvv9HXahekkZUFnA%3D%3D&trackingId=Cl522OwKq7tAaA3JeqaHaA%3D%3D) | 2025-10-22 |
+| Firefly | Internship - Software Engineering - Spring 2026 | Cedar Park, TX | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineering-spring-2026-at-firefly-4306161162?position=4&pageNum=0&refId=uaW8NKSDKi4SvCAfD%2BWqag%3D%3D&trackingId=KbU2mV4Uw0Y32hffuEwVqw%3D%3D) | 2025-10-22 |
 | HCSS | Software Development Interns - Spring 2026 | Sugar Land, TX | [Apply](https://www.linkedin.com/jobs/view/software-development-interns-spring-2026-at-hcss-4317390383?position=16&pageNum=0&refId=qrOHuBB2BepJyqq%2FmjxzIQ%3D%3D&trackingId=nX8gKqPaWNa6AKf5uj%2BlhA%3D%3D) | 2025-10-20 |
 | Walt Disney World | Glendale System Software Engineering Internship, Spring 2026 | Glendale, CA | [Apply](https://www.linkedin.com/jobs/view/glendale-system-software-engineering-internship-spring-2026-at-walt-disney-world-4316086928?position=2&pageNum=0&refId=Mbi%2BF%2FvNq10GFCxRIlruuQ%3D%3D&trackingId=S42FLqkgV%2Br0pNh5x75g3g%3D%3D) | 2025-10-18 |
 | Warner Bros. Discovery | Programming Internships: LA - Spring 2026 | Culver City, CA | [Apply](https://www.linkedin.com/jobs/view/programming-internships-la-spring-2026-at-warner-bros-discovery-4316537417?position=3&pageNum=0&refId=OM0saqiyNsjLvKnc6QRHng%3D%3D&trackingId=XDThLyX4ET477b3wAxakpg%3D%3D) | 2025-10-18 |
