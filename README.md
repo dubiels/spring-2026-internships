@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-11-05*
+*Last updated: 2025-11-06*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| University of South Florida Libraries | IAE Software Engineer Intern - Spring 2026 | Tampa, FL | [Apply](https://www.linkedin.com/jobs/view/iae-software-engineer-intern-spring-2026-at-university-of-south-florida-libraries-4320885989?position=32&pageNum=0&refId=TXH2XtwvvthvhYT4Boc1Iw%3D%3D&trackingId=cKR6wpOB%2BaDBAfrMwnNZ7w%3D%3D) | 2025-11-06 |
 | Teradyne | Software Engineer Spring 2026 Intern (Teradyne, Agoura Hills, CA) | Agoura Hills, CA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-spring-2026-intern-teradyne-agoura-hills-ca-at-teradyne-4337408960?position=21&pageNum=0&refId=uaW8NKSDKi4SvCAfD%2BWqag%3D%3D&trackingId=190I8Q88YJu8LiW7STVAcg%3D%3D) | 2025-11-05 |
 | Tesla | Internship, Machine Learning Engineer, Factory Software (Winter/Spring 2026) | Fremont, CA | [Apply](https://www.linkedin.com/jobs/view/internship-machine-learning-engineer-factory-software-winter-spring-2026-at-tesla-4334082747?position=50&pageNum=0&refId=zYfmEc3Uxfkab9O5Iwa74w%3D%3D&trackingId=vxxls%2B%2Fxgh8jr8sEpoElUw%3D%3D) | 2025-11-04 |
 | ExecutivePlacements.com | Software Engineer Intern - Winter / Spring Session (January - April 2026) | Redwood City, CA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-winter-spring-session-january-april-2026-at-executiveplacements-com-4333667728?position=18&pageNum=0&refId=qawQGUaIhuAFqaM2Cl90jQ%3D%3D&trackingId=IeHVNPUvPSr4ZGOg2%2BTkYA%3D%3D) | 2025-11-03 |
