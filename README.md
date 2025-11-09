@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-11-08*
+*Last updated: 2025-11-09*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Georgia Tech Research Institute | Test Systems Software Intern - Spring 2026 - ELSYS | Smyrna, GA | [Apply](https://www.linkedin.com/jobs/view/test-systems-software-intern-spring-2026-elsys-at-georgia-tech-research-institute-4316372867?position=59&pageNum=0&refId=OdKvkqJeW8mSK1xoSZF52A%3D%3D&trackingId=fFdcTrphpyPyV2NabUbnHQ%3D%3D) | 2025-11-09 |
 | Apex - Spacecraft Manufacturing | Software Engineer Internship (Spring 2026) | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-internship-spring-2026-at-apex-spacecraft-manufacturing-4334851379?position=6&pageNum=0&refId=vsavh%2BXtqVG4grFpxlHIiQ%3D%3D&trackingId=JKSFrEFTnYlSsUeKpyl7aw%3D%3D) | 2025-11-07 |
 | University of South Florida Libraries | IAE Software Engineer Intern - Spring 2026 | Tampa, FL | [Apply](https://www.linkedin.com/jobs/view/iae-software-engineer-intern-spring-2026-at-university-of-south-florida-libraries-4320885989?position=32&pageNum=0&refId=TXH2XtwvvthvhYT4Boc1Iw%3D%3D&trackingId=cKR6wpOB%2BaDBAfrMwnNZ7w%3D%3D) | 2025-11-06 |
 | Teradyne | Software Engineer Spring 2026 Intern (Teradyne, Agoura Hills, CA) | Agoura Hills, CA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-spring-2026-intern-teradyne-agoura-hills-ca-at-teradyne-4337408960?position=21&pageNum=0&refId=uaW8NKSDKi4SvCAfD%2BWqag%3D%3D&trackingId=190I8Q88YJu8LiW7STVAcg%3D%3D) | 2025-11-05 |
@@ -23,6 +24,7 @@ This README is automatically updated daily with new Spring 2026 tech internship 
 | HCSS | Data Engineering Intern - Spring 2026 | Sugar Land, TX | [Apply](https://www.linkedin.com/jobs/view/data-engineering-intern-spring-2026-at-hcss-4333011811?position=41&pageNum=0&refId=N4to5danCyMOlMnc7LAGUg%3D%3D&trackingId=clpfwfO%2BSTzdhwhI%2FfmdWg%3D%3D) | 2025-10-29 |
 | HCSS | Cloud Services Intern - Spring 2026 | Sugar Land, TX | [Apply](https://www.linkedin.com/jobs/view/cloud-services-intern-spring-2026-at-hcss-4333021834?position=56&pageNum=0&refId=N4to5danCyMOlMnc7LAGUg%3D%3D&trackingId=hE8U51yJo7FIHBXCHn0EwA%3D%3D) | 2025-10-29 |
 | Medlaunch Concepts | Spring 2026 - Full Stack Internship | Clearwater, FL | [Apply](https://www.linkedin.com/jobs/view/spring-2026-full-stack-internship-at-medlaunch-concepts-4333090881?position=54&pageNum=0&refId=dQP7XSMF7YCFVT4c%2Fpys5Q%3D%3D&trackingId=QwcEmhgvPhiYjrgttKYo0w%3D%3D) | 2025-10-29 |
+| Tesla | Internship, Software Engineer, Service Engineering (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineer-service-engineering-winter-spring-2026-at-tesla-4333131854?position=60&pageNum=0&refId=dNfP2E5tZQcfr1L%2BYhcp5w%3D%3D&trackingId=4nafpkg0YEUYjtxYug2y3Q%3D%3D) | 2025-10-29 |
 | Signify | Software Engineering Intern, Cooper Lighting Solutions (Spring 2026) | Atlanta, GA | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-cooper-lighting-solutions-spring-2026-at-signify-4332316747?position=41&pageNum=0&refId=1azj6SyDbiFg637vilt8ZQ%3D%3D&trackingId=xo%2BskqwkCecAgBrLPCLyZA%3D%3D) | 2025-10-28 |
 | LA-Tech.org | LA Tech Rising Internship (Cybersecurity & Software) - Spring 2026 | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/la-tech-rising-internship-cybersecurity-software-spring-2026-at-la-tech-org-4332329436?position=38&pageNum=0&refId=8L0vknjznGQYEHxNs%2B63LQ%3D%3D&trackingId=fbjbMa24Kmr%2BSrXraxN9Xg%3D%3D) | 2025-10-28 |
 | Medlaunch Concepts | Spring 2026 - QA Engineering Internship | Clearwater, FL | [Apply](https://www.linkedin.com/jobs/view/spring-2026-qa-engineering-internship-at-medlaunch-concepts-4332411189?position=55&pageNum=0&refId=8L0vknjznGQYEHxNs%2B63LQ%3D%3D&trackingId=ljLX9AMNgyb9ZFpQYId1FA%3D%3D) | 2025-10-28 |
