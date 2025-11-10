@@ -1,11 +1,13 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-11-09*
+*Last updated: 2025-11-10*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| ExecutivePlacements.com | Software Engineer Internship (Spring 2026) | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-internship-spring-2026-at-executiveplacements-com-4334957899?position=8&pageNum=0&refId=MreNmR5SVHAbOyXIb4LyyA%3D%3D&trackingId=4wQDqvKH7ajuNjduD96%2FVQ%3D%3D) | 2025-11-10 |
+| BayCare Health System | BayCare EAYL Patient Care Tech Internship Program- January 2026 | Tampa, FL | [Apply](https://www.linkedin.com/jobs/view/baycare-eayl-patient-care-tech-internship-program-january-2026-at-baycare-health-system-4335260732?position=21&pageNum=0&refId=gZZcGk7pQOl43kxCqt9iOw%3D%3D&trackingId=iFA2PEZbl%2FSIJjkMPNIjaw%3D%3D) | 2025-11-10 |
 | Georgia Tech Research Institute | Test Systems Software Intern - Spring 2026 - ELSYS | Smyrna, GA | [Apply](https://www.linkedin.com/jobs/view/test-systems-software-intern-spring-2026-elsys-at-georgia-tech-research-institute-4316372867?position=59&pageNum=0&refId=OdKvkqJeW8mSK1xoSZF52A%3D%3D&trackingId=fFdcTrphpyPyV2NabUbnHQ%3D%3D) | 2025-11-09 |
 | Apex - Spacecraft Manufacturing | Software Engineer Internship (Spring 2026) | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-internship-spring-2026-at-apex-spacecraft-manufacturing-4334851379?position=6&pageNum=0&refId=vsavh%2BXtqVG4grFpxlHIiQ%3D%3D&trackingId=JKSFrEFTnYlSsUeKpyl7aw%3D%3D) | 2025-11-07 |
 | University of South Florida Libraries | IAE Software Engineer Intern - Spring 2026 | Tampa, FL | [Apply](https://www.linkedin.com/jobs/view/iae-software-engineer-intern-spring-2026-at-university-of-south-florida-libraries-4320885989?position=32&pageNum=0&refId=TXH2XtwvvthvhYT4Boc1Iw%3D%3D&trackingId=cKR6wpOB%2BaDBAfrMwnNZ7w%3D%3D) | 2025-11-06 |
