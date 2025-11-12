@@ -1,11 +1,13 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-11-11*
+*Last updated: 2025-11-12*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| LitePoint | RF Applications Engineer Spring 2026 Intern (LitePoint, San Jose, CA) | San Jose, CA | [Apply](https://www.linkedin.com/jobs/view/rf-applications-engineer-spring-2026-intern-litepoint-san-jose-ca-at-litepoint-4339924808?position=44&pageNum=0&refId=HB%2B4ZbMe6li%2Ff2y%2BXXyoUQ%3D%3D&trackingId=Rk3JSCKdnvahz4NFLP9yKw%3D%3D) | 2025-11-12 |
+| BayCare Health System | BayCare EAYL Patient Care Tech Internship Program- St. Anthony Hospital January 2026 | Pinellas County, FL | [Apply](https://www.linkedin.com/jobs/view/baycare-eayl-patient-care-tech-internship-program-st-anthony-hospital-january-2026-at-baycare-health-system-4335399411?position=25&pageNum=0&refId=nQuRREHiHLnuWfpxQHV7VQ%3D%3D&trackingId=wLAwLt1tILyyQUEDsQUhSg%3D%3D) | 2025-11-12 |
 | ExecutivePlacements.com | Software Engineer Internship (Spring 2026) | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-internship-spring-2026-at-executiveplacements-com-4334957899?position=8&pageNum=0&refId=MreNmR5SVHAbOyXIb4LyyA%3D%3D&trackingId=4wQDqvKH7ajuNjduD96%2FVQ%3D%3D) | 2025-11-10 |
 | BayCare Health System | BayCare EAYL Patient Care Tech Internship Program- January 2026 | Tampa, FL | [Apply](https://www.linkedin.com/jobs/view/baycare-eayl-patient-care-tech-internship-program-january-2026-at-baycare-health-system-4335260732?position=21&pageNum=0&refId=gZZcGk7pQOl43kxCqt9iOw%3D%3D&trackingId=iFA2PEZbl%2FSIJjkMPNIjaw%3D%3D) | 2025-11-10 |
 | Georgia Tech Research Institute | Test Systems Software Intern - Spring 2026 - ELSYS | Smyrna, GA | [Apply](https://www.linkedin.com/jobs/view/test-systems-software-intern-spring-2026-elsys-at-georgia-tech-research-institute-4316372867?position=59&pageNum=0&refId=OdKvkqJeW8mSK1xoSZF52A%3D%3D&trackingId=fFdcTrphpyPyV2NabUbnHQ%3D%3D) | 2025-11-09 |
