@@ -1,11 +1,15 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-11-14*
+*Last updated: 2025-11-15*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Medlaunch Concepts | Spring 2026 Internship- Backend Developer | Clearwater, FL | [Apply](https://www.linkedin.com/jobs/view/spring-2026-internship-backend-developer-at-medlaunch-concepts-4336256099?position=39&pageNum=0&refId=faUcR36cCe1SowzInbUiWQ%3D%3D&trackingId=W0zIbxAhShiXvsw82TlSrw%3D%3D) | 2025-11-15 |
+| Democratic National Committee | Spring 2026 DNC Technology Internship | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/spring-2026-dnc-technology-internship-at-democratic-national-committee-4336116486?position=3&pageNum=0&refId=Jbc5NB5Qtg30VgcUPzkBZg%3D%3D&trackingId=ZxmoJ0IxgRkhD6oV4dpnKQ%3D%3D) | 2025-11-15 |
+| AV | Spring 2026 Electrical Engineering Intern | Petaluma, CA | [Apply](https://www.linkedin.com/jobs/view/spring-2026-electrical-engineering-intern-at-av-4315636401?position=36&pageNum=0&refId=Jbc5NB5Qtg30VgcUPzkBZg%3D%3D&trackingId=roVV73VEbmQK%2F%2B7XJgYsmw%3D%3D) | 2025-11-15 |
+| Closr. | Digital Retail Strategy Intern (Spring 2026) | New York, NY | [Apply](https://www.linkedin.com/jobs/view/digital-retail-strategy-intern-spring-2026-at-closr-4336074875?position=40&pageNum=0&refId=Jbc5NB5Qtg30VgcUPzkBZg%3D%3D&trackingId=%2FryO3gL5OKyMJMABnPD1Bg%3D%3D) | 2025-11-15 |
 | ExecutivePlacements.com | Software Engineer Intern (Spring 2026) | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-spring-2026-at-executiveplacements-com-4335910973?position=16&pageNum=0&refId=1ksig8SKhLFbpHlRhH0XMQ%3D%3D&trackingId=UkwwOifF5E2BOguQA3LFsQ%3D%3D) | 2025-11-14 |
 | C3Aero | Software Engineering Intern (Spring 2026) | Burlington, MA | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-spring-2026-at-c3aero-4322121420?position=1&pageNum=0&refId=eXLbd8fXxH0xNwBTU84DWw%3D%3D&trackingId=wUwI%2BRmc1TyW8i1MG9jrUA%3D%3D) | 2025-11-13 |
 | Primer | Spring/Summer 2026 Engineering Intern | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/spring-summer-2026-engineering-intern-at-primer-4335637939?position=7&pageNum=0&refId=eXLbd8fXxH0xNwBTU84DWw%3D%3D&trackingId=YrKndQYhOjpU%2FN%2FPHSftYQ%3D%3D) | 2025-11-13 |
@@ -37,6 +41,7 @@ This README is automatically updated daily with new Spring 2026 tech internship 
 | Signify | Software Engineering Intern, Cooper Lighting Solutions (Spring 2026) | Atlanta, GA | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-cooper-lighting-solutions-spring-2026-at-signify-4332316747?position=41&pageNum=0&refId=1azj6SyDbiFg637vilt8ZQ%3D%3D&trackingId=xo%2BskqwkCecAgBrLPCLyZA%3D%3D) | 2025-10-28 |
 | LA-Tech.org | LA Tech Rising Internship (Cybersecurity & Software) - Spring 2026 | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/la-tech-rising-internship-cybersecurity-software-spring-2026-at-la-tech-org-4332329436?position=38&pageNum=0&refId=8L0vknjznGQYEHxNs%2B63LQ%3D%3D&trackingId=fbjbMa24Kmr%2BSrXraxN9Xg%3D%3D) | 2025-10-28 |
 | Medlaunch Concepts | Spring 2026 - QA Engineering Internship | Clearwater, FL | [Apply](https://www.linkedin.com/jobs/view/spring-2026-qa-engineering-internship-at-medlaunch-concepts-4332411189?position=55&pageNum=0&refId=8L0vknjznGQYEHxNs%2B63LQ%3D%3D&trackingId=ljLX9AMNgyb9ZFpQYId1FA%3D%3D) | 2025-10-28 |
+| Power Digital Marketing | Retail Marketplace (Ecommerce) Internship, Spring 2026 | United States | [Apply](https://www.linkedin.com/jobs/view/retail-marketplace-ecommerce-internship-spring-2026-at-power-digital-marketing-4318926771?position=59&pageNum=0&refId=Jbc5NB5Qtg30VgcUPzkBZg%3D%3D&trackingId=aGFSuX2Mi23Ywht%2BMVG4Aw%3D%3D) | 2025-10-28 |
 | Lensa | Software Engineer Intern (Spring 2026) | Pittston, PA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-spring-2026-at-lensa-4332000665?position=39&pageNum=0&refId=FDUvmrkPhBX75E4xvI%2FoDA%3D%3D&trackingId=OgiqmXPFHE1WfpQDvu4vXQ%3D%3D) | 2025-10-27 |
 | Lensa | Production and Development Internships: LA - Spring 2026 | Burbank, CA | [Apply](https://www.linkedin.com/jobs/view/production-and-development-internships-la-spring-2026-at-lensa-4331610861?position=57&pageNum=0&refId=YusormukjAJebwtFWB8B2w%3D%3D&trackingId=t68X1hjqZO6p%2FzKdPo3biQ%3D%3D) | 2025-10-25 |
 | First Solar | Development Engineer Intern (Spring 2026) | Perrysburg, OH | [Apply](https://www.linkedin.com/jobs/view/development-engineer-intern-spring-2026-at-first-solar-4318654339?position=32&pageNum=0&refId=rI6DuHdmn5mM1L4laD7n2w%3D%3D&trackingId=%2BDY9l51Bbkg%2BE4dI%2BzZiMw%3D%3D) | 2025-10-25 |
