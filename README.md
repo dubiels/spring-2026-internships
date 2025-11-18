@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-11-17*
+*Last updated: 2025-11-18*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Eide Bailly LLP | Project Management, Tech Consulting Internship (Spring 2026) | Lehi, UT | [Apply](https://www.linkedin.com/jobs/view/project-management-tech-consulting-internship-spring-2026-at-eide-bailly-llp-4341334186?position=7&pageNum=0&refId=9S%2FPLCbNvz7lVMb3YqF%2FCQ%3D%3D&trackingId=RhmwhBU8vaIa3ASxfD85bQ%3D%3D) | 2025-11-18 |
 | Medlaunch Concepts | Spring 2026 Internship- Backend Developer | Clearwater, FL | [Apply](https://www.linkedin.com/jobs/view/spring-2026-internship-backend-developer-at-medlaunch-concepts-4336256099?position=39&pageNum=0&refId=faUcR36cCe1SowzInbUiWQ%3D%3D&trackingId=W0zIbxAhShiXvsw82TlSrw%3D%3D) | 2025-11-15 |
 | Democratic National Committee | Spring 2026 DNC Technology Internship | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/spring-2026-dnc-technology-internship-at-democratic-national-committee-4336116486?position=3&pageNum=0&refId=Jbc5NB5Qtg30VgcUPzkBZg%3D%3D&trackingId=ZxmoJ0IxgRkhD6oV4dpnKQ%3D%3D) | 2025-11-15 |
 | AV | Spring 2026 Electrical Engineering Intern | Petaluma, CA | [Apply](https://www.linkedin.com/jobs/view/spring-2026-electrical-engineering-intern-at-av-4315636401?position=36&pageNum=0&refId=Jbc5NB5Qtg30VgcUPzkBZg%3D%3D&trackingId=roVV73VEbmQK%2F%2B7XJgYsmw%3D%3D) | 2025-11-15 |
@@ -22,6 +23,7 @@ This README is automatically updated daily with new Spring 2026 tech internship 
 | Georgia Tech Research Institute | Test Systems Software Intern - Spring 2026 - ELSYS | Smyrna, GA | [Apply](https://www.linkedin.com/jobs/view/test-systems-software-intern-spring-2026-elsys-at-georgia-tech-research-institute-4316372867?position=59&pageNum=0&refId=OdKvkqJeW8mSK1xoSZF52A%3D%3D&trackingId=fFdcTrphpyPyV2NabUbnHQ%3D%3D) | 2025-11-09 |
 | Apex - Spacecraft Manufacturing | Software Engineer Internship (Spring 2026) | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-internship-spring-2026-at-apex-spacecraft-manufacturing-4334851379?position=6&pageNum=0&refId=vsavh%2BXtqVG4grFpxlHIiQ%3D%3D&trackingId=JKSFrEFTnYlSsUeKpyl7aw%3D%3D) | 2025-11-07 |
 | University of South Florida Libraries | IAE Software Engineer Intern - Spring 2026 | Tampa, FL | [Apply](https://www.linkedin.com/jobs/view/iae-software-engineer-intern-spring-2026-at-university-of-south-florida-libraries-4320885989?position=32&pageNum=0&refId=TXH2XtwvvthvhYT4Boc1Iw%3D%3D&trackingId=cKR6wpOB%2BaDBAfrMwnNZ7w%3D%3D) | 2025-11-06 |
+| Lenovo | AI Engineering Intern - Spring 2026 | North Carolina, United States | [Apply](https://www.linkedin.com/jobs/view/ai-engineering-intern-spring-2026-at-lenovo-4321193979?position=10&pageNum=0&refId=al2AGTgLIEFNIoLM9cD0VQ%3D%3D&trackingId=hVlGU5G0DcuhW8E55GWJgg%3D%3D) | 2025-11-06 |
 | Teradyne | Software Engineer Spring 2026 Intern (Teradyne, Agoura Hills, CA) | Agoura Hills, CA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-spring-2026-intern-teradyne-agoura-hills-ca-at-teradyne-4337408960?position=21&pageNum=0&refId=uaW8NKSDKi4SvCAfD%2BWqag%3D%3D&trackingId=190I8Q88YJu8LiW7STVAcg%3D%3D) | 2025-11-05 |
 | Tesla | Internship, Machine Learning Engineer, Factory Software (Winter/Spring 2026) | Fremont, CA | [Apply](https://www.linkedin.com/jobs/view/internship-machine-learning-engineer-factory-software-winter-spring-2026-at-tesla-4334082747?position=50&pageNum=0&refId=zYfmEc3Uxfkab9O5Iwa74w%3D%3D&trackingId=vxxls%2B%2Fxgh8jr8sEpoElUw%3D%3D) | 2025-11-04 |
 | ExecutivePlacements.com | Software Engineer Intern - Winter / Spring Session (January - April 2026) | Redwood City, CA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-winter-spring-session-january-april-2026-at-executiveplacements-com-4333667728?position=18&pageNum=0&refId=qawQGUaIhuAFqaM2Cl90jQ%3D%3D&trackingId=IeHVNPUvPSr4ZGOg2%2BTkYA%3D%3D) | 2025-11-03 |
