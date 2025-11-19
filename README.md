@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-11-18*
+*Last updated: 2025-11-19*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Encore | Event Technology Internship (Spring Semester 2026) - Los Angeles | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/event-technology-internship-spring-semester-2026-los-angeles-at-encore-4323165614?position=46&pageNum=0&refId=RzJzs5LDc83F1fkmVGHFBQ%3D%3D&trackingId=4Ta7QIqHC3wMM%2FNhie8OZA%3D%3D) | 2025-11-19 |
 | Eide Bailly LLP | Project Management, Tech Consulting Internship (Spring 2026) | Lehi, UT | [Apply](https://www.linkedin.com/jobs/view/project-management-tech-consulting-internship-spring-2026-at-eide-bailly-llp-4341334186?position=7&pageNum=0&refId=9S%2FPLCbNvz7lVMb3YqF%2FCQ%3D%3D&trackingId=RhmwhBU8vaIa3ASxfD85bQ%3D%3D) | 2025-11-18 |
 | Medlaunch Concepts | Spring 2026 Internship- Backend Developer | Clearwater, FL | [Apply](https://www.linkedin.com/jobs/view/spring-2026-internship-backend-developer-at-medlaunch-concepts-4336256099?position=39&pageNum=0&refId=faUcR36cCe1SowzInbUiWQ%3D%3D&trackingId=W0zIbxAhShiXvsw82TlSrw%3D%3D) | 2025-11-15 |
 | Democratic National Committee | Spring 2026 DNC Technology Internship | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/spring-2026-dnc-technology-internship-at-democratic-national-committee-4336116486?position=3&pageNum=0&refId=Jbc5NB5Qtg30VgcUPzkBZg%3D%3D&trackingId=ZxmoJ0IxgRkhD6oV4dpnKQ%3D%3D) | 2025-11-15 |
@@ -118,6 +119,7 @@ This README is automatically updated daily with new Spring 2026 tech internship 
 | Jobs via Dice | Internship, Sensor Hardware Design Engineer, Optimus (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-sensor-hardware-design-engineer-optimus-winter-spring-2026-at-jobs-via-dice-4301194526?position=47&pageNum=0&refId=5Zvx4yMhZ2utX1GKoVlfyA%3D%3D&trackingId=XilMd292lNyNdIPXKXlNVw%3D%3D) | 2025-09-16 |
 | Jobs via Dice | Internship, Electrical Engineer, Energy Engineering (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-electrical-engineer-energy-engineering-winter-spring-2026-at-jobs-via-dice-4301186768?position=52&pageNum=0&refId=5Zvx4yMhZ2utX1GKoVlfyA%3D%3D&trackingId=FJyQ8gWCJl2%2BOU2bnH47Ug%3D%3D) | 2025-09-16 |
 | Tesla | Internship, Prototype Integration Engineer, Vehicle Software (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-prototype-integration-engineer-vehicle-software-winter-spring-2026-at-tesla-4301203656?position=56&pageNum=0&refId=GW9amz%2F5zuhdt%2FOqtsHwWA%3D%3D&trackingId=9%2F%2FBSAgNpP4zLw08DBeiDg%3D%3D) | 2025-09-16 |
+| Tesla | Internship, Software Engineer, Connectivity C++, Optimus (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineer-connectivity-c%2B%2B-optimus-winter-spring-2026-at-tesla-4301580955?position=60&pageNum=0&refId=%2F0R9WU5JKjgbF2Aj4nM8pw%3D%3D&trackingId=oQIfSIfopovACKANDWATgA%3D%3D) | 2025-09-16 |
 | Tesla | Internship, Fullstack Engineer, Optimus AI Tooling (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-fullstack-engineer-optimus-ai-tooling-winter-spring-2026-at-tesla-4300964297?position=14&pageNum=0&refId=rI6DuHdmn5mM1L4laD7n2w%3D%3D&trackingId=iPOZnG%2BoRB%2F%2FLhJ1B9V%2BJQ%3D%3D) | 2025-09-15 |
 | Tesla | Internship, Software Systems Engineer, AI Hardware (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-systems-engineer-ai-hardware-winter-spring-2026-at-tesla-4299681918?position=57&pageNum=0&refId=USDg4ADrrGTEZjkvzNpcXA%3D%3D&trackingId=hYSrbe%2FarUsmCpbHSf2Cog%3D%3D) | 2025-09-13 |
 | Center for European Policy Analysis | Spring 2026: Tech Policy Intern | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/spring-2026-tech-policy-intern-at-center-for-european-policy-analysis-4298031331?position=5&pageNum=0&refId=BfPvhllrLOQ7zjJkCu54IA%3D%3D&trackingId=LW0A0c70YtOlPhaRrJa3Jg%3D%3D) | 2025-09-13 |
