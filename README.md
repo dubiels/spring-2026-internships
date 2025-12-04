@@ -1,6 +1,6 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-12-03*
+*Last updated: 2025-12-04*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
@@ -347,6 +347,7 @@ This README is automatically updated daily with new Spring 2026 tech internship 
 | Xcimer Energy Corporation | Spring Semester 2026 Internship - Mechanical Engineering | Denver, CO | [Apply](https://www.linkedin.com/jobs/view/spring-semester-2026-internship-mechanical-engineering-at-xcimer-energy-corporation-4271624129?position=45&pageNum=0&refId=DyXXNUXNUD9cVGf2hYV0NQ%3D%3D&trackingId=YKW%2BxWRvMe1B02mE34uESg%3D%3D) | 2025-07-23 |
 | Xcimer Energy Corporation | Spring Semester 2026 Internship - Electrical and Pulsed Power Engineering | Denver, CO | [Apply](https://www.linkedin.com/jobs/view/spring-semester-2026-internship-electrical-and-pulsed-power-engineering-at-xcimer-energy-corporation-4271624099?position=20&pageNum=0&refId=rYpGKahP3pDUQX8oetqOhg%3D%3D&trackingId=d6CoRkfGxI79gWVupmUU7A%3D%3D) | 2025-07-23 |
 | Xcimer Energy Corporation | Spring Semester 2026 Internship - Optical Engineering | Denver, CO | [Apply](https://www.linkedin.com/jobs/view/spring-semester-2026-internship-optical-engineering-at-xcimer-energy-corporation-4271617639?position=25&pageNum=0&refId=rYpGKahP3pDUQX8oetqOhg%3D%3D&trackingId=1EOZX8nIBwLCPmbs3ltf3g%3D%3D) | 2025-07-23 |
+| Nowadays (YC S23) | Product Engineer Intern (Spring and Summer 2026) | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/product-engineer-intern-spring-and-summer-2026-at-nowadays-yc-s23-4269768262?position=22&pageNum=0&refId=zVSZEuFc1qH711P0lZPzng%3D%3D&trackingId=uLRSd6BLrS9Ez%2B4vyoEKVg%3D%3D) | 2025-07-20 |
 | Blue Origin | Spring 2026 Electrical Systems Engineering Internship - Undergraduate | Seattle, WA | [Apply](https://www.linkedin.com/jobs/view/spring-2026-electrical-systems-engineering-internship-undergraduate-at-blue-origin-4238365639?position=50&pageNum=0&refId=w4Pf%2BcHQtdeISsxLSAn%2FtA%3D%3D&trackingId=hXh2YfpxeQHqOqmzpXn7xw%3D%3D) | 2025-07-19 |
 | American Honda Motor Company, Inc. | Industrial Engineering Co-op/Intern- Spring 2026 | Lincoln, AL | [Apply](https://www.linkedin.com/jobs/view/industrial-engineering-co-op-intern-spring-2026-at-american-honda-motor-company-inc-4269548001?position=60&pageNum=0&refId=PEFSSBNAmTfVqSIJQLOEgg%3D%3D&trackingId=jlDppakr21Bddx5bsRLtWw%3D%3D) | 2025-07-18 |
 | Boys & Girls Clubs of Middle Tennessee | Computer Science Intern (CSI): Spring 2026 | Nashville, TN | [Apply](https://www.linkedin.com/jobs/view/computer-science-intern-csi-spring-2026-at-boys-girls-clubs-of-middle-tennessee-4278234709?position=28&pageNum=0&refId=4CIV9zAFIYHzanUfJt6wIA%3D%3D&trackingId=3nikcsXNSiaob1RdbQpRdA%3D%3D) | 2025-07-11 |
