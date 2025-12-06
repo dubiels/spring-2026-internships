@@ -1,12 +1,13 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-12-05*
+*Last updated: 2025-12-06*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
 | PPL Corporation | Spring 2026 - Digital Training Intern | Allentown, PA | [Apply](https://www.linkedin.com/jobs/view/spring-2026-digital-training-intern-at-ppl-corporation-4342194363?position=5&pageNum=0&refId=Jta2qjPB0M%2B81DHrCtzWzQ%3D%3D&trackingId=h9NBhJgxvYcVE1%2BYkU2JZg%3D%3D) | 2025-12-05 |
+| AccuWeather | Data Engineering Intern(Spring/Summer 2026) | State College, PA | [Apply](https://www.linkedin.com/jobs/view/data-engineering-intern-spring-summer-2026-at-accuweather-4341706309?position=60&pageNum=0&refId=Tr3NyCdgswCX1vqdTpoPaQ%3D%3D&trackingId=udEWLr0FACbJHohgW%2FfBzw%3D%3D) | 2025-12-04 |
 | NVIDIA | High Performance AI Intern - Spring 2026 | Santa Clara, CA | [Apply](https://www.linkedin.com/jobs/view/high-performance-ai-intern-spring-2026-at-nvidia-4338757463?position=51&pageNum=0&refId=zEWB6ggy5a%2FSqYM0Sf4QXQ%3D%3D&trackingId=y4GUDJqHbNFS18GIuShbxw%3D%3D) | 2025-11-25 |
 | International Rescue Committee | Spring 2026: Data Automation Intern (Unpaid) | San Diego, CA | [Apply](https://www.linkedin.com/jobs/view/spring-2026-data-automation-intern-unpaid-at-international-rescue-committee-4338399087?position=56&pageNum=0&refId=DI0vNEBGUycx39MxivbaKg%3D%3D&trackingId=lHv4WQtkJ3cb7c5TGRFTug%3D%3D) | 2025-11-22 |
 | ExecutivePlacements.com | Embedded Engineering Intern (Spring 2026) | South San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/embedded-engineering-intern-spring-2026-at-executiveplacements-com-4337164287?position=22&pageNum=0&refId=P%2BxiJlMYZHa7c6u%2FFZzYxA%3D%3D&trackingId=eMR7OEFolBXeG80eS8iWJA%3D%3D) | 2025-11-21 |
@@ -87,6 +88,7 @@ This README is automatically updated daily with new Spring 2026 tech internship 
 | WB Games New York | WB Games Software Engineering Intern Co-op: Troy, NY - Jan-May 2026 | Troy, NY | [Apply](https://www.linkedin.com/jobs/view/wb-games-software-engineering-intern-co-op-troy-ny-jan-may-2026-at-wb-games-new-york-4314195790?position=18&pageNum=0&refId=GeAzr%2B2NU3ihBlczPKEvyA%3D%3D&trackingId=qVlOXQzaQW7kyHeP5m%2BTNw%3D%3D) | 2025-10-14 |
 | Cloudflare | Software Engineer Intern (Winter/Spring 2026) - Austin, TX | Austin, TX | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-winter-spring-2026-austin-tx-at-cloudflare-4302313365?position=12&pageNum=0&refId=rI6DuHdmn5mM1L4laD7n2w%3D%3D&trackingId=bZ9WXqIzIUv8NsLFlQJUTQ%3D%3D) | 2025-10-13 |
 | The Brookings Institution | Spring 2026, Research and Events Internship, AI and Emerging Technology, Executive Office (Job ID 2025-3746) | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/spring-2026-research-and-events-internship-ai-and-emerging-technology-executive-office-job-id-2025-3746-at-the-brookings-institution-4312890653?position=41&pageNum=0&refId=jbmopYiAC5QO5egC%2FcuVmg%3D%3D&trackingId=UaBeYLB8ld8ADB5TwCDz5w%3D%3D) | 2025-10-11 |
+| Retensa Employee Retention | Software Management Information Systems (MIS) Intern: Spring Internship 2026 | United States | [Apply](https://www.linkedin.com/jobs/view/software-management-information-systems-mis-intern-spring-internship-2026-at-retensa-employee-retention-4313119486?position=17&pageNum=0&refId=IdE0c2MlHqL3FWNIlily2g%3D%3D&trackingId=Tm%2BvhQy%2BjJGKnKP8TdfmQw%3D%3D) | 2025-10-11 |
 | Hone Health | Data Engineering Intern (Spring/Summer 2026) | New York, NY | [Apply](https://www.linkedin.com/jobs/view/data-engineering-intern-spring-summer-2026-at-hone-health-4312794515?position=56&pageNum=0&refId=84vm7ZsT3dQpy4W5W2t%2FIg%3D%3D&trackingId=NPOxGPnYhWNNNF9G%2FOK42w%3D%3D) | 2025-10-10 |
 | Tesla | Internship, Software Engineering, Recruiting (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineering-recruiting-winter-spring-2026-at-tesla-4312522642?position=23&pageNum=0&refId=U9ChXZtNvg%2BqngbN7IKOYQ%3D%3D&trackingId=t9KISfNsgYYhgURCHcLkBw%3D%3D) | 2025-10-09 |
 | Cognitiv | Machine Learning Engineer Intern (Winter / Spring 2026) | San Mateo, CA | [Apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-intern-winter-spring-2026-at-cognitiv-4310940848?position=55&pageNum=0&refId=LAHtH0kh6JAUxfUhoeuRQg%3D%3D&trackingId=PNzpwGh8y0cBgZfDSwN7gw%3D%3D) | 2025-10-07 |
