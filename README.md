@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2025-12-12*
+*Last updated: 2025-12-13*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| University of South Florida | IAE Software Engineering Intern - Spring 2026 (Student Assistant Role) | Tampa, FL | [Apply](https://www.linkedin.com/jobs/view/iae-software-engineering-intern-spring-2026-student-assistant-role-at-university-of-south-florida-4349795659?position=46&pageNum=0&refId=xANy3rgXERY1E4V9gAc%2BeA%3D%3D&trackingId=SgTOMv%2B24jy%2BZ4mlQ7jYaA%3D%3D) | 2025-12-13 |
 | Vera Institute of Justice | Spring 2026 - Data Engineering Intern, Research Central | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/spring-2026-data-engineering-intern-research-central-at-vera-institute-of-justice-4343162385?position=51&pageNum=0&refId=6IG4e%2FUNxcmZ9EY7RImKEA%3D%3D&trackingId=%2FxjG2JvPohxpoyuWHTlqgw%3D%3D) | 2025-12-11 |
 | PPL Corporation | Spring 2026 - Digital Training Intern | Allentown, PA | [Apply](https://www.linkedin.com/jobs/view/spring-2026-digital-training-intern-at-ppl-corporation-4342194363?position=5&pageNum=0&refId=Jta2qjPB0M%2B81DHrCtzWzQ%3D%3D&trackingId=h9NBhJgxvYcVE1%2BYkU2JZg%3D%3D) | 2025-12-05 |
 | AccuWeather | Data Engineering Intern(Spring/Summer 2026) | State College, PA | [Apply](https://www.linkedin.com/jobs/view/data-engineering-intern-spring-summer-2026-at-accuweather-4341706309?position=60&pageNum=0&refId=Tr3NyCdgswCX1vqdTpoPaQ%3D%3D&trackingId=udEWLr0FACbJHohgW%2FfBzw%3D%3D) | 2025-12-04 |
