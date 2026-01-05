@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2026-01-04*
+*Last updated: 2026-01-05*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Freeform | Additive Engineering Internship/Co-op (Spring, Summer, Fall 2026) | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/additive-engineering-internship-co-op-spring-summer-fall-2026-at-freeform-4329838507?position=3&pageNum=0&refId=Ftqc5M7bSFBN%2BE%2FovehAMg%3D%3D&trackingId=jHYQ%2F96I21eh7gPwzhYj4g%3D%3D) | 2026-01-03 |
 | Parsons Corporation | Roadway Engineer Intern - Spring 2026 | Tampa, FL | [Apply](https://www.linkedin.com/jobs/view/roadway-engineer-intern-spring-2026-at-parsons-corporation-4329080567?position=4&pageNum=0&refId=MIFOSg%2BjkUpJnks7qD%2Bh0A%3D%3D&trackingId=c8ypOMyJh5%2FOyHYUt69OEg%3D%3D) | 2025-12-23 |
 | Teknor Apex Company | AI Engineering Intern Spring 2026 | Pawtucket, RI | [Apply](https://www.linkedin.com/jobs/view/ai-engineering-intern-spring-2026-at-teknor-apex-company-4345175395?position=25&pageNum=0&refId=aNcxT5nBdc3q88GsrY2tTw%3D%3D&trackingId=uVNCB8iRUA4kM60y9PS5lg%3D%3D) | 2025-12-20 |
 | Tesla | Internship, Factory Firmware Technical Program Manager, Vehicle Software (Winter/Spring 2026) | Austin, TX | [Apply](https://www.linkedin.com/jobs/view/internship-factory-firmware-technical-program-manager-vehicle-software-winter-spring-2026-at-tesla-4345504344?position=35&pageNum=0&refId=MIFOSg%2BjkUpJnks7qD%2Bh0A%3D%3D&trackingId=xprelQlp5MCV5JqAKcJJug%3D%3D) | 2025-12-19 |
