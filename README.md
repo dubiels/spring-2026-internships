@@ -1,11 +1,16 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2026-01-12*
+*Last updated: 2026-01-13*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| First Solar | Development Engineering Intern (Spring & Summer 2026) | Santa Clara, CA | [Apply](https://www.linkedin.com/jobs/view/development-engineering-intern-spring-summer-2026-at-first-solar-4331202869?position=31&pageNum=0&refId=w2%2F4JLzPl6VYH9zVJblYeQ%3D%3D&trackingId=coyFASyUi37vU2CWKIIYxw%3D%3D) | 2026-01-08 |
+| Teradyne | Reliability Engineer - Industry Component Research Spring 2026 Intern(Teradyne, Agoura Hills, CA) | Agoura Hills, CA | [Apply](https://www.linkedin.com/jobs/view/reliability-engineer-industry-component-research-spring-2026-intern-teradyne-agoura-hills-ca-at-teradyne-4351667428?position=53&pageNum=0&refId=w2%2F4JLzPl6VYH9zVJblYeQ%3D%3D&trackingId=awzBwAz7Q9ZEiZXFjHPVxA%3D%3D) | 2026-01-08 |
+| Excellus BCBS | College Intern I - Spring 2026 - Software Engineering (ETL Development) | Rochester, NY | [Apply](https://www.linkedin.com/jobs/view/college-intern-i-spring-2026-software-engineering-etl-development-at-excellus-bcbs-4358444582?position=15&pageNum=0&refId=w2%2F4JLzPl6VYH9zVJblYeQ%3D%3D&trackingId=ULf15ipBNU4piXBc9jFe3Q%3D%3D) | 2026-01-07 |
+| Univera Healthcare | College Intern I - Spring 2026 - Software Engineering (ETL Development) | Buffalo, NY | [Apply](https://www.linkedin.com/jobs/view/college-intern-i-spring-2026-software-engineering-etl-development-at-univera-healthcare-4330694046?position=19&pageNum=0&refId=w2%2F4JLzPl6VYH9zVJblYeQ%3D%3D&trackingId=mW2a5I5oNWdK%2FJA9uQgMrQ%3D%3D) | 2026-01-07 |
+| Amentum | Spring 2026 Internship - AI and Astronaut Physiology | Houston, TX | [Apply](https://www.linkedin.com/jobs/view/spring-2026-internship-ai-and-astronaut-physiology-at-amentum-4330700264?position=26&pageNum=0&refId=w2%2F4JLzPl6VYH9zVJblYeQ%3D%3D&trackingId=cwOPA37kuO%2FPabRRI%2Bn%2Fqw%3D%3D) | 2026-01-07 |
 | CSIS Middle East Program | Intern - Economic Security and Technology Department (Spring 2026) | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/intern-economic-security-and-technology-department-spring-2026-at-csis-middle-east-program-4330551527?position=21&pageNum=0&refId=JrJgVUd%2Bsb%2BVIjGJYFNkfw%3D%3D&trackingId=sia%2BwPGbKM4cr3W91e5GSA%3D%3D) | 2026-01-06 |
 | Freeform | Additive Engineering Internship/Co-op (Spring, Summer, Fall 2026) | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/additive-engineering-internship-co-op-spring-summer-fall-2026-at-freeform-4329838507?position=3&pageNum=0&refId=Ftqc5M7bSFBN%2BE%2FovehAMg%3D%3D&trackingId=jHYQ%2F96I21eh7gPwzhYj4g%3D%3D) | 2026-01-03 |
 | Center for Strategic and International Studies (CSIS) | Intern - Economic Security and Technology Department (Spring 2026) | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/intern-economic-security-and-technology-department-spring-2026-at-center-for-strategic-and-international-studies-csis-4350810936?position=15&pageNum=0&refId=JrJgVUd%2Bsb%2BVIjGJYFNkfw%3D%3D&trackingId=orm%2FAGLjfN9hRSn70xon%2Fg%3D%3D) | 2025-12-28 |
