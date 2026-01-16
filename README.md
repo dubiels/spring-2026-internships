@@ -1,11 +1,13 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2026-01-15*
+*Last updated: 2026-01-16*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Cohere | Software Engineer Intern (Spring 2026) | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-spring-2026-at-cohere-4359019903?position=1&pageNum=0&refId=eEguw0tB2Sd9JRwicwXtyg%3D%3D&trackingId=z37g4RNVCVtxLmwt43q07g%3D%3D) | 2026-01-16 |
+| Medlaunch Concepts | Summer/Spring 2026 - Backend Developer Internship | Clearwater, FL | [Apply](https://www.linkedin.com/jobs/view/summer-spring-2026-backend-developer-internship-at-medlaunch-concepts-4361556784?position=13&pageNum=0&refId=QPaozwmI%2Bsy94lSwmruHBQ%3D%3D&trackingId=Pwe8A9QW5tJVWN%2F4o67SQA%3D%3D) | 2026-01-14 |
 | First Solar | Development Engineering Intern (Spring & Summer 2026) | Santa Clara, CA | [Apply](https://www.linkedin.com/jobs/view/development-engineering-intern-spring-summer-2026-at-first-solar-4331202869?position=31&pageNum=0&refId=w2%2F4JLzPl6VYH9zVJblYeQ%3D%3D&trackingId=coyFASyUi37vU2CWKIIYxw%3D%3D) | 2026-01-08 |
 | Teradyne | Reliability Engineer - Industry Component Research Spring 2026 Intern(Teradyne, Agoura Hills, CA) | Agoura Hills, CA | [Apply](https://www.linkedin.com/jobs/view/reliability-engineer-industry-component-research-spring-2026-intern-teradyne-agoura-hills-ca-at-teradyne-4351667428?position=53&pageNum=0&refId=w2%2F4JLzPl6VYH9zVJblYeQ%3D%3D&trackingId=awzBwAz7Q9ZEiZXFjHPVxA%3D%3D) | 2026-01-08 |
 | Excellus BCBS | College Intern I - Spring 2026 - Software Engineering (ETL Development) | Rochester, NY | [Apply](https://www.linkedin.com/jobs/view/college-intern-i-spring-2026-software-engineering-etl-development-at-excellus-bcbs-4358444582?position=15&pageNum=0&refId=w2%2F4JLzPl6VYH9zVJblYeQ%3D%3D&trackingId=ULf15ipBNU4piXBc9jFe3Q%3D%3D) | 2026-01-07 |
