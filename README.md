@@ -1,6 +1,6 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2026-01-18*
+*Last updated: 2026-01-19*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
@@ -15,6 +15,7 @@ This README is automatically updated daily with new Spring 2026 tech internship 
 | Amentum | Spring 2026 Internship - AI and Astronaut Physiology | Houston, TX | [Apply](https://www.linkedin.com/jobs/view/spring-2026-internship-ai-and-astronaut-physiology-at-amentum-4330700264?position=26&pageNum=0&refId=w2%2F4JLzPl6VYH9zVJblYeQ%3D%3D&trackingId=cwOPA37kuO%2FPabRRI%2Bn%2Fqw%3D%3D) | 2026-01-07 |
 | CSIS Middle East Program | Intern - Economic Security and Technology Department (Spring 2026) | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/intern-economic-security-and-technology-department-spring-2026-at-csis-middle-east-program-4330551527?position=21&pageNum=0&refId=JrJgVUd%2Bsb%2BVIjGJYFNkfw%3D%3D&trackingId=sia%2BwPGbKM4cr3W91e5GSA%3D%3D) | 2026-01-06 |
 | Freeform | Additive Engineering Internship/Co-op (Spring, Summer, Fall 2026) | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/additive-engineering-internship-co-op-spring-summer-fall-2026-at-freeform-4329838507?position=3&pageNum=0&refId=Ftqc5M7bSFBN%2BE%2FovehAMg%3D%3D&trackingId=jHYQ%2F96I21eh7gPwzhYj4g%3D%3D) | 2026-01-03 |
+| Freeform | Additive Engineering Internship/Co-Op (Spring, Summer, Fall 2026) | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/additive-engineering-internship-co-op-spring-summer-fall-2026-at-freeform-4329838507?position=56&pageNum=0&refId=BzNAHaeRqoNTS5C6jKk8Rw%3D%3D&trackingId=FC%2FdzxKrUkbmOnzNmNCzEQ%3D%3D) | 2026-01-03 |
 | Center for Strategic and International Studies (CSIS) | Intern - Economic Security and Technology Department (Spring 2026) | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/intern-economic-security-and-technology-department-spring-2026-at-center-for-strategic-and-international-studies-csis-4350810936?position=15&pageNum=0&refId=JrJgVUd%2Bsb%2BVIjGJYFNkfw%3D%3D&trackingId=orm%2FAGLjfN9hRSn70xon%2Fg%3D%3D) | 2025-12-28 |
 | Parsons Corporation | Roadway Engineer Intern - Spring 2026 | Tampa, FL | [Apply](https://www.linkedin.com/jobs/view/roadway-engineer-intern-spring-2026-at-parsons-corporation-4329080567?position=4&pageNum=0&refId=MIFOSg%2BjkUpJnks7qD%2Bh0A%3D%3D&trackingId=c8ypOMyJh5%2FOyHYUt69OEg%3D%3D) | 2025-12-23 |
 | Teknor Apex Company | AI Engineering Intern Spring 2026 | Pawtucket, RI | [Apply](https://www.linkedin.com/jobs/view/ai-engineering-intern-spring-2026-at-teknor-apex-company-4345175395?position=25&pageNum=0&refId=aNcxT5nBdc3q88GsrY2tTw%3D%3D&trackingId=uVNCB8iRUA4kM60y9PS5lg%3D%3D) | 2025-12-20 |
