@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2026-01-21*
+*Last updated: 2026-01-22*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Tetra Tech | Texas Spring 2026 Career Fairs - Municipal Water & Infrastructure Interns & EITs | San Antonio, TX | [Apply](https://www.linkedin.com/jobs/view/texas-spring-2026-career-fairs-municipal-water-infrastructure-interns-eits-at-tetra-tech-4365192458?position=48&pageNum=0&refId=4Q64xZ3URHSZGkw7jVbY8A%3D%3D&trackingId=zAD7PFQltYzclbSnKFTCCQ%3D%3D) | 2026-01-22 |
 | Cohere | Software Engineer Intern (Spring 2026) | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-spring-2026-at-cohere-4359019903?position=1&pageNum=0&refId=eEguw0tB2Sd9JRwicwXtyg%3D%3D&trackingId=z37g4RNVCVtxLmwt43q07g%3D%3D) | 2026-01-16 |
 | Medlaunch Concepts | Summer/Spring 2026 - Backend Developer Internship | Clearwater, FL | [Apply](https://www.linkedin.com/jobs/view/summer-spring-2026-backend-developer-internship-at-medlaunch-concepts-4361556784?position=13&pageNum=0&refId=QPaozwmI%2Bsy94lSwmruHBQ%3D%3D&trackingId=Pwe8A9QW5tJVWN%2F4o67SQA%3D%3D) | 2026-01-14 |
 | First Solar | Development Engineering Intern (Spring & Summer 2026) | Santa Clara, CA | [Apply](https://www.linkedin.com/jobs/view/development-engineering-intern-spring-summer-2026-at-first-solar-4331202869?position=31&pageNum=0&refId=w2%2F4JLzPl6VYH9zVJblYeQ%3D%3D&trackingId=coyFASyUi37vU2CWKIIYxw%3D%3D) | 2026-01-08 |
@@ -14,6 +15,7 @@ This README is automatically updated daily with new Spring 2026 tech internship 
 | Univera Healthcare | College Intern I - Spring 2026 - Software Engineering (ETL Development) | Buffalo, NY | [Apply](https://www.linkedin.com/jobs/view/college-intern-i-spring-2026-software-engineering-etl-development-at-univera-healthcare-4330694046?position=19&pageNum=0&refId=w2%2F4JLzPl6VYH9zVJblYeQ%3D%3D&trackingId=mW2a5I5oNWdK%2FJA9uQgMrQ%3D%3D) | 2026-01-07 |
 | Amentum | Spring 2026 Internship - AI and Astronaut Physiology | Houston, TX | [Apply](https://www.linkedin.com/jobs/view/spring-2026-internship-ai-and-astronaut-physiology-at-amentum-4330700264?position=26&pageNum=0&refId=w2%2F4JLzPl6VYH9zVJblYeQ%3D%3D&trackingId=cwOPA37kuO%2FPabRRI%2Bn%2Fqw%3D%3D) | 2026-01-07 |
 | CSIS Middle East Program | Intern - Economic Security and Technology Department (Spring 2026) | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/intern-economic-security-and-technology-department-spring-2026-at-csis-middle-east-program-4330551527?position=21&pageNum=0&refId=JrJgVUd%2Bsb%2BVIjGJYFNkfw%3D%3D&trackingId=sia%2BwPGbKM4cr3W91e5GSA%3D%3D) | 2026-01-06 |
+| Blount Fine Foods | Process & Mechanical Engineer Intern - Spring 2026 | McKinney, TX | [Apply](https://www.linkedin.com/jobs/view/process-mechanical-engineer-intern-spring-2026-at-blount-fine-foods-4358251388?position=58&pageNum=0&refId=4iUpLAoOlpuoBS%2B74hxM4A%3D%3D&trackingId=6JVKM6Wob7qDfm2lGh%2BUqg%3D%3D) | 2026-01-06 |
 | Freeform | Additive Engineering Internship/Co-op (Spring, Summer, Fall 2026) | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/additive-engineering-internship-co-op-spring-summer-fall-2026-at-freeform-4329838507?position=3&pageNum=0&refId=Ftqc5M7bSFBN%2BE%2FovehAMg%3D%3D&trackingId=jHYQ%2F96I21eh7gPwzhYj4g%3D%3D) | 2026-01-03 |
 | Freeform | Additive Engineering Internship/Co-Op (Spring, Summer, Fall 2026) | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/additive-engineering-internship-co-op-spring-summer-fall-2026-at-freeform-4329838507?position=56&pageNum=0&refId=BzNAHaeRqoNTS5C6jKk8Rw%3D%3D&trackingId=FC%2FdzxKrUkbmOnzNmNCzEQ%3D%3D) | 2026-01-03 |
 | Center for Strategic and International Studies (CSIS) | Intern - Economic Security and Technology Department (Spring 2026) | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/intern-economic-security-and-technology-department-spring-2026-at-center-for-strategic-and-international-studies-csis-4350810936?position=15&pageNum=0&refId=JrJgVUd%2Bsb%2BVIjGJYFNkfw%3D%3D&trackingId=orm%2FAGLjfN9hRSn70xon%2Fg%3D%3D) | 2025-12-28 |
