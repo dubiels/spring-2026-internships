@@ -1,12 +1,13 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2026-01-23*
+*Last updated: 2026-01-24*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
 | Tetra Tech | Texas Spring 2026 Career Fairs - Municipal Water & Infrastructure Interns & EITs | San Antonio, TX | [Apply](https://www.linkedin.com/jobs/view/texas-spring-2026-career-fairs-municipal-water-infrastructure-interns-eits-at-tetra-tech-4365192458?position=48&pageNum=0&refId=4Q64xZ3URHSZGkw7jVbY8A%3D%3D&trackingId=zAD7PFQltYzclbSnKFTCCQ%3D%3D) | 2026-01-22 |
+| Tetra Tech | Texas Spring 2026 Career Fairs - Transportation Interns & EITs | Austin, TX | [Apply](https://www.linkedin.com/jobs/view/texas-spring-2026-career-fairs-transportation-interns-eits-at-tetra-tech-4365202068?position=60&pageNum=0&refId=jp33MZyFRSTHQCL9vxB7RA%3D%3D&trackingId=bnY3qA70Gr04%2FUpsqujikw%3D%3D) | 2026-01-22 |
 | Cohere | Software Engineer Intern (Spring 2026) | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-spring-2026-at-cohere-4359019903?position=1&pageNum=0&refId=eEguw0tB2Sd9JRwicwXtyg%3D%3D&trackingId=z37g4RNVCVtxLmwt43q07g%3D%3D) | 2026-01-16 |
 | Medlaunch Concepts | Summer/Spring 2026 - Backend Developer Internship | Clearwater, FL | [Apply](https://www.linkedin.com/jobs/view/summer-spring-2026-backend-developer-internship-at-medlaunch-concepts-4361556784?position=13&pageNum=0&refId=QPaozwmI%2Bsy94lSwmruHBQ%3D%3D&trackingId=Pwe8A9QW5tJVWN%2F4o67SQA%3D%3D) | 2026-01-14 |
 | First Solar | Development Engineering Intern (Spring & Summer 2026) | Santa Clara, CA | [Apply](https://www.linkedin.com/jobs/view/development-engineering-intern-spring-summer-2026-at-first-solar-4331202869?position=31&pageNum=0&refId=w2%2F4JLzPl6VYH9zVJblYeQ%3D%3D&trackingId=coyFASyUi37vU2CWKIIYxw%3D%3D) | 2026-01-08 |
@@ -154,6 +155,7 @@ This README is automatically updated daily with new Spring 2026 tech internship 
 | ASML | Co-op System Integration Engineer - Spring 2026 (Internship) | Wilton Center, CT | [Apply](https://www.linkedin.com/jobs/view/co-op-system-integration-engineer-spring-2026-internship-at-asml-4302585151?position=40&pageNum=0&refId=FtRD9V3sFtKRlK9t7oxrUg%3D%3D&trackingId=DZoz7H1oAEGN%2Bc4a4SKgkQ%3D%3D) | 2025-09-19 |
 | Jobs via Dice | Internship, Thermal Modeling Engineer, Abuse Functional Safety (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-thermal-modeling-engineer-abuse-functional-safety-winter-spring-2026-at-jobs-via-dice-4302728653?position=40&pageNum=0&refId=wOHASJC5XPFZq%2F53kI4M7w%3D%3D&trackingId=8u6UCrHKH2wnjtldx3vaPA%3D%3D) | 2025-09-19 |
 | Tesla | Internship, AI Engineer, Self-Driving (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-ai-engineer-self-driving-winter-spring-2026-at-tesla-4303088102?position=9&pageNum=0&refId=4HuFoqkSGpn9aolCjtNs7Q%3D%3D&trackingId=Jq%2FnMHZK8U9UefpE3sravg%3D%3D) | 2025-09-19 |
+| Tesla | Internship, AI Engineer, Self-Driving (Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-ai-engineer-self-driving-spring-2026-at-tesla-4303088102?position=29&pageNum=0&refId=DXDbx6qlEjODaDb3zAu9qA%3D%3D&trackingId=KZR%2BG7ZcCo0ODgK3ylXe0w%3D%3D) | 2025-09-19 |
 | Jobs via Dice | Internship, Software Systems Engineer, AI Hardware (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-systems-engineer-ai-hardware-winter-spring-2026-at-jobs-via-dice-4301983945?position=27&pageNum=0&refId=FtRD9V3sFtKRlK9t7oxrUg%3D%3D&trackingId=3A4hQHLGGE3NfwKBs%2BY8ig%3D%3D) | 2025-09-18 |
 | ASML | Co-Op- Mechanical Design Engineer - Spring 2026 (Internship) | Wilton Center, CT | [Apply](https://www.linkedin.com/jobs/view/co-op-mechanical-design-engineer-spring-2026-internship-at-asml-4301707755?position=57&pageNum=0&refId=FF2esBu0eIxwKZn7%2FtULyw%3D%3D&trackingId=FNijiXRS%2BE3EBS22gWv%2FcA%3D%3D) | 2025-09-17 |
 | ASML | Co-Op Quality Engineering - Spring 2026 (Internship) | Wilton Center, CT | [Apply](https://www.linkedin.com/jobs/view/co-op-quality-engineering-spring-2026-internship-at-asml-4301717386?position=58&pageNum=0&refId=FF2esBu0eIxwKZn7%2FtULyw%3D%3D&trackingId=gN9CcBGz7j7yGGbpk5DPGA%3D%3D) | 2025-09-17 |
