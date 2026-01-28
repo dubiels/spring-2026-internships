@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2026-01-27*
+*Last updated: 2026-01-28*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| PPL Corporation | Spring 2026 - Developer Intern (Hybrid) | Louisville, KY | [Apply](https://www.linkedin.com/jobs/view/spring-2026-developer-intern-hybrid-at-ppl-corporation-4366185348?position=36&pageNum=0&refId=W%2BIdC5lLvzVIIrkHyf9d0g%3D%3D&trackingId=%2FqOweEfMJXEVjehHGfpetg%3D%3D) | 2026-01-26 |
 | Tetra Tech | Texas Spring 2026 Career Fairs - Municipal Water & Infrastructure Interns & EITs | San Antonio, TX | [Apply](https://www.linkedin.com/jobs/view/texas-spring-2026-career-fairs-municipal-water-infrastructure-interns-eits-at-tetra-tech-4365192458?position=48&pageNum=0&refId=4Q64xZ3URHSZGkw7jVbY8A%3D%3D&trackingId=zAD7PFQltYzclbSnKFTCCQ%3D%3D) | 2026-01-22 |
 | Tetra Tech | Texas Spring 2026 Career Fairs - Transportation Interns & EITs | Austin, TX | [Apply](https://www.linkedin.com/jobs/view/texas-spring-2026-career-fairs-transportation-interns-eits-at-tetra-tech-4365202068?position=60&pageNum=0&refId=jp33MZyFRSTHQCL9vxB7RA%3D%3D&trackingId=bnY3qA70Gr04%2FUpsqujikw%3D%3D) | 2026-01-22 |
 | Cohere | Software Engineer Intern (Spring 2026) | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-spring-2026-at-cohere-4359019903?position=1&pageNum=0&refId=eEguw0tB2Sd9JRwicwXtyg%3D%3D&trackingId=z37g4RNVCVtxLmwt43q07g%3D%3D) | 2026-01-16 |
