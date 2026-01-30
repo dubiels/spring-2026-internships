@@ -1,6 +1,6 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2026-01-29*
+*Last updated: 2026-01-30*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
@@ -24,6 +24,7 @@ This README is automatically updated daily with new Spring 2026 tech internship 
 | Freeform | Additive Engineering Internship/Co-Op (Spring, Summer, Fall 2026) | Los Angeles, CA | [Apply](https://www.linkedin.com/jobs/view/additive-engineering-internship-co-op-spring-summer-fall-2026-at-freeform-4329838507?position=56&pageNum=0&refId=BzNAHaeRqoNTS5C6jKk8Rw%3D%3D&trackingId=FC%2FdzxKrUkbmOnzNmNCzEQ%3D%3D) | 2026-01-03 |
 | Center for Strategic and International Studies (CSIS) | Intern - Economic Security and Technology Department (Spring 2026) | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/intern-economic-security-and-technology-department-spring-2026-at-center-for-strategic-and-international-studies-csis-4350810936?position=15&pageNum=0&refId=JrJgVUd%2Bsb%2BVIjGJYFNkfw%3D%3D&trackingId=orm%2FAGLjfN9hRSn70xon%2Fg%3D%3D) | 2025-12-28 |
 | Parsons Corporation | Roadway Engineer Intern - Spring 2026 | Tampa, FL | [Apply](https://www.linkedin.com/jobs/view/roadway-engineer-intern-spring-2026-at-parsons-corporation-4329080567?position=4&pageNum=0&refId=MIFOSg%2BjkUpJnks7qD%2Bh0A%3D%3D&trackingId=c8ypOMyJh5%2FOyHYUt69OEg%3D%3D) | 2025-12-23 |
+| Grassroots Analytics | Campaign Product Intern | Spring 2026 | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/campaign-product-intern-spring-2026-at-grassroots-analytics-4346027769?position=60&pageNum=0&refId=yGagBNeW%2FiqEyE6pgDs%2Ftw%3D%3D&trackingId=pg7pkS5E39DDkNUIfij1lw%3D%3D) | 2025-12-23 |
 | Teknor Apex Company | AI Engineering Intern Spring 2026 | Pawtucket, RI | [Apply](https://www.linkedin.com/jobs/view/ai-engineering-intern-spring-2026-at-teknor-apex-company-4345175395?position=25&pageNum=0&refId=aNcxT5nBdc3q88GsrY2tTw%3D%3D&trackingId=uVNCB8iRUA4kM60y9PS5lg%3D%3D) | 2025-12-20 |
 | Tesla | Internship, Factory Firmware Technical Program Manager, Vehicle Software (Winter/Spring 2026) | Austin, TX | [Apply](https://www.linkedin.com/jobs/view/internship-factory-firmware-technical-program-manager-vehicle-software-winter-spring-2026-at-tesla-4345504344?position=35&pageNum=0&refId=MIFOSg%2BjkUpJnks7qD%2Bh0A%3D%3D&trackingId=xprelQlp5MCV5JqAKcJJug%3D%3D) | 2025-12-19 |
 | WSP in the U.S. | Environmental Engineering Intern - Winter 2025 / Spring 2026 | Novi, MI | [Apply](https://www.linkedin.com/jobs/view/environmental-engineering-intern-winter-2025-spring-2026-at-wsp-in-the-u-s-4344190908?position=42&pageNum=0&refId=MIFOSg%2BjkUpJnks7qD%2Bh0A%3D%3D&trackingId=M9GorvpppakELv3Gczcjdg%3D%3D) | 2025-12-16 |
