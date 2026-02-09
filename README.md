@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2026-02-08*
+*Last updated: 2026-02-09*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| The Matchbox | Spring 2026 AI Automation Intern | United States | [Apply](https://www.linkedin.com/jobs/view/spring-2026-ai-automation-intern-at-the-matchbox-4370093581?position=7&pageNum=0&refId=rRpm4CRSVvONKC11N%2BLqog%3D%3D&trackingId=hd9iGZFXdWTObGkSTmEvBg%3D%3D) | 2026-02-09 |
 | Zurich Insurance | Zurich Resilience Solutions Senior AI Intern - Chicagoland (Spring 2026) | Schaumburg, IL | [Apply](https://www.linkedin.com/jobs/view/zurich-resilience-solutions-senior-ai-intern-chicagoland-spring-2026-at-zurich-insurance-4368949087?position=60&pageNum=0&refId=%2FYvAp%2BtK9SQg1iEvnHLy%2Fw%3D%3D&trackingId=qWUcqhwK0hB9x0AmtXyn5w%3D%3D) | 2026-02-05 |
 | Zurich North America | Zurich Resilience Solutions Senior AI Intern - Chicagoland (Spring 2026) | Schaumburg, IL | [Apply](https://www.linkedin.com/jobs/view/zurich-resilience-solutions-senior-ai-intern-chicagoland-spring-2026-at-zurich-north-america-4368777365?position=53&pageNum=0&refId=CrNhR0xgf%2F5Mx6eQjcVGPA%3D%3D&trackingId=ZKlZ%2BaZewx%2FF87IRMDpOAQ%3D%3D) | 2026-02-05 |
 | Cadent | Engineering Intern - Spring 2026 | United States | [Apply](https://www.linkedin.com/jobs/view/engineering-intern-spring-2026-at-cadent-4366712907?position=15&pageNum=0&refId=S5p%2Fsenxvz6unqmIh7SlGw%3D%3D&trackingId=1uuHEml4jnU84WrPOyGrgQ%3D%3D) | 2026-01-29 |
