@@ -1,6 +1,6 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2026-02-11*
+*Last updated: 2026-02-12*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
@@ -14,6 +14,7 @@ This README is automatically updated daily with new Spring 2026 tech internship 
 | Tetra Tech | Texas Spring 2026 Career Fairs - Municipal Water & Infrastructure Interns & EITs | San Antonio, TX | [Apply](https://www.linkedin.com/jobs/view/texas-spring-2026-career-fairs-municipal-water-infrastructure-interns-eits-at-tetra-tech-4365192458?position=48&pageNum=0&refId=4Q64xZ3URHSZGkw7jVbY8A%3D%3D&trackingId=zAD7PFQltYzclbSnKFTCCQ%3D%3D) | 2026-01-22 |
 | Tetra Tech | Texas Spring 2026 Career Fairs - Transportation Interns & EITs | Austin, TX | [Apply](https://www.linkedin.com/jobs/view/texas-spring-2026-career-fairs-transportation-interns-eits-at-tetra-tech-4365202068?position=60&pageNum=0&refId=jp33MZyFRSTHQCL9vxB7RA%3D%3D&trackingId=bnY3qA70Gr04%2FUpsqujikw%3D%3D) | 2026-01-22 |
 | BayCare Health System | BayCare EAYL Patient Care Tech Internship Program- January 2026- Mease Countryside | Safety Harbor, FL | [Apply](https://www.linkedin.com/jobs/view/baycare-eayl-patient-care-tech-internship-program-january-2026-mease-countryside-at-baycare-health-system-4365188641?position=57&pageNum=0&refId=yRKyeqrb7eCsuXvix90jng%3D%3D&trackingId=Ouihfnc4Vbdw3alT4k6Bhg%3D%3D) | 2026-01-22 |
+| Montgomery Investment Technology, Inc. | Computer Programming Internship Spring 2026 | Cinnaminson, NJ | [Apply](https://www.linkedin.com/jobs/view/computer-programming-internship-spring-2026-at-montgomery-investment-technology-inc-4363232524?position=18&pageNum=0&refId=0ZFF5RwTMtm7MHOnrQvz9g%3D%3D&trackingId=NG%2FzOVQ4YxNwjfhdbB8HxA%3D%3D) | 2026-01-17 |
 | Cohere | Software Engineer Intern (Spring 2026) | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-spring-2026-at-cohere-4359019903?position=1&pageNum=0&refId=eEguw0tB2Sd9JRwicwXtyg%3D%3D&trackingId=z37g4RNVCVtxLmwt43q07g%3D%3D) | 2026-01-16 |
 | Medlaunch Concepts | Summer/Spring 2026 - Backend Developer Internship | Clearwater, FL | [Apply](https://www.linkedin.com/jobs/view/summer-spring-2026-backend-developer-internship-at-medlaunch-concepts-4361556784?position=13&pageNum=0&refId=QPaozwmI%2Bsy94lSwmruHBQ%3D%3D&trackingId=Pwe8A9QW5tJVWN%2F4o67SQA%3D%3D) | 2026-01-14 |
 | First Solar | Development Engineering Intern (Spring & Summer 2026) | Santa Clara, CA | [Apply](https://www.linkedin.com/jobs/view/development-engineering-intern-spring-summer-2026-at-first-solar-4331202869?position=31&pageNum=0&refId=w2%2F4JLzPl6VYH9zVJblYeQ%3D%3D&trackingId=coyFASyUi37vU2CWKIIYxw%3D%3D) | 2026-01-08 |
