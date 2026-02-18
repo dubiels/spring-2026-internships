@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2026-02-17*
+*Last updated: 2026-02-18*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| WSP in the U.S. | Electrical Engineering Intern - Spring 2026 | Fort Mill, SC | [Apply](https://www.linkedin.com/jobs/view/electrical-engineering-intern-spring-2026-at-wsp-in-the-u-s-4371557369?position=51&pageNum=0&refId=m2ReBAlIK53oNFiGLx3OzQ%3D%3D&trackingId=MAdfcO1Bs08%2F14%2F3QAlJMQ%3D%3D) | 2026-02-12 |
 | The Matchbox | Spring 2026 AI Automation Intern | United States | [Apply](https://www.linkedin.com/jobs/view/spring-2026-ai-automation-intern-at-the-matchbox-4370093581?position=7&pageNum=0&refId=rRpm4CRSVvONKC11N%2BLqog%3D%3D&trackingId=hd9iGZFXdWTObGkSTmEvBg%3D%3D) | 2026-02-09 |
 | Zurich Insurance | Zurich Resilience Solutions Senior AI Intern - Chicagoland (Spring 2026) | Schaumburg, IL | [Apply](https://www.linkedin.com/jobs/view/zurich-resilience-solutions-senior-ai-intern-chicagoland-spring-2026-at-zurich-insurance-4368949087?position=60&pageNum=0&refId=%2FYvAp%2BtK9SQg1iEvnHLy%2Fw%3D%3D&trackingId=qWUcqhwK0hB9x0AmtXyn5w%3D%3D) | 2026-02-05 |
 | Zurich North America | Zurich Resilience Solutions Senior AI Intern - Chicagoland (Spring 2026) | Schaumburg, IL | [Apply](https://www.linkedin.com/jobs/view/zurich-resilience-solutions-senior-ai-intern-chicagoland-spring-2026-at-zurich-north-america-4368777365?position=53&pageNum=0&refId=CrNhR0xgf%2F5Mx6eQjcVGPA%3D%3D&trackingId=ZKlZ%2BaZewx%2FF87IRMDpOAQ%3D%3D) | 2026-02-05 |
@@ -37,6 +38,7 @@ This README is automatically updated daily with new Spring 2026 tech internship 
 | WSP in the U.S. | Mechanical Engineering Intern - Winter 2025/Spring 2026 | Gainesville, FL | [Apply](https://www.linkedin.com/jobs/view/mechanical-engineering-intern-winter-2025-spring-2026-at-wsp-in-the-u-s-4312359432?position=28&pageNum=0&refId=MIFOSg%2BjkUpJnks7qD%2Bh0A%3D%3D&trackingId=bL7MhsD1IzP5kPsl8ZQ4xA%3D%3D) | 2025-12-11 |
 | Astrolab | Spring 2026 Production Engineering Intern | Hawthorne, CA | [Apply](https://www.linkedin.com/jobs/view/spring-2026-production-engineering-intern-at-astrolab-4349692845?position=55&pageNum=0&refId=MIFOSg%2BjkUpJnks7qD%2Bh0A%3D%3D&trackingId=0MHVOS2GFsZYfxV668UBDg%3D%3D) | 2025-12-11 |
 | Cloudflare | Research Engineer Intern (Spring/Jan 2026) | Austin, TX | [Apply](https://www.linkedin.com/jobs/view/research-engineer-intern-spring-jan-2026-at-cloudflare-4332323989?position=53&pageNum=0&refId=aNcxT5nBdc3q88GsrY2tTw%3D%3D&trackingId=Xf5kB94MfLhtCGQWgSCnLg%3D%3D) | 2025-12-10 |
+| TURBOCAM International | ECM Engineering Intern (CORP) – Spring 2026 | Barrington, NH | [Apply](https://www.linkedin.com/jobs/view/ecm-engineering-intern-corp-%E2%80%93-spring-2026-at-turbocam-international-4349611223?position=60&pageNum=0&refId=m2ReBAlIK53oNFiGLx3OzQ%3D%3D&trackingId=JvJmBlxhL1m5KGq%2BDWRKtA%3D%3D) | 2025-12-10 |
 | Simpson Gumpertz & Heger (SGH) | Internship/Co-Op, Building Technology (Spring/Summer 2026) | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/internship-co-op-building-technology-spring-summer-2026-at-simpson-gumpertz-heger-sgh-4299466879?position=3&pageNum=0&refId=MIFOSg%2BjkUpJnks7qD%2Bh0A%3D%3D&trackingId=WFyq6ADt1bfygbYANhwygQ%3D%3D) | 2025-12-06 |
 | Simpson Gumpertz & Heger (SGH) | Internship, Structural Engineering (Spring 2026) | Waltham, MA | [Apply](https://www.linkedin.com/jobs/view/internship-structural-engineering-spring-2026-at-simpson-gumpertz-heger-sgh-4309686412?position=34&pageNum=0&refId=MIFOSg%2BjkUpJnks7qD%2Bh0A%3D%3D&trackingId=B9JU%2BlyBCteqsTczl9qyJg%3D%3D) | 2025-12-06 |
 | PPL Corporation | Spring 2026 - Digital Training Intern | Allentown, PA | [Apply](https://www.linkedin.com/jobs/view/spring-2026-digital-training-intern-at-ppl-corporation-4342194363?position=5&pageNum=0&refId=Jta2qjPB0M%2B81DHrCtzWzQ%3D%3D&trackingId=h9NBhJgxvYcVE1%2BYkU2JZg%3D%3D) | 2025-12-05 |
