@@ -1,11 +1,13 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2026-02-24*
+*Last updated: 2026-02-25*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Tesla | Internship, Collision Technician Trainee (Spring 2026) | Burr Ridge, IL | [Apply](https://www.linkedin.com/jobs/view/internship-collision-technician-trainee-spring-2026-at-tesla-4377519659?position=9&pageNum=0&refId=cdEdAE5f96hu1SSBoaunRw%3D%3D&trackingId=2Kqv6BbVOoUvMCuBgSC27Q%3D%3D) | 2026-02-25 |
+| Tesla | Internship, Collision Technician Trainee, South Austin (Spring 2026) | Austin, TX | [Apply](https://www.linkedin.com/jobs/view/internship-collision-technician-trainee-south-austin-spring-2026-at-tesla-4377505816?position=37&pageNum=0&refId=cdEdAE5f96hu1SSBoaunRw%3D%3D&trackingId=dB2U%2BaLNc0twA%2BtpQj0WRg%3D%3D) | 2026-02-25 |
 | WSP in the U.S. | Electrical Engineering Intern - Spring 2026 | Fort Mill, SC | [Apply](https://www.linkedin.com/jobs/view/electrical-engineering-intern-spring-2026-at-wsp-in-the-u-s-4371557369?position=51&pageNum=0&refId=m2ReBAlIK53oNFiGLx3OzQ%3D%3D&trackingId=MAdfcO1Bs08%2F14%2F3QAlJMQ%3D%3D) | 2026-02-12 |
 | The Matchbox | Spring 2026 AI Automation Intern | United States | [Apply](https://www.linkedin.com/jobs/view/spring-2026-ai-automation-intern-at-the-matchbox-4370093581?position=7&pageNum=0&refId=rRpm4CRSVvONKC11N%2BLqog%3D%3D&trackingId=hd9iGZFXdWTObGkSTmEvBg%3D%3D) | 2026-02-09 |
 | Zurich Insurance | Zurich Resilience Solutions Senior AI Intern - Chicagoland (Spring 2026) | Schaumburg, IL | [Apply](https://www.linkedin.com/jobs/view/zurich-resilience-solutions-senior-ai-intern-chicagoland-spring-2026-at-zurich-insurance-4368949087?position=60&pageNum=0&refId=%2FYvAp%2BtK9SQg1iEvnHLy%2Fw%3D%3D&trackingId=qWUcqhwK0hB9x0AmtXyn5w%3D%3D) | 2026-02-05 |
