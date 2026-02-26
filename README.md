@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2026-02-25*
+*Last updated: 2026-02-26*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Reality Defender | Multimodal AI PhD Intern (Spring 2026) | New York, NY | [Apply](https://www.linkedin.com/jobs/view/multimodal-ai-phd-intern-spring-2026-at-reality-defender-4378029042?position=49&pageNum=0&refId=8UxW8%2BONZSfr7ubXpz%2FFGw%3D%3D&trackingId=gzK8zD1BBrScTE9FK8vbbg%3D%3D) | 2026-02-26 |
 | Tesla | Internship, Collision Technician Trainee (Spring 2026) | Burr Ridge, IL | [Apply](https://www.linkedin.com/jobs/view/internship-collision-technician-trainee-spring-2026-at-tesla-4377519659?position=9&pageNum=0&refId=cdEdAE5f96hu1SSBoaunRw%3D%3D&trackingId=2Kqv6BbVOoUvMCuBgSC27Q%3D%3D) | 2026-02-25 |
 | Tesla | Internship, Collision Technician Trainee, South Austin (Spring 2026) | Austin, TX | [Apply](https://www.linkedin.com/jobs/view/internship-collision-technician-trainee-south-austin-spring-2026-at-tesla-4377505816?position=37&pageNum=0&refId=cdEdAE5f96hu1SSBoaunRw%3D%3D&trackingId=dB2U%2BaLNc0twA%2BtpQj0WRg%3D%3D) | 2026-02-25 |
 | WSP in the U.S. | Electrical Engineering Intern - Spring 2026 | Fort Mill, SC | [Apply](https://www.linkedin.com/jobs/view/electrical-engineering-intern-spring-2026-at-wsp-in-the-u-s-4371557369?position=51&pageNum=0&refId=m2ReBAlIK53oNFiGLx3OzQ%3D%3D&trackingId=MAdfcO1Bs08%2F14%2F3QAlJMQ%3D%3D) | 2026-02-12 |
