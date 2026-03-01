@@ -1,6 +1,6 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2026-02-28*
+*Last updated: 2026-03-01*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
@@ -60,6 +60,7 @@ This README is automatically updated daily with new Spring 2026 tech internship 
 | AV | Spring 2026 Electrical Engineering Intern | Petaluma, CA | [Apply](https://www.linkedin.com/jobs/view/spring-2026-electrical-engineering-intern-at-av-4315636401?position=36&pageNum=0&refId=Jbc5NB5Qtg30VgcUPzkBZg%3D%3D&trackingId=roVV73VEbmQK%2F%2B7XJgYsmw%3D%3D) | 2025-11-15 |
 | Closr. | Digital Retail Strategy Intern (Spring 2026) | New York, NY | [Apply](https://www.linkedin.com/jobs/view/digital-retail-strategy-intern-spring-2026-at-closr-4336074875?position=40&pageNum=0&refId=Jbc5NB5Qtg30VgcUPzkBZg%3D%3D&trackingId=%2FryO3gL5OKyMJMABnPD1Bg%3D%3D) | 2025-11-15 |
 | ExecutivePlacements.com | Software Engineer Intern (Spring 2026) | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-spring-2026-at-executiveplacements-com-4335910973?position=16&pageNum=0&refId=1ksig8SKhLFbpHlRhH0XMQ%3D%3D&trackingId=UkwwOifF5E2BOguQA3LFsQ%3D%3D) | 2025-11-14 |
+| Parsons Corporation | Transportation Engineering Intern - Spring/Summer 2026 | San Diego, CA | [Apply](https://www.linkedin.com/jobs/view/transportation-engineering-intern-spring-summer-2026-at-parsons-corporation-4335369887?position=6&pageNum=0&refId=JvducOfe3VGYHsPUEAziDA%3D%3D&trackingId=6Omh6Exdc5g9KMzfozHvNg%3D%3D) | 2025-11-14 |
 | C3Aero | Software Engineering Intern (Spring 2026) | Burlington, MA | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-spring-2026-at-c3aero-4322121420?position=1&pageNum=0&refId=eXLbd8fXxH0xNwBTU84DWw%3D%3D&trackingId=wUwI%2BRmc1TyW8i1MG9jrUA%3D%3D) | 2025-11-13 |
 | Primer | Spring/Summer 2026 Engineering Intern | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/spring-summer-2026-engineering-intern-at-primer-4335637939?position=7&pageNum=0&refId=eXLbd8fXxH0xNwBTU84DWw%3D%3D&trackingId=YrKndQYhOjpU%2FN%2FPHSftYQ%3D%3D) | 2025-11-13 |
 | ShipHawk | Technical Writing Internship I Spring 2026 | Santa Barbara, CA | [Apply](https://www.linkedin.com/jobs/view/technical-writing-internship-i-spring-2026-at-shiphawk-4335618577?position=14&pageNum=0&refId=BWTaAa0em%2B1YOusahTmoOw%3D%3D&trackingId=GXeTT9e%2FmSR%2FuUwPxOi3Hg%3D%3D) | 2025-11-13 |
