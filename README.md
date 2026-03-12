@@ -1,12 +1,13 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2026-03-11*
+*Last updated: 2026-03-12*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
 | Lensa | Software Developer Intern - Spring 2026 | Denton, TX | [Apply](https://www.linkedin.com/jobs/view/software-developer-intern-spring-2026-at-lensa-4380726003?position=43&pageNum=0&refId=zbqcKdvUAvWpLUGcsIV61A%3D%3D&trackingId=I7z%2BacjmroMu89Q%2Ft9ZJkA%3D%3D) | 2026-03-04 |
+| Cohere | Software Engineer Intern (Spring/Summer 2026) | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-spring-summer-2026-at-cohere-4359019903?position=26&pageNum=0&refId=bp%2FuP%2FimLvVS6aOLo9jsZA%3D%3D&trackingId=%2B8OOeq%2FlPhuiLFlFA8Qc3A%3D%3D) | 2026-02-27 |
 | Reality Defender | Multimodal AI PhD Intern (Spring 2026) | New York, NY | [Apply](https://www.linkedin.com/jobs/view/multimodal-ai-phd-intern-spring-2026-at-reality-defender-4378029042?position=49&pageNum=0&refId=8UxW8%2BONZSfr7ubXpz%2FFGw%3D%3D&trackingId=gzK8zD1BBrScTE9FK8vbbg%3D%3D) | 2026-02-26 |
 | Tesla | Internship, Collision Technician Trainee (Spring 2026) | Burr Ridge, IL | [Apply](https://www.linkedin.com/jobs/view/internship-collision-technician-trainee-spring-2026-at-tesla-4377519659?position=9&pageNum=0&refId=cdEdAE5f96hu1SSBoaunRw%3D%3D&trackingId=2Kqv6BbVOoUvMCuBgSC27Q%3D%3D) | 2026-02-25 |
 | Tesla | Internship, Collision Technician Trainee, South Austin (Spring 2026) | Austin, TX | [Apply](https://www.linkedin.com/jobs/view/internship-collision-technician-trainee-south-austin-spring-2026-at-tesla-4377505816?position=37&pageNum=0&refId=cdEdAE5f96hu1SSBoaunRw%3D%3D&trackingId=dB2U%2BaLNc0twA%2BtpQj0WRg%3D%3D) | 2026-02-25 |
