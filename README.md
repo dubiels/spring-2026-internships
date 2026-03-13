@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2026-03-12*
+*Last updated: 2026-03-13*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| The Commons XR | UNPAID SEMESTER INTERNSHIP US ONLY Spring 2026 Unity Developer | California, United States | [Apply](https://www.linkedin.com/jobs/view/unpaid-semester-internship-us-only-spring-2026-unity-developer-at-the-commons-xr-4383959646?position=35&pageNum=0&refId=oELuPjWFTnZhrFslRH6Xrw%3D%3D&trackingId=5uIvrpwXziJpBaBcgR8rpQ%3D%3D) | 2026-03-13 |
 | Lensa | Software Developer Intern - Spring 2026 | Denton, TX | [Apply](https://www.linkedin.com/jobs/view/software-developer-intern-spring-2026-at-lensa-4380726003?position=43&pageNum=0&refId=zbqcKdvUAvWpLUGcsIV61A%3D%3D&trackingId=I7z%2BacjmroMu89Q%2Ft9ZJkA%3D%3D) | 2026-03-04 |
 | Cohere | Software Engineer Intern (Spring/Summer 2026) | San Francisco, CA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-spring-summer-2026-at-cohere-4359019903?position=26&pageNum=0&refId=bp%2FuP%2FimLvVS6aOLo9jsZA%3D%3D&trackingId=%2B8OOeq%2FlPhuiLFlFA8Qc3A%3D%3D) | 2026-02-27 |
 | Reality Defender | Multimodal AI PhD Intern (Spring 2026) | New York, NY | [Apply](https://www.linkedin.com/jobs/view/multimodal-ai-phd-intern-spring-2026-at-reality-defender-4378029042?position=49&pageNum=0&refId=8UxW8%2BONZSfr7ubXpz%2FFGw%3D%3D&trackingId=gzK8zD1BBrScTE9FK8vbbg%3D%3D) | 2026-02-26 |
