@@ -1,6 +1,6 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2026-05-08*
+*Last updated: 2026-05-09*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
@@ -144,6 +144,7 @@ This README is automatically updated daily with new Spring 2026 tech internship 
 | Retensa Employee Retention | Software Management Information Systems (MIS) Intern: Spring Internship 2026 | United States | [Apply](https://www.linkedin.com/jobs/view/software-management-information-systems-mis-intern-spring-internship-2026-at-retensa-employee-retention-4313119486?position=17&pageNum=0&refId=IdE0c2MlHqL3FWNIlily2g%3D%3D&trackingId=Tm%2BvhQy%2BjJGKnKP8TdfmQw%3D%3D) | 2025-10-11 |
 | Hone Health | Data Engineering Intern (Spring/Summer 2026) | New York, NY | [Apply](https://www.linkedin.com/jobs/view/data-engineering-intern-spring-summer-2026-at-hone-health-4312794515?position=56&pageNum=0&refId=84vm7ZsT3dQpy4W5W2t%2FIg%3D%3D&trackingId=NPOxGPnYhWNNNF9G%2FOK42w%3D%3D) | 2025-10-10 |
 | Tesla | Internship, Software Engineering, Recruiting (Winter/Spring 2026) | Palo Alto, CA | [Apply](https://www.linkedin.com/jobs/view/internship-software-engineering-recruiting-winter-spring-2026-at-tesla-4312522642?position=23&pageNum=0&refId=U9ChXZtNvg%2BqngbN7IKOYQ%3D%3D&trackingId=t9KISfNsgYYhgURCHcLkBw%3D%3D) | 2025-10-09 |
+| SoloPulse | Software Engineer Intern/Co-Op - Spring/Summer 2026 | Peachtree Corners, GA | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-co-op-spring-summer-2026-at-solopulse-4311765913?position=17&pageNum=0&refId=peWFr76LwDRMUlK160FsjA%3D%3D&trackingId=Jwqw3Tzji5sf%2BGhhBfGpWQ%3D%3D) | 2025-10-08 |
 | Cognitiv | Machine Learning Engineer Intern (Winter / Spring 2026) | San Mateo, CA | [Apply](https://www.linkedin.com/jobs/view/machine-learning-engineer-intern-winter-spring-2026-at-cognitiv-4310940848?position=55&pageNum=0&refId=LAHtH0kh6JAUxfUhoeuRQg%3D%3D&trackingId=PNzpwGh8y0cBgZfDSwN7gw%3D%3D) | 2025-10-07 |
 | Nifty Gateway Studio | Software Engineering Intern (Winter-Spring 2026) | New York, NY | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-winter-spring-2026-at-nifty-gateway-studio-4320045140?position=1&pageNum=0&refId=NJ6T5pLV0fmqFDrZJO6PiA%3D%3D&trackingId=WSnxgG0kHrWz3gUvf03n%2BQ%3D%3D) | 2025-10-05 |
 | Astrolab | Spring 2026 Software Engineering Intern | Hawthorne, CA | [Apply](https://www.linkedin.com/jobs/view/spring-2026-software-engineering-intern-at-astrolab-4307586202?position=6&pageNum=0&refId=1cF3yCfcZPvAq4rC9MHWzw%3D%3D&trackingId=P9MPzIa80OYD5B%2FsyCpZQQ%3D%3D) | 2025-10-04 |
