@@ -1,11 +1,12 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2026-05-19*
+*Last updated: 2026-05-20*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| WGI | Intern - Geospatial AI Spring 2026 | Huntsville, AL | [Apply](https://www.linkedin.com/jobs/view/intern-geospatial-ai-spring-2026-at-wgi-4413343618?position=12&pageNum=0&refId=dX5SQhHoh%2B%2BRPRgpRsHPHQ%3D%3D&trackingId=oh2vstfx6l%2Bvgtv%2FtI%2BZww%3D%3D) | 2026-05-20 |
 | Salas O'Brien | Engineering Intern (Spring 2026) | Tustin, CA | [Apply](https://www.linkedin.com/jobs/view/engineering-intern-spring-2026-at-salas-o-brien-4408904798?position=38&pageNum=0&refId=fMB9ktiChgqvONKNHkj9Kg%3D%3D&trackingId=Ie79IOg5xfz2qIFK2s6BSg%3D%3D) | 2026-05-05 |
 | Blockhouse | Rust Developer Intern (Spring 2026) | New York, NY | [Apply](https://www.linkedin.com/jobs/view/rust-developer-intern-spring-2026-at-blockhouse-4405242075?position=4&pageNum=0&refId=krtdkb0pvXX0eOFG5TkgrQ%3D%3D&trackingId=TXj0ZSGv9r5PDT8iqSGSGg%3D%3D) | 2026-04-23 |
 | Space Kinetic Corp. | Engineering Internship (Spring 2026) | El Segundo, CA | [Apply](https://www.linkedin.com/jobs/view/engineering-internship-spring-2026-at-space-kinetic-corp-4404413301?position=42&pageNum=0&refId=krtdkb0pvXX0eOFG5TkgrQ%3D%3D&trackingId=uC%2BcZ5MKhZ2ZBRA5sQx%2B4g%3D%3D) | 2026-04-23 |
