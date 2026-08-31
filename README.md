@@ -1,11 +1,13 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2026-08-30*
+*Last updated: 2026-08-31*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| Amtrak | Fall 2026/Spring 2027 - Software Engineering Intern - 90413045 - Washington | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/fall-2026-spring-2027-software-engineering-intern-90413045-washington-at-amtrak-4459234066?position=25&pageNum=0&refId=fjsqsIbHXSWlOgswS0iOlg%3D%3D&trackingId=dx96%2FgmBsQqU7TI29kLYhA%3D%3D) | 2026-08-31 |
+| Amtrak | Fall 2026/Spring 2027 - Software Engineering Intern - 90413033 - Washington | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/fall-2026-spring-2027-software-engineering-intern-90413033-washington-at-amtrak-4459227107?position=44&pageNum=0&refId=fjsqsIbHXSWlOgswS0iOlg%3D%3D&trackingId=%2FIbnYwcthvIjoBlhXwmLkw%3D%3D) | 2026-08-31 |
 | WGI | Intern - Geospatial AI Spring 2026 | Huntsville, AL | [Apply](https://www.linkedin.com/jobs/view/intern-geospatial-ai-spring-2026-at-wgi-4413343618?position=12&pageNum=0&refId=dX5SQhHoh%2B%2BRPRgpRsHPHQ%3D%3D&trackingId=oh2vstfx6l%2Bvgtv%2FtI%2BZww%3D%3D) | 2026-05-20 |
 | Salas O'Brien | Engineering Intern (Spring 2026) | Tustin, CA | [Apply](https://www.linkedin.com/jobs/view/engineering-intern-spring-2026-at-salas-o-brien-4408904798?position=38&pageNum=0&refId=fMB9ktiChgqvONKNHkj9Kg%3D%3D&trackingId=Ie79IOg5xfz2qIFK2s6BSg%3D%3D) | 2026-05-05 |
 | Blockhouse | Rust Developer Intern (Spring 2026) | New York, NY | [Apply](https://www.linkedin.com/jobs/view/rust-developer-intern-spring-2026-at-blockhouse-4405242075?position=4&pageNum=0&refId=krtdkb0pvXX0eOFG5TkgrQ%3D%3D&trackingId=TXj0ZSGv9r5PDT8iqSGSGg%3D%3D) | 2026-04-23 |
