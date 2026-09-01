@@ -1,11 +1,17 @@
 # Spring 2026 Tech Internship Opportunities
 
-*Last updated: 2026-08-31*
+*Last updated: 2026-09-01*
 
 This README is automatically updated daily with new Spring 2026 tech internship postings using GitHub Actions.
 
 | Company | Role | Location | Application | Date Posted |
 |---------|------|----------|-------------|------------|
+| The Church of Jesus Christ of Latter-day Saints | 2026 Mobile Software Engineer Technical Intern (Jan and May 2027 hires) | Riverton, UT | [Apply](https://www.linkedin.com/jobs/view/2026-mobile-software-engineer-technical-intern-jan-and-may-2027-hires-at-the-church-of-jesus-christ-of-latter-day-saints-4460242510?position=3&pageNum=0&refId=bU009HyQQMYfIWAF%2BtEe5A%3D%3D&trackingId=Iv35MbH7aOSyLhwYlhnBUQ%3D%3D) | 2026-09-01 |
+| The Church of Jesus Christ of Latter-day Saints | 2026 Software Engineer Technical Intern (Jan and May 2027 hires) | Riverton, UT | [Apply](https://www.linkedin.com/jobs/view/2026-software-engineer-technical-intern-jan-and-may-2027-hires-at-the-church-of-jesus-christ-of-latter-day-saints-4460244469?position=20&pageNum=0&refId=bU009HyQQMYfIWAF%2BtEe5A%3D%3D&trackingId=4cdyI0rCGaHksQOaRjyXPw%3D%3D) | 2026-09-01 |
+| Amtrak | Fall 2026/Spring 2027 - Software Engineering Intern - 90413037 - Washington | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/fall-2026-spring-2027-software-engineering-intern-90413037-washington-at-amtrak-4459248830?position=32&pageNum=0&refId=bU009HyQQMYfIWAF%2BtEe5A%3D%3D&trackingId=cqldj9kwxqpskI0tlSnSBQ%3D%3D) | 2026-09-01 |
+| Amtrak | Fall 2026/Spring 2027 - Software Engineering Intern - 90413041 - Washington | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/fall-2026-spring-2027-software-engineering-intern-90413041-washington-at-amtrak-4459262103?position=28&pageNum=0&refId=sugu%2FbUz%2BtfzWQ94DbooWA%3D%3D&trackingId=Jg645fMBBwk1u15JgBEtPw%3D%3D) | 2026-09-01 |
+| Amtrak | Fall 2026/Spring 2027 - IT and Ops Engineering Intern - 90413021 - Philadelphia | Philadelphia, PA | [Apply](https://www.linkedin.com/jobs/view/fall-2026-spring-2027-it-and-ops-engineering-intern-90413021-philadelphia-at-amtrak-4459243990?position=2&pageNum=0&refId=8zq9QaoGu%2FWUWlVuDyNzeA%3D%3D&trackingId=PjJS0NChp94SiYe9kFKl%2BA%3D%3D) | 2026-09-01 |
+| The Church of Jesus Christ of Latter-day Saints | 2026 Web Development Technical Intern (Jan and May 2027 hires) | Riverton, UT | [Apply](https://www.linkedin.com/jobs/view/2026-web-development-technical-intern-jan-and-may-2027-hires-at-the-church-of-jesus-christ-of-latter-day-saints-4460256335?position=8&pageNum=0&refId=mBYWgMMIjrJmzwAOgokiQg%3D%3D&trackingId=KNgg5kQ6S8coDuRO3H0xzA%3D%3D) | 2026-09-01 |
 | Amtrak | Fall 2026/Spring 2027 - Software Engineering Intern - 90413045 - Washington | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/fall-2026-spring-2027-software-engineering-intern-90413045-washington-at-amtrak-4459234066?position=25&pageNum=0&refId=fjsqsIbHXSWlOgswS0iOlg%3D%3D&trackingId=dx96%2FgmBsQqU7TI29kLYhA%3D%3D) | 2026-08-31 |
 | Amtrak | Fall 2026/Spring 2027 - Software Engineering Intern - 90413033 - Washington | Washington, DC | [Apply](https://www.linkedin.com/jobs/view/fall-2026-spring-2027-software-engineering-intern-90413033-washington-at-amtrak-4459227107?position=44&pageNum=0&refId=fjsqsIbHXSWlOgswS0iOlg%3D%3D&trackingId=%2FIbnYwcthvIjoBlhXwmLkw%3D%3D) | 2026-08-31 |
 | WGI | Intern - Geospatial AI Spring 2026 | Huntsville, AL | [Apply](https://www.linkedin.com/jobs/view/intern-geospatial-ai-spring-2026-at-wgi-4413343618?position=12&pageNum=0&refId=dX5SQhHoh%2B%2BRPRgpRsHPHQ%3D%3D&trackingId=oh2vstfx6l%2Bvgtv%2FtI%2BZww%3D%3D) | 2026-05-20 |
